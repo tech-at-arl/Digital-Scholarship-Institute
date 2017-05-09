@@ -29,16 +29,16 @@ Both groups will start Day 1 together with welcoming remarks, a keynote address 
 Days 2–4 will be spent in the cohort groups, with each group spending a half-day on each of the following topics:
 
 Day 2
-* Digital Recovery: Archives & Exhibitions with Omeka
-* Multimodal Online Publishing with Scalar
+* [Digital Recovery: Archives & Exhibitions with Omeka](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Digital%20Recovery)
+* [Multimodal Online Publishing with Scalar] (https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Multimodal%20Online%20Publishing%20with%20Scalar)
 
 Day 3
-* Geospatial and Temporal Mapping with CartoDB
-* Information Visualization
+* [Geospatial and Temporal Mapping with CartoDB](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Geospatial%20and%20Temporal%20Mapping%20with%20CartoDB)
+* [Information Visualization](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Information%20Visualization)
 
 Day 4
-* Text Analysis: Concordances, Word Trends, & Word Clouds with Voyant Tools
-* Scholarly Editions: Text Encoding and Publishing with TEI
+* [Text Analysis: Concordances, Word Trends, & Word Clouds with Voyant Tools](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Text%20Analysis)
+* [Scholarly Editions: Text Encoding and Publishing with TEI](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Scholarly%20Editions)
 
 Day 5 will wrap up with "Digital Scholarship Consultations and Pedagogy," a debrief session, and some post-institute planning for continued online meetups. 
 
