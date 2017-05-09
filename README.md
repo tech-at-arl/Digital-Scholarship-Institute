@@ -30,7 +30,7 @@ Days 2–4 will be spent in the cohort groups, with each group spending a half-d
 
 Day 2
 * [Digital Recovery: Archives & Exhibitions with Omeka](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Digital%20Recovery)
-* [Multimodal Online Publishing with Scalar] (https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Multimodal%20Online%20Publishing%20with%20Scalar)
+* [Multimodal Online Publishing with Scalar](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Multimodal%20Online%20Publishing%20with%20Scalar)
 
 Day 3
 * [Geospatial and Temporal Mapping with CartoDB](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Geospatial%20and%20Temporal%20Mapping%20with%20CartoDB)
