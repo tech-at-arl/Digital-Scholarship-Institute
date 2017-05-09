@@ -6,8 +6,6 @@ The ARL Digital Scholarship Institute (DSI), an exciting new initiative of the A
 
 The first iteration of the ARL Digital Scholarship Institute will take place June 5–9, 2017, at the Connors Center in Dover, Massachusetts, and is hosted by the Boston College Libraries. The ARL Digital Scholarship Institute is co-sponsored by the following institutions: Boston College Libraries; the University Library, University of Illinois at Urbana-Champaign; Indiana University Libraries; River Campus Libraries, the University of Rochester; and UC San Diego Libraries.
 
-In this first instance of the institute, preference will be given to staff at ARL member libraries. The cost of the institute is $1,500, excluding travel and accommodations.
-
 ### Learning Goals
 The learning goals set forth by the Association of Research Libraries (ARL) Digital Scholarship Institute are meant to uphold the overarching goal of the ARL Academy, which has been created to “foster the development of an agile, diverse and highly-motivated workforce as well as the inspiring leadership necessary to meet present and future challenges.”
 
