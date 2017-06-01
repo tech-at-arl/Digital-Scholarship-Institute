@@ -1,4 +1,6 @@
-## **Exercise 2 - Review and normalize data (20 - 30 minutes)**
+# **Exercise 2**
+
+## **Review and normalize data (20 - 30 minutes)**
 
 Any data visualization requires clean, normalized data. Let's review the **Landmarks** dataset to see which data points need cleaning or normalization. Find a partner and work together.
 
