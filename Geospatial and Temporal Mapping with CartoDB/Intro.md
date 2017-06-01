@@ -16,7 +16,8 @@ We will look at several examples of geospatial visualizations to demonstrate and
 
 * What are points, lines, polygons, layers?
 * What are common formats for GIS data?
-* Why would you use points vs. polygons in a map? What kind of data can you visualize?
+* Why would you use points vs. polygons in a map? 
+* What kind of data can you visualize?
 
 Examples of geospatial visualizations:
 
