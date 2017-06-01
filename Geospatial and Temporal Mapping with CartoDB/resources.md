@@ -14,7 +14,7 @@ These are resources about geospatial visualization, spatial humanities, tutorial
 
 Gregory, I.N. and Patricia Murrieta-Flores, "Geographical Information Systems as a Tool for Exploring the Spatial Humanities." In *[doing digital humanities: practice, training, research](https://bc.on.worldcat.org/oclc/948805280),* edited by Constance Crompton, Richard J. Lane, Ray Siemens. (New York, NY:Routledge, 2016): 177-192.
 
-Gregory, Ian. "From Historical GIS to Spatial Humanities: An evolving literature." In *[Toward Spatial Humanities: Historical GIS and spatial history](https://bc.on.worldcat.org/oclc/830946950)*, edited by I.N. Gregory and A. Geddes (Bloomington, IN: Indiana University Press, 2014): 186-202.
+Gregory, I.N. "From Historical GIS to Spatial Humanities: An evolving literature." In *[Toward Spatial Humanities: Historical GIS and spatial history](https://bc.on.worldcat.org/oclc/830946950)*, edited by I.N. Gregory and A. Geddes (Bloomington, IN: Indiana University Press, 2014): 186-202.
 
 Wikipedia contributors, "[Geographic information system](https://en.wikipedia.org/w/index.php?title=Geographic_information_system&oldid=781825284)," *Wikipedia, The Free Encyclopedia,* (accessed May 31, 2017).
 
