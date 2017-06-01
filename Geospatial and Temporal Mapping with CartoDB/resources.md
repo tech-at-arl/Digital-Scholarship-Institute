@@ -1,6 +1,6 @@
 # **Resources**
 
-Resources about geospatial visualization, spatial humanities, tutorials, and GIS data sources. Check your own library libguides for additional GIS data, maps, and resources. Your library may also subscribe to databases and datasets that can be used in geospatial work.
+These are resources about geospatial visualization, spatial humanities, tutorials, and GIS data sources. Check your own library libguides for additional GIS data, maps, and resources. Your library may also subscribe to databases and datasets that can be used in geospatial work.
 
 ## **Select Tutorials & Readings**
 
