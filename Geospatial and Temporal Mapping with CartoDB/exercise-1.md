@@ -1,5 +1,3 @@
-# **Lesson**
-
 ## **Exercise 1 - Create a basic map with points (30 - 40 minutes)**
 
 This first exercise will be demonstrated by the instructor, step by step, and then participants will attempt to visualize this dataset and explore the Carto UI.
