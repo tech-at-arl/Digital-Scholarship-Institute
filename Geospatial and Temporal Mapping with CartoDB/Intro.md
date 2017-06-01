@@ -1,5 +1,3 @@
-**Geospatial and Temporal Mapping with Carto**
-
 # **Introduction**
 This document presents an overview of the lesson, which includes a discussion of mapping basics through visualization examples, a visualization task, datasets for the lesson, and the goals and learning outcomes.
 
