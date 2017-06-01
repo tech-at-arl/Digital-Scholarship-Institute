@@ -18,7 +18,7 @@ We will look at several examples of geospatial visualizations to demonstrate and
 * What are common formats for GIS data?
 * Why would you use points vs. polygons in a map? What kind of data can you visualize?
 
-Examples of geospatial visualizations.
+Examples of geospatial visualizations:
 
 * [Musical Map - Cities of the World ](https://eliotvb.carto.com/viz/971d1556-0959-11e5-b1a4-0e9d821ea90d/embed_map)
 
