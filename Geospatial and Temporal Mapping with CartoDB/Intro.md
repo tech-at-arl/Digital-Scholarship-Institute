@@ -8,7 +8,7 @@ The lesson will consist of four hands-on exercises:
 * [Exercise 3](exercise-3.md): Create layers and add polygons to your map
 * [Exercise 4](exercise-4.md): Use Widgets and Analysis Tools
 
-* A [resources document](resources.md) is also included with select readings, tutorials, datasets, and additional resources.
+A [resources document](resources.md) is also included with select readings, tutorials, datasets, and additional resources.
 
 # **Mapping Basics**
 
