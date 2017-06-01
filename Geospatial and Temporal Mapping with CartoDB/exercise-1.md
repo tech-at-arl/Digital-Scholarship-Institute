@@ -4,7 +4,7 @@
 
 This first exercise will be demonstrated by the instructor, step by step, and then participants will attempt to visualize this dataset and explore the Carto UI.
 
-1. Login to the Carto dashboard
+1. Login to the [Carto](carto.com) dashboard
    * Find "Your datasets" where you will upload new datasets.
    * Find "Your maps" where you will be able to see your published maps.
 
