@@ -1,4 +1,6 @@
-## **Exercise 3 - Create layers and add polygons to your map (40 minutes)**
+# **Exercise 3** 
+
+## **Create layers and add polygons to your map (40 minutes)**
 
 Working with your partner - we will now look at how to create layers and create polygons. We will discuss the difference between points and polygons, how layers work, what is possible when you have layers, etc.
 
