@@ -3,13 +3,12 @@ This document presents an overview of the lesson, which includes a discussion of
 
 The lesson will consist of four hands-on exercises:
 
-* Exercise 1: Create a basic map with points
-* Exercise 2: Review and normalize data
-* Exercise 3: Create layers and add polygons to your map
-* Exercise 4: Use Widgets and Analysis Tools
+* [Exercise 1](exercise-1.md): Create a basic map with points
+* [Exercise 2](exercise-2.md): Review and normalize data
+* [Exercise 3](exercise-3.md): Create layers and add polygons to your map
+* [Exercise 4](exercise-4.md): Use Widgets and Analysis Tools
 
-A resources document is also included with select readings, tutorials, datasets, and additional resources.
-
+* A [resources document](resources.md) is also included with select readings, tutorials, datasets, and additional resources.
 
 # **Mapping Basics**
 
