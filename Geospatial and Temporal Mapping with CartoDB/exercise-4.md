@@ -1,4 +1,6 @@
-## **Exercise 4 - Use Widgets and Analysis Tools (20-30 minutes)**
+# **Exercise 4**
+
+## **Use Widgets and Analysis Tools (20-30 minutes)**
 
 1.  **Widgets**
 
