@@ -21,10 +21,10 @@
 - [Library of Congress Name Authority File (LCNAF)](http://id.loc.gov/authorities/names.html)
 - [Union List of Artist Names (ULAN)](https://www.getty.edu/research/tools/vocabularies/ulan/index.html)
 - [Virtual International Authority File (VIAF)](https://viaf.org)
-- [international standard for date and time formats](https://www.iso.org/iso-8601-date-and-time-format.html)
+- [International standard for date and time formats](https://www.iso.org/iso-8601-date-and-time-format.html)
 - [W3C note on date and time formats](https://www.w3.org/TR/NOTE-datetime)
 - [Creative Commons licenses](https://creativecommons.org/licenses)
-- Statements from [RightsStatements.org](http://rightsstatements.org/en).
+- [RightsStatements.org](http://rightsstatements.org/en).
 - [Library of Congress Subject Headings (LCSH)](http://id.loc.gov/authorities/subjects.html)
 - [Thesaurus for Graphic Materials (TGM)](http://id.loc.gov/vocabulary/graphicMaterials.html)
 - [Art & Architecture Thesaurus (AAT)](http://www.getty.edu/research/tools/vocabularies/aat)
