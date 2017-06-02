@@ -1,4 +1,6 @@
-# Instructions
+# Exercise 2: Describe sample exhibit items and arrange into themes
+
+## Instructions
 
 Workshop facilitators will pass out sample items printed on handouts.
 
@@ -8,7 +10,7 @@ In small groups participants will arrange their cards into possible thematic gro
 
 Small groups will share out with all workshop participants.
 
-# What do these metadata fields mean?!
+## What do these metadata fields mean?!
 
 Out of the box, Omeka uses Dublin Core elements as metadata fields, one of the sets of [Dublin Core terms](http://www.dublincore.org/documents/dcmi-terms). We have provided some guidance on what these fields mean below. For a deeper dive, consult [Working with Dublin Core in Omeka](https://omeka.org/codex/Working_with_Dublin_Core) and [Using the Dublin Core Elements](http://dublincore.org/documents/usageguide/elements.shtml).
 
