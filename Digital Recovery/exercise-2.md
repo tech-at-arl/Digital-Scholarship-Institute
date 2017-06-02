@@ -1,4 +1,4 @@
-# Exercise 2: Describe sample exhibit items and arrange into themes
+# Exercise 2: Describe items and arrange into themes
 
 ## Instructions
 
