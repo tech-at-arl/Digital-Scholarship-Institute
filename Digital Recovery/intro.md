@@ -2,7 +2,7 @@
 
 This document presents an overview of the workshop, which includes both lecture and hands-on exercises.
 
-# Learning Goals
+## Learning Goals
 
 Participants will:
 
@@ -11,7 +11,7 @@ Participants will:
 - Understand the building blocks of an Omeka project
 - Build their confidence & self-efficacy as collaborators on Omeka projects
 
-# Workshop Outline
+## Workshop Outline
 
 The workshop will consist of four hands-on exercises:
 
@@ -20,6 +20,6 @@ The workshop will consist of four hands-on exercises:
 - [Exercise 3](Digital-Scholarship-Institute/Digital Recovery/Exercise 3: Create item, collection, exhibit in Omeka): Create item, collection, exhibit in Omeka
 - [Exercise 4](Digital-Scholarship-Institute/Digital Recovery/Exercise 4: Discuss collaborative roles of Omeka projects): Discuss collaborative roles of Omeka projects
 
-# Resources
+## Resources
 
 A [resources document](Digital-Scholarship-Institute/Digital Recovery/Resources) includes select readings, tutorials, and example Omeka projects.
