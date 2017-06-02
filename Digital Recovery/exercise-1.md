@@ -1,6 +1,6 @@
 # Exercise 1: Critique an existing Omeka project.md
 
-Form pairs, select an existing project, explore it together, and discuss the questions below. Then we will ask each pair to summarize their critique for the class.
+Form pairs, select an Omeka project, explore it together, and discuss the questions below. Then we will ask each pair to summarize their critique for the class.
 
 ## Discussion Questions
 
