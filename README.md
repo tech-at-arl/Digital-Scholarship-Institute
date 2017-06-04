@@ -31,7 +31,7 @@ Day 2
 * [Multimodal Online Publishing with Scalar](Multimodal%20Online%20Publishing%20with%20Scalar)
 
 Day 3
-* [Geospatial and Temporal Mapping with CartoDB](Geospatial%20and%20Temporal%20Mapping%20with%20CartoDB)
+* [Geospatial and Temporal Mapping with CartoDB](Geospatial%20and%20Temporal%20Mapping%20with%20Carto)
 * [Information Visualization](Information%20Visualization)
 
 Day 4
