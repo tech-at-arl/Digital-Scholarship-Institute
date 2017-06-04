@@ -28,15 +28,15 @@ Days 2–4 will be spent in the cohort groups, with each group spending a half-d
 
 Day 2
 * [Archives & Exhibitions with Omeka](Archives%20and%20Exhibitions)
-* [Multimodal Online Publishing with Scalar](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Multimodal%20Online%20Publishing%20with%20Scalar)
+* [Multimodal Online Publishing with Scalar](Multimodal%20Online%20Publishing%20with%20Scalar)
 
 Day 3
-* [Geospatial and Temporal Mapping with CartoDB](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Geospatial%20and%20Temporal%20Mapping%20with%20CartoDB)
-* [Information Visualization](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Information%20Visualization)
+* [Geospatial and Temporal Mapping with CartoDB](Geospatial%20and%20Temporal%20Mapping%20with%20CartoDB)
+* [Information Visualization](Information%20Visualization)
 
 Day 4
-* [Text Analysis: Concordances, Word Trends, & Word Clouds with Voyant Tools](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Text%20Analysis)
-* [Scholarly Editions: Text Encoding and Publishing with TEI](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Scholarly%20Editions)
+* [Text Analysis: Concordances, Word Trends, & Word Clouds with Voyant Tools](Text%20Analysis)
+* [Scholarly Editions: Text Encoding and Publishing with TEI](Scholarly%20Editions)
 
 Day 5 will wrap up with "Digital Scholarship Consultations and Pedagogy," a debrief session, and some post-institute planning for continued online meetups. 
 
