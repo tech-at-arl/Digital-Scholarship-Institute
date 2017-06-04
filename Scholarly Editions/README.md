@@ -1,4 +1,4 @@
-# Scholarly Editions Workshop for the ARL Digital Scholarship Institute  
+# Scholarly Editions: TEI Text Encoding and Publishing 
 
 ## Prep Before the Workshop
 
@@ -21,76 +21,19 @@
 ## Workshop Materials
 
 * [Presentation Slides](https://iu.box.com/s/bvbdsjqmx4cdcip320upvzp0i44ykth9) (PDF)
+* [Activity 1](activity1.md): Assess 3 example digital edition sites.
+* [Activity 2](activity2.md): Conduct document analysis.
+* [Activity 3](activity3.md): Encode following the TEI Guidelines.
+* [Activity 4](activity4.md): Publish with TEI Boilerplate; compare publishing platforms. 
+* [Activity 5](activity5.md): Publish with TEI Boilerplate; optional exercise that can be completed post-workshop. 
 
-### Activity 1 
-* Part 1: In groups, observe how the markup impacts the interface and functionality of each site; determine approaches to digital edition-making 
+## Learning Goals 
 
-  * Chymistry of Isaac Newton: http://chymistry.org
-     * Search for “Idea of a table booke” ms.
-  * Victorian Women Writers Project: http://www.dlib.indiana.edu/collections/vwwp
-    * Search for *Jackanapes and the Brownies*.
-  * Indiana Authors and Their Books: http://www.dlib.indiana.edu/collections/inauthors
-    * Search for James Whitcomb Riley. 
-* Part 2: Re-convene as a whole and discuss observations and findings 
-
-### Activity 2 
-* Part 1: Conduct document analysis on the the excerpt of *Jackanapes and the Brownies*; **annotate the handout**. 
-  * [Page 1 of handout](https://github.com/mdalmau/tei-workshop-arl/blob/master/activity2_jackanapes_VAB6984_docanalysis.pdf) contains sample questions to aid in document analysis.
-* Part 2: Discuss observations and findings 
-
-### Activity 3 
-* Encode 2 pages from *Jackanapes and the Brownies* 
-
-  1. [Open PDF of Chapter 1 excerpt](https://github.com/mdalmau/tei-workshop-arl/blob/master/activity3_jackanapes_VAB6984_encoding.pdf) for copying and pasting text  
-  2. Launch Oxygen XML Editor 
-  3. File => New => TEI P5 
-  4. Select All [TEI P5]
-  5. Save file to your Desktop; name file: **jackanapes.xml**
-     * (Brief review Oxygen XML Editor and the TEI Schema)
-  6. Begin encoding *all together;* Michelle will walkthrough the encoding with the class
-
-As back-up, you can download a TEI template to open in Oxygen for encoding:
-* https://iu.box.com/s/ex2uruwr9iqc6bhbc6rm4lsx382i43r8 (activity3_template.xml) 
-
-Finished encoded sample (for your review):
-* https://iu.box.com/s/x43vanahil9ok4b3h89ohpmf0dmehsr0 (activity3_jackanapes_VAB6984.xml)
-
-### Activity 4 
-* Part 1: Publish 2 pages encoded from *Jackanapes and the Brownies* 
-
-  1. Download TEI Boilerplate: https://github.com/GrantLS/TEI-Boilerplate
-     * Click on the green "Clone or download" button
-     * Select "Download Zip"
-  2. Go to your Downloads folder and move "TEI-Boilerplate-master" folder to your Desktop
-  3. Download https://iu.box.com/s/ltcely2cekam4rmtz09obff6glpx1e9b (activity4_jackanapes_VAB6984.xml)
-  4. Save **activity4_jackanapes_VAB6984.xml** to "TEI-Boilerplate-master/dist/content" folder
-  7. Launch Firefox, Internet Explorer or Safari
-  8. File => Open => and navigate to Desktop to the "TEI-Boilerplate-master/dist/content" folder
-  9. Select **activity4_jackanapes_VAB6984.xml**
-  10. Ta-da! You have "published" a TEI/XML file using TEI Boilerplate! 
-    
-* Part 2: Discussion: Compare two online publications of the same text 
-  * *Jackanapes and the Brownies,* encoded and rendered in TEI Boilerplate
-  * Open a NEW Browser Window to see *Jackanapes and the Brownies* from VWWP: http://purl.dlib.indiana.edu/iudl/vwwp/VAB6984
-
-### Activity 5 (On Your Own)
-
-* Part 1: Publish 2 pages **you** encoded from *Jackanapes and the Brownies* 
-*You might need to finish encoding **jackanapes.xml** from Activity 3. The file needs to be valid (green box in Oxygen). 
-
-  1. Download TEI Boilerplate: https://github.com/GrantLS/TEI-Boilerplate
-     * Click on the green "Clone or download" button
-     * Select "Download Zip"
-  2. Go to your Downloads folder and move "TEI-Boilerplate-master" folder to your Desktop
-  3. Launch Oxygen XML Editor
-  4. File => Open => **jackanapes.xml** (on your Desktop)
-  5. Copy and paste the following after ```<?xml version="1.0" encoding="UTF-8"?>```:
-     * ```<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>```
-  6. File => Save As and navigate to Desktop to the "TEI-Boilerplate-master/dist/content" folder
-  7. Launch Firefox, Internet Explorer or Safari
-  8. File => Open => and navigate to Desktop to the "TEI-Boilerplate-master/dist/content" folder
-  9. Select **jackanapes.xml**
-  10. Ta-da! You have "published" the TEI encoding you completed in Activity 3!!
+Participants will:
+* understand use cases for text encoding; recognize why libraries are especially well-situated to support text encoding
+* gain familiarity with the XML and TEI; learn about core TEI features (i.e., basics of TEI encoding)
+* review the workflow for TEI-encoding; learn about the various stages with special emphasis on the importance of document analysis
+* explore publishing options for TEI-encoded documents; identify pros and cons for each
 
 ## Reference & Training Resources
 
@@ -102,7 +45,7 @@ Finished encoded sample (for your review):
 ### TEI
 * [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
 * [TEI-L Mailing List](https://listserv.brown.edu/archives/cgi-bin/wa?SUBED1=tei-l&A=1)
-* [Best Practices for TEI in Libraries] (http://purl.org/TEI/teiinlibraries): a guide for mass digitization, automated workflows, and promotion of interoperability with XML using the TEI
+* [Best Practices for TEI in Libraries](http://purl.org/TEI/teiinlibraries): a guide for mass digitization, automated workflows, and promotion of interoperability with XML using the TEI
 * [Women Writers Project (WWP) Training Resources](https://www.wwp.northeastern.edu/outreach/resources/index.html)
 * [TEI by Example](http://teibyexample.org/)
 * [TEI Boilerplate Workshop and Sample Exercises](http://dcl.slis.indiana.edu/teibpws/)
@@ -110,9 +53,12 @@ Finished encoded sample (for your review):
 ### Document Analysis 
 * [WWP Document Analysis Worksheet](https://www.wwp.northeastern.edu/outreach/seminars/_current/handouts/document_analysis.xhtml)
 
+### Sample Project-specific TEI Encoding Guidelines
+* [Victorian Women Writers Project Encoding Guidelines](https://wiki.dlib.indiana.edu/x/HQDIBg)
+* [Walt Whitman Archive Encoding Guidelines](http://whitmanarchive.org/mediawiki/index.php/Whitman_Encoding_Guidelines)
+
 ## Contact
 * Michelle Dalmau, Head of Digital Collections Services, Indiana University Bloomington Libraries
 * Email: mdalmau@indiana.edu
 * Twitter: @mdalmau
-
 
