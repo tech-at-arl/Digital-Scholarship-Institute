@@ -12,7 +12,7 @@ As you work independently, let us know how you're doing by flagging your laptop 
 - :question: **Pink**. We're stumped.
 - :100: **Blue**. I'm finished!
 
-If you get stuck, first ask a fellow workshop participant how they worked through the roadblock you're encountering. If you're still stumped, flag your laptop with the pink sticky. Help is on its way!
+If you get stuck, first ask a fellow workshop participant how they worked through the roadblock you're encountering. Still stumped? Flag your laptop with the pink sticky. Help is on its way!
 
 ## Credit Where Credit Is Due
 
