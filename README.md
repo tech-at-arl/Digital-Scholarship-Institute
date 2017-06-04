@@ -31,7 +31,7 @@ Day 2
 * [Multimodal Online Publishing with Scalar](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Multimodal%20Online%20Publishing%20with%20Scalar)
 
 Day 3
-* [Geospatial and Temporal Mapping with CartoDB](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Geospatial%20and%20Temporal%20Mapping%20with%20CartoDB)
+* [Geospatial and Temporal Mapping with Carto](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Geospatial%20and%20Temporal%20Mapping%20with%20Carto)
 * [Information Visualization](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Information%20Visualization)
 
 Day 4
