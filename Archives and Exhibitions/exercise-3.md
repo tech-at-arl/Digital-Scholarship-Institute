@@ -8,8 +8,8 @@ Now that you've described and arranged items in an analog format in Exercise 2, 
 
 As you work independently, let us know how you're doing by flagging your laptop using the sticky notes provided:
 
-- 🆒 **Green**. It's going great!
-- ❓ **Pink**. We're stumped.
-- 💯 **Blue**. I'm finished!
+- :cool: **Green**. It's going great!
+- :question: **Pink**. We're stumped.
+- :100: **Blue**. I'm finished!
 
 If you get stuck, first ask a fellow workshop participant how they worked through the roadblock you're encountering. If you're still stumped, flag your laptop with the pink sticky. Help is on its way!
