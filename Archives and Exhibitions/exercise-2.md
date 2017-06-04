@@ -31,3 +31,7 @@ Out of the box, Omeka uses Dublin Core elements as metadata fields, one of the s
 | dc.type | Nature or genre of the item. | Use a controlled vocabulary such as the [DCMI Type Vocabulary](http://dublincore.org/documents/dcmi-terms/#H7). |
 | dc.language | A language of the item. | Use a controlled vocabulary such as [RFC 5646: Tags for Identifying Languages](http://www.rfc-editor.org/rfc/rfc5646.txt). According to this specification English as used in the United States would en-US. Otherwise, just be consistent! |
 | dc.identifier | An unambiguous reference to the item. | E.g. file name or URI. |
+
+## Rights
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed by creators Chelcie Juliet Rowell and Sarah Melton under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
