@@ -2,13 +2,13 @@
 
 ## Instructions
 
-Workshop facilitators will pass out sample items printed on handouts.
+1. Workshop facilitators will pass out sample items printed on handouts.
 
-Participants will individually describe 1 or 2 items by filling out metadata fields (e.g. title, subject) printed on the handout.
+2. Then you will individually describe 1 or 2 items by filling out metadata fields (e.g. title, subject) printed on the handout. Reference
 
-In small groups participants will arrange their cards into possible thematic groups.
+3. In small groups of ~5, arrange cards into possible thematic groups.
 
-Small groups will share out with all workshop participants.
+4. In small groups, share questions and exhibit design decisions with all workshop participants.
 
 ## What do these metadata fields mean?!
 
