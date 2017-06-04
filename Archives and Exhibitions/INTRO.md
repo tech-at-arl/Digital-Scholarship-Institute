@@ -15,11 +15,11 @@ Participants will:
 
 The workshop will consist of four hands-on exercises:
 
-- [Exercise 1](./Archives%20and%20Exhibitions/exercise-1.md): Critique an existing Omeka project
-- [Exercise 2](./Archives%20and%20Exhibitions/exercise-2.md): Describe sample exhibit items and arrange into themes
-- [Exercise 3](./Archives%20and%20Exhibitions/exercise-3.md): Create item, collection, exhibit in Omeka
-- [Exercise 4](./Archives%20and%20Exhibitions/exercise-4.md): Discuss collaborative roles of Omeka projects
+- [Exercise 1](exercise-1.md): Critique an existing Omeka project
+- [Exercise 2](exercise-2.md): Describe sample exhibit items and arrange into themes
+- [Exercise 3](exercise-3.md): Create item, collection, exhibit in Omeka
+- [Exercise 4](exercise-4.md): Discuss collaborative roles of Omeka projects
 
 ## Resources
 
-A [resources document](./Archives%20and%20Exhibitions/resources.md) includes select readings, tutorials, and example Omeka projects.
+A [resources document](resources.md) includes select readings, tutorials, and example Omeka projects.
