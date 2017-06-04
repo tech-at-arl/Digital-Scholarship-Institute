@@ -4,18 +4,20 @@ Repository for course materials and related resources for the ARL Digital Schola
 ## Preparing for the Workshops
 Please **create accounts and install required software** before workshops (see schedule below).
 
+* Archives and Exhibitions with Omeka
+  * Create an [Omeka.net account](https://www.omeka.net/signup) (free plan).
+  * Email chelcie.rowell@bc.edu and sarah.melton@bc.edu **by June 5** to let us know what email address is associated with your Omeka.net account.
 * Geospatial and Temporal Mapping with Carto
-  * Setup up a Carto account (free plan): https://carto.com/signup
+  * Create a [Carto account](https://carto.com/signup) (free plan).
 * Scholarly Editions: TEI Encoding and Publishing
-  * Download and install Oxygen XML Editor
-    * http://www.oxygenxml.com/download.html
-    * Windows users, download the 32-bit application
-    * See email sent by mdalmau@indiana.edu on May 27, 2017 for the License Key
-    * If you need help installing Oxygen, email Michelle so that we can install at the Connors Center before June 8th.
+  * Download and install [Oxygen XML Editor](http://www.oxygenxml.com/download.html).
+    * Windows users, download the 32-bit application.
+    * See email sent by mdalmau@indiana.edu on May 27, 2017 for the License Key.
+    * If you need help installing Oxygen, email Michelle so that we can install at the Connors Center before June 8.
   * Required Browsers
     * Firefox
-	  * Internet Explorer
-	  * Safari
+    * Internet Explorer
+    * Safari
 
 ## The Curriculum
 The DSI curriculum will be structured around two cohort groups.
