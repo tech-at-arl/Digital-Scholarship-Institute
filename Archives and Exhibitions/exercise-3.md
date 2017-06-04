@@ -17,3 +17,7 @@ If you get stuck, first ask a fellow workshop participant how they worked throug
 ## Credit Where Credit Is Due
 
 Self-guided activities are drawn from [Omeka Sugar: Tutorials for Digital Exhibits](https://jaguillette.github.io/omekaSugar) created by [Jeremy Guillette](https://history.fas.harvard.edu/people/jeremy-guillette), Digital Scholarship Facilitator for the History Department at Harvard University.
+
+## Rights
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed by creators Chelcie Juliet Rowell and Sarah Melton under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
