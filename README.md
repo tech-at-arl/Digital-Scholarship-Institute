@@ -27,7 +27,7 @@ Both groups will start Day 1 together with welcoming remarks, a keynote address 
 Days 2–4 will be spent in the cohort groups, with each group spending a half-day on each of the following topics:
 
 Day 2
-* [Digital Recovery: Archives & Exhibitions with Omeka](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Digital%20Recovery)
+* [Archives & Exhibitions with Omeka](./Archives%20and%20Exhibitions/INTRO.md)
 * [Multimodal Online Publishing with Scalar](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Multimodal%20Online%20Publishing%20with%20Scalar)
 
 Day 3
