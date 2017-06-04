@@ -14,6 +14,6 @@ As you work independently, let us know how you're doing by flagging your laptop 
 
 If you get stuck, first ask a fellow workshop participant how they worked through the roadblock you're encountering. If you're still stumped, flag your laptop with the pink sticky. Help is on its way!
 
-# Credit Where Credit Is Due
+## Credit Where Credit Is Due
 
 Self-guided activities are drawn from [Omeka Sugar: Tutorials for Digital Exhibits](https://jaguillette.github.io/omekaSugar) created by [Jeremy Guillette](https://history.fas.harvard.edu/people/jeremy-guillette), Digital Scholarship Facilitator for the History Department at Harvard University.
