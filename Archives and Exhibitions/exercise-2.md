@@ -4,7 +4,7 @@
 
 1. Workshop facilitators will pass out sample items printed on handouts.
 
-2. Then you will individually describe 1 or 2 items by filling out metadata fields (e.g. title, subject) printed on the handout. Reference
+2. Then you will individually describe 1–2 items by filling out metadata fields (e.g. title, subject) printed on the handout. Reference the [spreadsheet of sample collection items](https://docs.google.com/spreadsheets/d/1UPg8tbS3cpTgDvEJ6lGOPQawPZnXMW0YEYgtJYfY850/edit?usp=sharing) in order to locate a clickable URL for each image, from which you can glean clues for the description of your item.
 
 3. In small groups of ~5, arrange cards into possible thematic groups.
 
