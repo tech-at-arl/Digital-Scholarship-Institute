@@ -1,6 +1,6 @@
 # Exercise 3: Create item, collection, exhibit in Omeka
 
-Now that you've described and arranged items in an analog format in Exercise 2, let's perform those same activities in Omeka's digital environment. Sign into your [Omeka.net](http://www.omeka.net) account and work through these self-guided:
+Now that you've described and arranged items in an analog format in Exercise 2, let's perform those same activities in Omeka's digital environment. Sign into your [Omeka.net](http://www.omeka.net) account and work through these self-guided activities:
 
 1. [Add a New Item](https://jaguillette.github.io/omekaSugar/tutorial/items/2016/09/02/add-an-item.html)
 2. [Add a New Collection](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/add-a-collection.html)
