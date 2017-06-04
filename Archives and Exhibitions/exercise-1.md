@@ -19,3 +19,7 @@ Form pairs, select an Omeka project, explore it together, and discuss the questi
 ## Credit Where Credit Is Due
 
 Adapted from Shannon Christine Mattern, [Evaluating Multimodal Work, Revisited](http://journalofdigitalhumanities.org/1-4/evaluating-multimodal-work-revisited-by-shannon-mattern), Journal of Digital Humanities, 1, no. 4 (2012).
+
+## Rights
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed by creators Chelcie Juliet Rowell and Sarah Melton under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
