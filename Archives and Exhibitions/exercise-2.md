@@ -8,7 +8,7 @@
 
 3. In small groups of ~5, arrange cards into possible thematic groups.
 
-4. In small groups, share questions and exhibit design decisions with all workshop participants.
+4. A representative of each small group will share design decisions made while describing and arranging, as well as any outstanding questions, with all workshop participants.
 
 ## What do these metadata fields mean?!
 
