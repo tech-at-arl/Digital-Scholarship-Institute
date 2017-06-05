@@ -40,7 +40,7 @@ Form pairs, select an Omeka project, explore it together, and discuss the questi
 
 5. Does this Omeka project provide **attribution**? Does it credit sources where appropriate, and, if possible, link out to those sources? Does it acknowledge precedents and sources of inspiration?
 
-A [discussion questions handout](docs/exercise-1.pdf) [PDF] is also available.
+A [handout of these discussion questions](docs/exercise-1.pdf) [PDF] is also available.
 
 ## Credit Where Credit Is Due
 
