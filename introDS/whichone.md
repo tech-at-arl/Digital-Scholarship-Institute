@@ -1,8 +1,10 @@
 # Which one is digital scholarship?
 1 | Digital Library on American Slavery
+
 https://library.uncg.edu/slavery/
 
 2 | Unknown No Longer
+
 http://unknownnolonger.vahistorical.org/
 
 3 |  Slavery Database
