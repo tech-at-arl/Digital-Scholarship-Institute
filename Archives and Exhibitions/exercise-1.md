@@ -2,6 +2,32 @@
 
 Form pairs, select an Omeka project, explore it together, and discuss the questions below. Then we will ask each pair to summarize their critique for the class.
 
+## Omeka Projects
+
+### Digital Exhibitions
+
+- [American Empire](https://dp.la/exhibitions/exhibits/show/american-empire) (DPLA)
+- [A History of US Public Libraries](https://dp.la/exhibitions/exhibits/show/history-us-public-libraries) (DPLA)
+- [Explore Big: Montana's Historic Places](http://explorebig.org) (Montana Historical Society)
+
+### Thematic Digital Collections
+
+- [The Séamus Connolly Collection of Irish Music](https://connollymusiccollection.bc.edu) (Boston College Libraries)
+- [Digital Collections](http://omeka.library.appstate.edu) (Appalachian State University)
+
+### Course-Based Digital Projects
+
+- [Digital Watts](http://watts.library.lmu.build/cms) (Loyola Marymount University)
+- [The History Harvest](http://historyharvest.unl.edu) (University of Nebraska-Lincoln)
+- [Nature, Environments, & Place in American Thought](http://cloud.lib.wfu.edu/fys100fff) (Wake Forest University)
+- [Street Stories: Oakland](http://www.streetstoriesoakland.com) (Mills College)
+
+### Community Digital History Projects
+
+- [Documenting Ferguson](http://digital.wustl.edu/ferguson) (Washington University in St. Louis)
+- [Our Marathon](http://marathon.neu.edu) (Northeastern University)
+- [A People’s Archive of Police Violence in Cleveland](http://archivingpoliceviolence.org) 
+
 ## Discussion Questions
 
 1. What is the **message** of this Omeka project? Is there a strong thesis or argument at its core?
@@ -13,8 +39,6 @@ Form pairs, select an Omeka project, explore it together, and discuss the questi
 4. Who is the primary **audience** of this Omeka project?
 
 5. Does this Omeka project provide **attribution**? Does it credit sources where appropriate, and, if possible, link out to those sources? Does it acknowledge precedents and sources of inspiration?
-
-## Omeka Projects
 
 ## Credit Where Credit Is Due
 
