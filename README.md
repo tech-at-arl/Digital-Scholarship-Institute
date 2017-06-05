@@ -18,6 +18,10 @@ Please **create accounts and install required software** before workshops (see s
     * Firefox
     * Internet Explorer
     * Safari
+* Multimodal Publishing with Scalar
+  * Create a free [Scalar account](http://scalar.usc.edu/works/).
+  * Email [Harriett Green](mailto:green19@illinois.edu) and [Dan Tracy](mailto:dtracy@illinois.edu) if you have questions!
+    
 
 ## The Curriculum
 The DSI curriculum will be structured around two cohort groups.
