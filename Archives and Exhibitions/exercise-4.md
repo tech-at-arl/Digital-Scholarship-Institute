@@ -12,6 +12,8 @@ Based on the previous exercises, you should now have a pretty strong sense of wh
 
 To wrap up, pairs will share insights from their discussion with the larger group of all workshop participants.
 
+A [handout of these discussion questions](docs/exercise-4.pdf) [PDF] is also available.
+
 ## Rights
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed by creators Chelcie Juliet Rowell and Sarah Melton under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
