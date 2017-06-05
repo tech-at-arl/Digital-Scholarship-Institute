@@ -3,6 +3,6 @@
 * [Labor Questionnaire](dslabor.md)
 * [DS Equalizer Game](equalizer.md) 
 
-#Contact
+# Contact
 Alex Gil, Digital Scholarship Coordinator, Columbia University
 Twitter: @elotroalex
