@@ -9,6 +9,9 @@ Please **create accounts and install required software** before workshops (see s
   * Email chelcie.rowell@bc.edu and sarah.melton@bc.edu **by June 5** to let us know what email address is associated with your Omeka.net account.
 * Geospatial and Temporal Mapping with Carto
   * Create a [Carto account](https://carto.com/signup) (free plan).
+* Multimodal Online Publishing with Scalar 
+* Register for a Scalar account: http://scalar.usc.edu/works/
+  * In the upper right corner of the Scalar page, find and click on the link for "Register", and then after you complete the short form, confirm your account in your email. 
 * Scholarly Editions: TEI Encoding and Publishing
   * Download and install [Oxygen XML Editor](http://www.oxygenxml.com/download.html).
     * Windows users, download the 32-bit application.
