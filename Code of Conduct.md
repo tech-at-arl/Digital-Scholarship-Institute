@@ -12,7 +12,7 @@ Sexual and/or discriminatory images and language are not appropriate for Digital
 ## What to Do
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the ARL staff immediately.
  
-You can make an anonymous report [here](https://docs.google.com/forms/d/e/1FAIpQLSf8LZ8vmioZsiyMDhuaJfOwfQ2leHGEzT260HEWLMj3QySeQA/).
+You can make an anonymous report [here](https://goo.gl/forms/mLLGThtrRBvDW3112).
  
 We appreciate your participation in our community and thank you for your efforts to create diverse, equitable, and inclusive spaces.
  
