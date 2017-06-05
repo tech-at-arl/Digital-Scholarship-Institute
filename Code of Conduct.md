@@ -12,8 +12,8 @@ Sexual and/or discriminatory images and language are not appropriate for Digital
 ## What to Do
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the ARL staff immediately.
  
-You can make an anonymous report [here:](https://goo.gl/forms/Jgt8Rcu3KR0NIhA1)
+You can make an anonymous report [here](https://goo.gl/forms/Jgt8Rcu3KR0NIhA1).
  
 We appreciate your participation in our community and thank you for your efforts to create diverse, equitable, and inclusive spaces.
  
-This policy is adapted from codes of conduct from [Code4Lib] (https://github.com/code4lib/antiharassment-policy/blob/master/code_of_conduct.md) and [DLF] (https://www.diglib.org/about/code-of-conduct/).
+This policy is adapted from codes of conduct from [Code4Lib](https://github.com/code4lib/antiharassment-policy/blob/master/code_of_conduct.md) and [DLF](https://www.diglib.org/about/code-of-conduct/).
