@@ -33,7 +33,7 @@
 - [DCMI Type Vocabulary](http://dublincore.org/documents/dcmi-terms/#H7)
 - [RFC 5646: Tags for Identifying Languages](http://www.rfc-editor.org/rfc/rfc5646.txt)
 
-## Omeka Projects
+## Example Omeka Projects
 
 ### Digital Exhibitions
 
