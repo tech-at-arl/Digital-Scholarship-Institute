@@ -15,13 +15,13 @@
 - [Curatescape](https://curatescape.org)
 - [Neatline](http://neatline.org)
 
-## Getting Started with Dublin Core Metadata
+## Getting Started With Dublin Core Metadata
 - [Working with Dublin Core in Omeka](https://omeka.org/codex/Working_with_Dublin_Core)
 - [Using the Dublin Core Elements](http://dublincore.org/documents/usageguide/elements.shtml)
 - [Dublin Core User Guide: Creating Metadata](http://wiki.dublincore.org/index.php/User_Guide/Creating_Metadata)
 - [Dublin Core terms](http://www.dublincore.org/documents/dcmi-terms)
 
-## Formatting Data within Dublin Core Metadata Fields
+## Formatting Data Within Dublin Core Metadata Fields
 - [Library of Congress Name Authority File (LCNAF)](http://id.loc.gov/authorities/names.html)
 - [Union List of Artist Names (ULAN)](https://www.getty.edu/research/tools/vocabularies/ulan/index.html)
 - [Virtual International Authority File (VIAF)](https://viaf.org)
