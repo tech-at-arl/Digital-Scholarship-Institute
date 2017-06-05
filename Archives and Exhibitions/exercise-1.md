@@ -1,19 +1,19 @@
 # Exercise 1: Critique an existing Omeka project
 
-Form pairs, select an Omeka project, explore it together, and discuss the questions below. Then we will ask each pair to summarize their critique for the class.
+Form pairs, select an Omeka project, explore it together, and discuss the questions below. Then each pair will summarize their critique for the larger group of all workshop participants.
 
 ## Omeka Projects
 
 ### Digital Exhibitions
 
 - [American Empire](https://dp.la/exhibitions/exhibits/show/american-empire) (DPLA)
-- [A History of US Public Libraries](https://dp.la/exhibitions/exhibits/show/history-us-public-libraries) (DPLA)
 - [Explore Big: Montana's Historic Places](http://explorebig.org) (Montana Historical Society)
+- [A History of US Public Libraries](https://dp.la/exhibitions/exhibits/show/history-us-public-libraries) (DPLA)
 
 ### Thematic Digital Collections
 
-- [The Séamus Connolly Collection of Irish Music](https://connollymusiccollection.bc.edu) (Boston College Libraries)
 - [Digital Collections](http://omeka.library.appstate.edu) (Appalachian State University)
+- [The Séamus Connolly Collection of Irish Music](https://connollymusiccollection.bc.edu) (Boston College Libraries)
 
 ### Course-Based Digital Projects
 
