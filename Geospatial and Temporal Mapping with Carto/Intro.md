@@ -1,4 +1,10 @@
 # **Introduction**
+
+#### Instructor:  
+Anna Kijas, Senior Digital Scholarship Librarian  
+Boston College Libraries
+
+
 This document presents an overview of the lesson, which includes a discussion of mapping basics through visualization examples, a visualization task, datasets for the lesson, and the goals and learning outcomes.
 
 The lesson will consist of four hands-on exercises:
