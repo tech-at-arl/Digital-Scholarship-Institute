@@ -17,7 +17,6 @@ http://www.slavevoyages.org/
 6 | 1853 Richmond and its Slave Market
 http://dsl.richmond.edu/richmond3d/
 
-
 7 | Slavery & Anti-Slavery: A Transnational Archive
 http://find.galegroup.com.ezproxy.cul.columbia.edu/sas/start.do?prodId=SAS&userGroupName=columbiau
 
