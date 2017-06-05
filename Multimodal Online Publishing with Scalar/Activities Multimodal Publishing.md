@@ -1,4 +1,12 @@
 # Multimodal Publishing Workshop Handout
+#### Instructors:
+
+Daniel G. Tracy, Library and Information Science and Research Services Librarian  
+University of Illinois at Urbana-Champaign
+
+Harriett Green, English and Digital Humanities Librarian  
+University of Illinois at Urbana-Champaign
+
 
 ## ACTIVITY 1: Site Analysis
 
