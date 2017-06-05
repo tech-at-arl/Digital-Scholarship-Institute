@@ -4,5 +4,5 @@
 * [DS Equalizer Game](equalizer.md) 
 
 # Contact
-Alex Gil, Digital Scholarship Coordinator, Columbia University
-Twitter: @elotroalex
+* Alex Gil, Digital Scholarship Coordinator, Columbia University
+* Twitter: @elotroalex
