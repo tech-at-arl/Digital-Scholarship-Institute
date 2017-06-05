@@ -1,4 +1,4 @@
-#Resources
+# Resources
 
 ## Omeka documentation
 - [Omeka Website](http://omeka.org)
