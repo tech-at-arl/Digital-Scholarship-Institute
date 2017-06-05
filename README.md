@@ -7,7 +7,8 @@ Please **create accounts and install required software** before workshops (see s
 * Archives and Exhibitions with Omeka
   * Create an [Omeka.net account](https://www.omeka.net/signup) (free plan).
   * Activate your account, otherwise we won't be able to add you to our shared course site.
-  * Email chelcie.rowell@bc.edu and sarah.melton@bc.edu **by June 5** to let us know what email address is associated with your Omeka.net account.
+  * Email chelcie.rowell@bc.edu and sarah.melton@bc.edu to let us know what email address is associated with your Omeka.net account.
+  * Accept our email invitation to join our class Omeka.net site.
 * Geospatial and Temporal Mapping with Carto
   * Create a [Carto account](https://carto.com/signup) (free plan).
 * Scholarly Editions: TEI Encoding and Publishing
