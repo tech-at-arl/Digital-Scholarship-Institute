@@ -30,3 +30,29 @@
 - [Art & Architecture Thesaurus (AAT)](http://www.getty.edu/research/tools/vocabularies/aat)
 - [DCMI Type Vocabulary](http://dublincore.org/documents/dcmi-terms/#H7)
 - [RFC 5646: Tags for Identifying Languages](http://www.rfc-editor.org/rfc/rfc5646.txt)
+
+## Omeka Projects
+
+### Digital Exhibitions
+
+- [American Empire](https://dp.la/exhibitions/exhibits/show/american-empire) (DPLA)
+- [Explore Big: Montana's Historic Places](http://explorebig.org) (Montana Historical Society)
+- [A History of US Public Libraries](https://dp.la/exhibitions/exhibits/show/history-us-public-libraries) (DPLA)
+
+### Thematic Digital Collections
+
+- [Digital Collections](http://omeka.library.appstate.edu) (Appalachian State University)
+- [The Séamus Connolly Collection of Irish Music](https://connollymusiccollection.bc.edu) (Boston College Libraries)
+
+### Course-Based Digital Projects
+
+- [Digital Watts](http://watts.library.lmu.build/cms) (Loyola Marymount University)
+- [The History Harvest](http://historyharvest.unl.edu) (University of Nebraska-Lincoln)
+- [Nature, Environments, & Place in American Thought](http://cloud.lib.wfu.edu/fys100fff) (Wake Forest University)
+- [Street Stories: Oakland](http://www.streetstoriesoakland.com) (Mills College)
+
+### Community Digital History Projects
+
+- [Documenting Ferguson](http://digital.wustl.edu/ferguson) (Washington University in St. Louis)
+- [Our Marathon](http://marathon.neu.edu) (Northeastern University)
+- [A People’s Archive of Police Violence in Cleveland](http://archivingpoliceviolence.org) 
