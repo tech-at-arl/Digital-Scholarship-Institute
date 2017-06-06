@@ -4,7 +4,7 @@
 Daniel G. Tracy, Library and Information Science and Research Services Librarian  
 University of Illinois at Urbana-Champaign
 
-Harriett Green, Head of Scholarly Communication and Publishing 
+Harriett Green, Head of Scholarly Communication and Publishing   
 University of Illinois at Urbana-Champaign
 
 
