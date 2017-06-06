@@ -1,0 +1,71 @@
+Building Name,File Name,Source URL,dc.title,dc.creator,dc.contributor,dc.date,dc.description,dc.rights,dc.subject,dc.coverage,dc.publisher,dc.relation,dc.source,dc.format,dc.type,dc.language,dc.identifier
+,,Follow the URL to glean clues for your description of an item.,Name of the item you are describing.,"The person or organization primarily responsible for making the item you are describing, e.g., artist, author.","Person or organization responsible for making contributions to the resource, e.g. illustrator.","Point or period of time associated with the item, e.g. date original item was created.",A free-text account of the item you are describing.,Information about the rights status of the item.,Topic of the item you are describing.,"The spatial or temporal topic of the item being described: instead of the place or date when the item was created, the place or date that an item is about, e.g. the event that a monument commemorates.",Person or organization responsible for making the item available.,Citation of a related item.,"Citation to where this item was found, e.g. collecting institution or or print resource.","Physical medium, file format, or dimensions of the item.",Nature or genre of the item.,A language of the item.,An unambiguous reference to the item.
+,,,"Establish conventions, e.g. sentence case vs. title case, supplied information in brackets, etc.","Use a controlled vocabulary such as the Library of Congress Name Authority File (LCNAF), Union List of Artist Names (ULAN), or the Virtual International Authority File (VIAF).","Use a controlled vocabulary such as the Library of Congress Name Authority File (LCNAF), Union List of Artist Names (ULAN), or the Virtual International Authority File (VIAF).","Use the international standard for date and time formats, e.g. 2017-01-01.","A good place for information that doesn't fit in other, more structured metadata fields.",Use standard descriptions such as Creative Commons licenses or the statements from RightsStatements.org.,Use a controlled vocabulary such as the Library of Congress Subject Headings (LCSH) or Thesaurus for Graphic Materials (TGM).,"For spatial topics, use a controlled vocabulary such as the Thesaurus of Geographic Names (TGN). For temporal topics, use a structured format similar to that for dc.date.","Use a controlled vocabulary such as the Library of Congress Name Authority File (LCNAF), Union List of Artist Names (ULAN), or the Virtual International Authority File (VIAF).","Include URL to item, e.g., if it appears in another digital collection.","Include URL to item, e.g., if it appears in another digital collection.",Use a controlled vocabulary such as the Art & Architecture Thesaurus (AAT).,Use a controlled vocabulary such as the DCMI Type Vocabulary.,"Use a controlled vocabulary such as RFC 5646: Tags for Identifying Languages. According to this specification English as used in the United States would en-US. Otherwise, just be consistent!",E.g. file name or URI.
+Adams Nervine Asylum,adamsnervine.jpg,https://commons.wikimedia.org/wiki/File:Adams-Nervine_Asylum_Boston_MA_03.jpg,,,,,,,,,,,,,,,adamsnervine.jpg
+Allston Depot,allstondepot.jpg,https://www.flickr.com/photos/boston_public_library/4898787365,,,,,,,,,,,,,,,allstondepot.jpg
+Ames Building,amesbuilding.jpg,https://www.flickr.com/photos/cityofbostonarchives/13623776063,,,,,,,,,,,,,,,amesbuilding.jpg
+Arlington Street Church,arlingtonstreetchurch.jpg,https://www.flickr.com/photos/bostonlandmarkscommission/6348746754,,,,,,,,,,,,,,,arlingtonstreetchurch.jpg
+Armory of First Corps Cadets,armory.jpg,https://www.flickr.com/photos/pasa/32976136344,,,,,,,,,,,,,,,armory.jpg
+Austin Block,austinblock.jpg,https://www.flickr.com/photos/boston_public_library/4016609407,,,,,,,,,,,,,,,austinblock.jpg
+Back Bay Fens,backbayfens.jpg,https://commons.wikimedia.org/wiki/File:BackBayFens_Boston_LOC110026v.jpg,,,,,,,,,,,,,,,backbayfens.jpg
+Batterymarch Building,batterymarch.jpg,https://www.flickr.com/photos/hisgett/6234021545,,,,,,,,,,,,,,,batterymarch.jpg
+Berkeley Building,berkeley.jpg,https://www.flickr.com/photos/bostonlandmarkscommission/6348758782,,,,,,,,,,,,,,,berkeley.jpg
+Boston City Hall,cityhall.jpg,https://www.flickr.com/photos/boston_public_library/5790237457,,,,,,,,,,,,,,,cityhall.jpg
+Boston Common,bostoncommon.jpg,https://www.flickr.com/photos/boston_public_library/5333544691,,,,,,,,,,,,,,,bostoncommon.jpg
+Boston Fish Pier,fishpier.jpg,https://www.flickr.com/photos/saboten_/14498580644,,,,,,,,,,,,,,,fishpier.jpg
+Boston Public Library — Copley Branch,bpl.jpg,https://www.flickr.com/photos/lpgeffen/15092962811,,,,,,,,,,,,,,,bpl.jpg
+Boston Public Library — Faneuil Branch,bplfaneuil.jpg,https://www.flickr.com/photos/boston_public_library/5230026872,,,,,,,,,,,,,,,bplfaneuil.jpg
+Boston Public Library — Parker Hill Branch,bplparkerhill.jpg,https://www.flickr.com/photos/boston_public_library/5230025066,,,,,,,,,,,,,,,bplparkerhill.jpg
+Boston Young Men's Christian Union Building,bymcu.jpg,https://commons.wikimedia.org/wiki/File:Boston_Young_Men%27s_Christian_Union_-_front_facade.JPG,,,,,,,,,,,,,,,bymcu.jpg
+Boylston Building,boylston.jpg,https://www.flickr.com/photos/bostonlandmarkscommission/6285875105,,,,,,,,,,,,,,,boylston.jpg
+Burrage House,burrage.jpg,https://www.flickr.com/photos/bostonlandmarkscommission/6354404399,,,,,,,,,,,,,,,burrage.jpg
+Charles River Esplanade,charlesriveresplanade.jpg,https://www.flickr.com/photos/boston_public_library/6522210053,,,,,,,,,,,,,,,charlesriveresplanade.jpg
+Chestnut Hill Reservoir & Pump Station Complex,chestnuthillreservoir.jpg,https://www.flickr.com/photos/boston_public_library/12209157126,,,,,,,,,,,,,,,chestnuthillreservoir.jpg
+Christian Science Center Complex,christiansciencecenter.jpg,https://www.flickr.com/photos/boston_public_library/5433401673,,,,,,,,,,,,,,,christiansciencecenter.jpg
+CITGO Sign,citgo.jpg,https://www.flickr.com/photos/b-tal/125506840,,,,,,,,,,,,,,,citgo.jpg
+Commercial Wharf,wharf.jpg,https://www.flickr.com/photos/boston_public_library/5579824650,,,,,,,,,,,,,,,wharf.jpg
+Commonwealth Avenue Mall,commavemall.jpg,https://www.flickr.com/photos/bostonlandmarkscommission/6377508117,,,,,,,,,,,,,,,commavemall.jpg
+Copley Plaza,copleyplaza.jpg,https://www.flickr.com/photos/boston_public_library/2590378614,,,,,,,,,,,,,,,copleyplaza.jpg
+Donald McKay House,mckay.jpg,"https://commons.wikimedia.org/wiki/File:Donald_McKay_House,_East_Boston_MA.jpg",,,,,,,,,,,,,,,mckay.jpg
+Dorchester North Burying Ground,dorchesterburyingground.jpg,https://www.flickr.com/photos/cityofbostonarchives/25074307429,,,,,,,,,,,,,,,dorchesterburyingground.jpg
+"Emerald Necklace Parks — Jamaica Pond, Olmsted Park & the Riverway",emeraldnecklace.jpg,https://www.flickr.com/photos/ashokbo/33658563575,,,,,,,,,,,,,,,emeraldnecklace.jpg
+Emerson Majestic Theatre (Saxon Theater),majestic.jpg,https://www.flickr.com/photos/dayvidday/146394929,,,,,,,,,,,,,,,majestic.jpg
+Faneuil Hall,faneuil.jpg,https://www.flickr.com/photos/tonythemisfit/3296056687,,,,,,,,,,,,,,,faneuil.jpg
+Federal Reserve Bank,fedreserve.jpg,https://www.flickr.com/photos/cityofbostonarchives/8638118300,,,,,,,,,,,,,,,fedreserve.jpg
+Fenway Park,fenwaypark.jpg,https://www.flickr.com/photos/marirn/17089916180,,,,,,,,,,,,,,,fenwaypark.jpg
+Ferdinand's Blue Store,ferdinand.jpg,https://www.flickr.com/photos/chuckthewriter/6006581705,,,,,,,,,,,,,,,ferdinand.jpg
+Filene’s Complex,filenes.jpg,https://commons.wikimedia.org/wiki/File:Washington_st_Boston.jpg,,,,,,,,,,,,,,,filenes.jpg
+Flour & Grain Exchange,flourgrain.jpg,https://www.flickr.com/photos/string_bass_dave/5215902003,,,,,,,,,,,,,,,flourgrain.jpg
+Franklin Park,franklinpark.jpg,https://www.flickr.com/photos/boston_public_library/2380994774,,,,,,,,,,,,,,,franklinpark.jpg
+Gibson House,gibsonhouse.jpg,https://commons.wikimedia.org/wiki/File:WTB_Gibson_House_Museum.jpg,,,,,,,,,,,,,,,gibsonhouse.jpg
+Harrison Loring House,harrisonloring.jpg,https://commons.wikimedia.org/wiki/File:Harrison_Loring_House_South_Boston_MA_03.jpg,,,,,,,,,,,,,,,harrisonloring.jpg
+Hayden Building,hayden.jpg,https://www.flickr.com/photos/bostonlandmarkscommission/6332648004,,,,,,,,,,,,,,,hayden.jpg
+International Trust Company Building,internationaltrustco.jpg,https://www.flickr.com/photos/bostonlandmarkscommission/6323473392,,,,,,,,,,,,,,,internationaltrustco.jpg
+Isabella Stewart Gardner Museum,gardner.jpg,https://www.flickr.com/photos/boston_public_library/5433385639,,,,,,,,,,,,,,,gardner.jpg
+Jacob Wirth's Restaurant,jacobwirth.jpg,https://commons.wikimedia.org/wiki/File:WirthsBosstore.JPG,,,,,,,,,,,,,,,jacobwirth.jpg
+James Blake House,jamesblakehouse.jpg,https://www.flickr.com/photos/boston_public_library/2885411358,,,,,,,,,,,,,,,jamesblakehouse.jpg
+Keith Memorial Theater & Opera House,operahouse.jpg,https://www.flickr.com/photos/77461661@N04/6961156814,,,,,,,,,,,,,,,operahouse.jpg
+Liberty Tree Block,libertytree.jpg,https://www.flickr.com/photos/bostonlandmarkscommission/6343879773,,,,,,,,,,,,,,,libertytree.jpg
+Loring-Greenough House,loring.jpg,https://www.flickr.com/photos/boston_public_library/2589495579,,,,,,,,,,,,,,,loring.jpg
+Massachusetts College of Art,massart.jpg,https://www.flickr.com/photos/dbmerino/24193272375,,,,,,,,,,,,,,,massart.jpg
+Massachusetts Historical Society,masshist.jpg,https://www.flickr.com/photos/boston_public_library/5912764039,,,,,,,,,,,,,,,masshist.jpg
+McCormack Federal Building,mccormack.jpg,https://www.flickr.com/photos/aidaneus/8091519254,,,,,,,,,,,,,,,mccormack.jpg
+Mission Church Complex,missionchurchcomplex.jpg,https://www.flickr.com/photos/cityofbostonarchives/15829484002,,,,,,,,,,,,,,,missionchurchcomplex.jpg
+Modern Theatre,moderntheatre.jpg,https://www.flickr.com/photos/77461661@N04/6961311028,,,,,,,,,,,,,,,moderntheatre.jpg
+Museum of Fine Arts,mfa.jpg,https://www.flickr.com/photos/billdamon/13770862434,,,,,,,,,,,,,,,mfa.jpg
+Oak Square School,oaksquare.jpg,https://www.flickr.com/photos/cityofbostonarchives/5589748910,,,,,,,,,,,,,,,oaksquare.jpg
+Old Corner Bookstore,oldcornerbookstore.jpg,https://www.flickr.com/photos/boston_public_library/5693008885,,,,,,,,,,,,,,,oldcornerbookstore.jpg
+Old State House,oldstate.jpg,https://www.flickr.com/photos/pepsiline/4026460765,,,,,,,,,,,,,,,oldstate.jpg
+Paramount Theater,paramounttheater.jpg,https://www.flickr.com/photos/bostonlandmarkscommission/6331667135,,,,,,,,,,,,,,,paramounttheater.jpg
+Proctor Building,proctorbuilding.jpg,https://www.flickr.com/photos/bostonlandmarkscommission/6266579795,,,,,,,,,,,,,,,proctorbuilding.jpg
+Public Garden,publicgarden.jpg,https://www.flickr.com/photos/franzis/8953676451,,,,,,,,,,,,,,,publicgarden.jpg
+Quincy Market Building,quincymarket.jpg,https://www.flickr.com/photos/boston_public_library/5693103175,,,,,,,,,,,,,,,quincymarket.jpg
+Symphony Hall,symphonyhall.jpg,https://www.flickr.com/photos/boston_public_library/4899518320,,,,,,,,,,,,,,,symphonyhall.jpg
+Theodore Parker Unitarian Church,theodoreparker.jpg,https://www.flickr.com/photos/boston_public_library/5414512092,,,,,,,,,,,,,,,theodoreparker.jpg
+Trinity Church,trinitychurch.jpg,https://www.flickr.com/photos/boston_public_library/2380975882,,,,,,,,,,,,,,,trinitychurch.jpg
+Trinity Neighborhood House,trinityneighborhood.jpg,"https://commons.wikimedia.org/wiki/File:Trinity_Neighborhood_House,_East_Boston_MA.jpg",,,,,,,,,,,,,,,trinityneighborhood.jpg
+United Shoe Machinery Company Building,USMCBoston.jpg,https://commons.wikimedia.org/wiki/File:USMCBostonL.JPG,,,,,,,,,,,,,,,USMCBoston.jpg
+Wang Theater,wangtheatre.jpg,https://www.flickr.com/photos/pasa/32982128664,,,,,,,,,,,,,,,wangtheatre.jpg
+Wilbur Theater,wilbur.jpg,https://commons.wikimedia.org/wiki/File:Boston_MA_Wilbur_Theatre.jpg,,,,,,,,,,,,,,,wilbur.jpg
+William Lloyd Garrison House,garrison.jpg,https://www.flickr.com/photos/boston_public_library/2884583103/,,,,,,,,,,,,,,,garrison.jpg
+William Monroe Trotter House,trotter.jpg,https://www.flickr.com/photos/cityofbostonarchives/25324052932,,,,,,,,,,,,,,,trotter.jpg
