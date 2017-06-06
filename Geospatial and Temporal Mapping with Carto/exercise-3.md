@@ -12,7 +12,7 @@ Working with your partner - we will now look at how to create layers and create 
 
 3. You'll be taken back to your map view once you add the layer and will see polygons appear on your map.
 
-4. Repeat step II for the next two datasets.
+4. Repeat step 2 for the next two datasets.
 
 5. You will now see the points and polygons on your map. You will also see the four layers (A, B, C, D) in your sidebar.
 
