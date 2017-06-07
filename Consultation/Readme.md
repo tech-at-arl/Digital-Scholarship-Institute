@@ -12,8 +12,8 @@ which would include his online visualizations as a companion to his published op
 
 ## Group Activities
 * 5-6 groups (5-6 people in each group)
-1. Break Out 1
-2. Break Out 2
+* 20 minutes for small group discussion
+* 20 minutes for whole group discussion
 
 ## Toolkits
 * Link to the one we create at ARL DSI 2017!
