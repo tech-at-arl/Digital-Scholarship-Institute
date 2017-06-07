@@ -4,7 +4,7 @@
 
 Working with your partner - we will now look at how to create layers and create polygons. We will discuss the difference between points and polygons, how layers work, what is possible when you have layers, etc.
 
-1. Go to the [Boston Landmarks Commission Historic Districts](https://data.boston.gov/dataset/boston-landmarks-commission-blc-historic-districts)dataset and download the **Shapefile**. Find the **Sea Level Rise** Plus 5 Feet dataset and download the **Shapefile**. You will also use the cleaned Boston Landmarks Commission **Landmarks** dataset.
+1. Go to the [Boston Landmarks Commission Historic Districts](https://data.boston.gov/dataset/boston-landmarks-commission-blc-historic-districts) dataset and download the **Shapefile**. Find the [Sea Level Rise](https://data.boston.gov/dataset/sea-level-rise-plus-5-feet) Plus 5 Feet dataset and download the **Shapefile**. You will also use the cleaned Boston Landmarks Commission **Landmarks** dataset.
 
 2.  In your Carto map view, click on "Add" in the sidebar to add these datasets to your existing map.
      * Click on "Connect Dataset" and browse for your file
