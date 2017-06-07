@@ -1,5 +1,7 @@
 # Scholarly Editions: TEI Text Encoding and Publishing 
 
+Instructor: Michelle Dalmau
+
 ## Prep Before the Workshop
 
 ### Download and install Oxygen XML Editor
@@ -21,7 +23,7 @@
 ## Workshop Materials
 
 * [Presentation Slides](https://iu.box.com/s/bvbdsjqmx4cdcip320upvzp0i44ykth9) (PDF)
-* [Activity 1](activity1.md): Assess 3 example digital edition sites.
+* [Activity 1](activity1.md): Review 3 example digital edition sites.
 * [Activity 2](activity2.md): Conduct document analysis.
 * [Activity 3](activity3.md): Encode following the TEI Guidelines.
 * [Activity 4](activity4.md): Publish with TEI Boilerplate; compare publishing platforms. 
