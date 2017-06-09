@@ -7,31 +7,29 @@ Please **create accounts and install required software** before workshops (see s
 * Archives and Exhibitions with Omeka
   * Create an [Omeka.net account](https://www.omeka.net/signup) (free plan).
   * Activate your account, otherwise we won't be able to add you to our shared course site.
-  * Email chelcie.rowell@bc.edu and sarah.melton@bc.edu to let us know what email address is associated with your Omeka.net account.
+  * Email [Chelcie Rowell](mailto:chelcie.rowell@bc.edu) and [Sarah Melton](mailto:sarah.melton@bc.edu) to let us know what email address is associated with your Omeka.net account.
   * Accept our email invitation to join our class Omeka.net site.
 * Geospatial and Temporal Mapping with Carto
   * Create a [Carto account](https://carto.com/signup) (free plan).
-* Multimodal Online Publishing with Scalar 
-  * Register for a Scalar account: http://scalar.usc.edu/works/
-    * In the upper right corner of the Scalar page, find and click on the link for "Register", and then after you complete the short form, confirm your account in your email. 
+* Multimodal Publishing with Scalar
+  * Create a free [Scalar account](http://scalar.usc.edu/works).
+      * In the upper right corner of the Scalar page, find and click on the link for "Register", and then after you complete the short form, confirm your account in your email. 
+  * Email [Harriett Green](mailto:green19@illinois.edu) and [Dan Tracy](mailto:dtracy@illinois.edu) if you have questions!
+
 * Scholarly Editions: TEI Encoding and Publishing
   * Download and install [Oxygen XML Editor](http://www.oxygenxml.com/download.html).
     * Windows users, download the 32-bit application.
-    * See email sent by mdalmau@indiana.edu on May 27, 2017 for the License Key.
+    * See email sent by [Michelle Dalmau](mailto:mdalmau@indiana.edu) on May 27, 2017 for the License Key.
     * If you need help installing Oxygen, email Michelle so that we can install at the Connors Center before June 8.
   * Required Browsers
     * Firefox
     * Internet Explorer
     * Safari
-* Multimodal Publishing with Scalar
-  * Create a free [Scalar account](http://scalar.usc.edu/works/).
-  * Email [Harriett Green](mailto:green19@illinois.edu) and [Dan Tracy](mailto:dtracy@illinois.edu) if you have questions!
-    
 
 ## The Curriculum
 The DSI curriculum will be structured around two cohort groups.
 
-Both groups will start Day 1 together with welcoming remarks, a keynote address by Jennifer Vinopal, introductions, and logistical information, followed by "Introduction to Digital Scholarship" in the afternoon.
+Both groups will start Day 1 together with welcoming remarks, a keynote address by Jennifer Vinopal, introductions, and logistical information, followed by [Introduction to Digital Scholarship](/introDS) in the afternoon.
 
 Days 2–4 will be spent in the cohort groups, with each group spending a half-day on each of the following topics:
 
@@ -47,7 +45,7 @@ Days 2–4 will be spent in the cohort groups, with each group spending a half-d
 * [Text Analysis: Concordances, Word Trends, & Word Clouds with Voyant Tools](/Text%20Analysis)
 * [Scholarly Editions: Text Encoding and Publishing with TEI](/Scholarly%20Editions)
 
-Day 5, June 9th, will wrap up with "Digital Scholarship Consultations and Pedagogy," a debrief session, and some post-institute planning for continued online meetups. 
+Day 5, June 9th, will wrap up with [Digital Scholarship Consultations and Pedagogy](/Consultation), a debrief session, and some post-institute planning for continued online meetups. 
 
 There may be opportunities to extend learning on one or more of the evenings if participants are interested in developing spontaneous groups for further study or play. Timely breaks to re-charge, and community-building receptions, will also be included in the experience.
 
@@ -70,4 +68,4 @@ The ARL Digital Scholarship Institute (DSI), an exciting new initiative of the A
 The first iteration of the ARL Digital Scholarship Institute will take place June 5–9, 2017, at the Connors Center in Dover, Massachusetts, and is hosted by the Boston College Libraries. The ARL Digital Scholarship Institute is co-sponsored by the following institutions: Boston College Libraries; the University Library, University of Illinois at Urbana-Champaign; Indiana University Libraries; River Campus Libraries, the University of Rochester; and UC San Diego Libraries.
 
 ## Code of Conduct
-The ARL Digital Scholarship Institute is committed to creating and supporting an inclusive community of practice. Please see our complete [Code of Conduct](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/Code%20of%20Conduct.md). 
+The ARL Digital Scholarship Institute is committed to creating and supporting an inclusive community of practice. Please see our complete [Code of Conduct](/Code%20of%20Conduct.md). 
