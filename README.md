@@ -36,16 +36,16 @@ Both groups will start Day 1 together with welcoming remarks, a keynote address 
 Days 2–4 will be spent in the cohort groups, with each group spending a half-day on each of the following topics:
 
 ### Day 2: June 6
-* [Digital Recovery: Archives & Exhibitions with Omeka](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Digital%20Recovery)
-* [Multimodal Online Publishing with Scalar](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Multimodal%20Online%20Publishing%20with%20Scalar)
+* [Digital Recovery: Archives & Exhibitions with Omeka](/Archives%20and%20Exhibitions)
+* [Multimodal Online Publishing with Scalar](/Multimodal%20Online%20Publishing%20with%20Scalar)
 
 ### Day 3: June 7
-* [Geospatial and Temporal Mapping with Carto](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Geospatial%20and%20Temporal%20Mapping%20with%20Carto)
-* [Information Visualization](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Information%20Visualization)
+* [Geospatial and Temporal Mapping with Carto](/Geospatial%20and%20Temporal%20Mapping%20with%20Carto)
+* [Information Visualization](/Information%20Visualization)
 
 ### Day 4: June 8
-* [Text Analysis: Concordances, Word Trends, & Word Clouds with Voyant Tools](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Text%20Analysis)
-* [Scholarly Editions: Text Encoding and Publishing with TEI](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/Scholarly%20Editions)
+* [Text Analysis: Concordances, Word Trends, & Word Clouds with Voyant Tools](/Text%20Analysis)
+* [Scholarly Editions: Text Encoding and Publishing with TEI](/Scholarly%20Editions)
 
 Day 5, June 9th, will wrap up with "Digital Scholarship Consultations and Pedagogy," a debrief session, and some post-institute planning for continued online meetups. 
 
@@ -70,4 +70,4 @@ The ARL Digital Scholarship Institute (DSI), an exciting new initiative of the A
 The first iteration of the ARL Digital Scholarship Institute will take place June 5–9, 2017, at the Connors Center in Dover, Massachusetts, and is hosted by the Boston College Libraries. The ARL Digital Scholarship Institute is co-sponsored by the following institutions: Boston College Libraries; the University Library, University of Illinois at Urbana-Champaign; Indiana University Libraries; River Campus Libraries, the University of Rochester; and UC San Diego Libraries.
 
 ## Code of Conduct
-The ARL Digital Scholarship Institute is committed to creating and supporting an inclusive community of practice. Please see our complete Code of Conduct [here](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/Code%20of%20Conduct.md). 
+The ARL Digital Scholarship Institute is committed to creating and supporting an inclusive community of practice. Please see our complete [Code of Conduct](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/Code%20of%20Conduct.md). 
