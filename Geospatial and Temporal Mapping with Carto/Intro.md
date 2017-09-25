@@ -53,13 +53,13 @@ We want to identify all of the historic landmarks in Boston and compare them to 
 
 We will be using data from the [City of Boston Open Data](https://data.boston.gov/group/geospatial). The following datasets will be used:
 
-* [Buildings](https://data.boston.gov/dataset/buildings)
+* [Buildings](https://data.boston.gov/dataset/buildings) Download CSV format
 
-* [Boston Landmarks Commission Historic Districts](https://data.boston.gov/dataset/boston-landmarks-commission-blc-historic-districts)
+* [Boston Landmarks Commission Historic Districts](https://data.boston.gov/dataset/boston-landmarks-commission-blc-historic-districts) Download Shapefile format
 
-* [Boston Landmarks Commission Landmarks](https://data.boston.gov/dataset/boston-landmarks-commission-blc-landmarks)
+* [Boston Landmarks Commission Landmarks](https://data.boston.gov/dataset/boston-landmarks-commission-blc-landmarks) Download CSV format
 
-* [Sea level rise plus 5 feet](https://data.boston.gov/dataset/sea-level-rise-plus-5-feet)
+* [Sea level rise plus 5 feet](https://data.boston.gov/dataset/sea-level-rise-plus-5-feet) Download Shapefile format
 
 
 # **Goals & Learning Outcomes**
