@@ -15,7 +15,7 @@ Instructor: Michelle Dalmau
 * Internet Explorer
 * Safari
 
-*Microsoft Edge or Google Chrome **will not work** for Activity 4.* 
+*Microsoft Edge or Google Chrome **will not work** for Activity 4 or 5.* 
 
 ### Reading (Optional)
 * [Electronic Texts: Audiences and Purposes](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-6&toc.depth=1&toc.id=ss1-3-6&brand=9781405103213_brand) by Perry Willett in A Companion to Digital Humanities (2004)
