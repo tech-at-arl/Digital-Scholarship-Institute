@@ -34,7 +34,7 @@ Both groups will start Day 1 together with welcoming remarks, a keynote address 
 Days 2–4 will be spent in the cohort groups, with each group spending a half-day on each of the following topics:
 
 ### Day 2: June 6
-* [Digital Recovery: Archives & Exhibitions with Omeka](/Archives%20and%20Exhibitions)
+* [Archives & Exhibitions with Omeka](/Archives%20and%20Exhibitions)
 * [Multimodal Online Publishing with Scalar](/Multimodal%20Online%20Publishing%20with%20Scalar)
 
 ### Day 3: June 7
