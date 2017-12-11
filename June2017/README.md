@@ -1,4 +1,4 @@
-# ARL Digital Scholarship Institute
+# ARL Digital Scholarship Institute, June 2017
 Repository for course materials and related resources for the ARL Digital Scholarship Institute. 
 
 ## Preparing for the Workshops
