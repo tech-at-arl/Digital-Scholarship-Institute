@@ -1,6 +1,6 @@
 # Scholarly Editions: TEI Text Encoding and Publishing 
 
-Instructors: Michelle Dalmau & Anna Kijas
+Instructors: [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto:kijas@bc.edu)
 
 ## Prep Before the Workshop
 
@@ -13,16 +13,7 @@ Instructors: Michelle Dalmau & Anna Kijas
 * See email sent by mdalmau@indiana.edu on TBD for the License Key 
 * If you need help installing Oxygen, email me so that we can install at the Geisel Library before January 15th. 
 
-### Required Browsers
-* Firefox
-* Internet Explorer
-* Safari
-
-### Reading (Optional)
-* [Electronic Texts: Audiences and Purposes](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-6&toc.depth=1&toc.id=ss1-3-6&brand=9781405103213_brand) by Perry Willett in A Companion to Digital Humanities (2004)
-
 ## Workshop Materials
-
 * [Presentation Slides](https://) (PDF)
 * [Activity 1](activity1.md): Review 5 example digital edition sites.
 * [Activity 2](activity2.md): Conduct document analysis.
@@ -41,6 +32,10 @@ Participants will:
 * explore publishing options for TEI-encoded documents; identify pros and cons for each
 
 ## Reference & Training Resources
+
+### Readings 
+* [Electronic Texts: Audiences and Purposes](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-6&toc.depth=1&toc.id=ss1-3-6&brand=9781405103213_brand) by Perry Willett in A Companion to Digital Humanities (2004)
+* LINK TO TEI BIBLIOGRAPHY
 
 ### General Intros to Markup, XML and TEI
 * Walsh. J. (2014). [A brief introduction to Markup, Part 1](https://www.youtube.com/watch?v=Z2Nsq613uHk) (about 15 minutes).
@@ -66,12 +61,48 @@ Participants will:
 * [TEI Boilerplate Workshop and Sample Exercises](http://dcl.slis.indiana.edu/teibpws/)
 * ADD link to peer-review handout
 
+### Peer-Review and Publications Venues for TEI Projects
+#### Guidelines 
+* [MLA Guidelines for Editors of Scholarly Editions](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions) 
+* [IDE Criteria for Reviewing Scholarly Digital Editions](https://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/)
+
+#### Peer-Review for Digital Research Projects 
+* Advanced Research Consortium ([ARC])(http://idhmcmain.tamu.edu/arcgrant/)
+  * [NINES](http://www.nines.org/) (Networked Interface for Nineteenth Century Electronic Scholarship)
+  * [18thConnect](http://www.18thconnect.org/)
+  * [MESA](http://www.mesa-medieval.org/) (Medieval Electronic Scholarly Alliance) 
+* [REKn](http://rekn.itercommunity.org/) (Renaissance English Knowledgebase) 
+* [Ride](http://ride.i-d-e.de/) (a review journal for digital editions and resources)
+* [Scholarly Editing](http://scholarlyediting.org/) (publishes editions and articles) 
+
+#### Publications for Publishing About TEI Projects
+* [Digital Scholarship in the Humanities](https://academic.oup.com/dsh)
+* Digital Humanities Quarterly ([DHQ](http://www.digitalhumanities.org/dhq/))
+* [Scholarly Editing](http://scholarlyediting.org/) (publishes editions and articles)
+* [Textual Cultures](https://scholarworks.iu.edu/journals/index.php/textual)
+
+### TEI Analysis (Next steps)
+* https://github.com/iulibdcs/tei_text (repository of TEI files for use/re-use)
+#### Text Analysis Tools that are TEI-Aware
+##### Voyant Tools
+* http://voyant-tools.org
+* Examples of how to analyze TEI using Voyant
+##### TXM Software
+* http://textometrie.ens-lyon.fr/spip.php?rubrique96&lang=en
+* Example of Using TXM with the VWWP corpus
+##### PhiloLogic / PhiloMine
+* https://sites.google.com/site/philologic3/home
+* “PhiloLogic 4: An Abstract TEI Query System” by Allen, Gladstone & Whaling (2013)
+
 ## Contact
 * Michelle Dalmau
   * Head of Digital Collections Services, Indiana University Bloomington Libraries / Co-Director of the Institute for Digital Arts & Humanities
   * Email: mdalmau@indiana.edu
   * Twitter: @mdalmau
 * Anna Kijas
+  * Senior Digital Scholarship Librarian, Boston College Libraries 
+  * Email: kijas@bc.edu
+  * Twitter: @anna_kijas
 
 
 
