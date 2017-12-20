@@ -16,8 +16,10 @@ _If you already have a TAPAS account, you don't need to create a new account.  E
 ### Download and install Oxygen XML Editor
 * http://www.oxygenxml.com/download.html
   * Windows users, **download the 32-bit application** 
-* See email sent by mdalmau@indiana.edu on TBD for the License Key 
+* See email sent by mdalmau@indiana.edu on December 20, 2017 for the License Key 
 * If you need help installing Oxygen, email me so that we can install at the Geisel Library before January 15th. 
+
+_The Oxygen XML Editor license is good for 90 days as of December 20, 2017_
 
 ## Workshop Materials
 * [Presentation Slides](https://) (PDF)
