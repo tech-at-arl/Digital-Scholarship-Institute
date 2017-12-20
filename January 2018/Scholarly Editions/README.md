@@ -5,7 +5,13 @@ Instructors: [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto
 ## Prep Before the Workshop
 
 ### Create a TAPAS Account
-* Instructions forthcoming
+_If you already have a TAPAS account, you don't need to create a new account.  Email [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto:kijas@bc.edu) your TAPAS username so we can add you to the TAPAS project for this workshop._
+
+* Visit the TAPAS website: http://www.tapasproject.org/
+* Click on "Sign In" on the top-right of the page
+* Select "Create new account" tab
+  * Enter the required information; customize your profile information when you register or later
+* Once your account has been created, **email [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto:kijas@bc.edu) your TAPAS username** so we can add you to the TAPAS project for this workshop.   
 
 ### Download and install Oxygen XML Editor
 * http://www.oxygenxml.com/download.html
@@ -21,21 +27,23 @@ Instructors: [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto
 * [Activity 4](activity4.md): Publish with TAPAS 
 
 ### Workshop Handouts
-* TEI Workflow Diagram (to be linked)
+* [TEI Workflow Diagram](https://iu.box.com/s/h4bia394ajxco6qyzi0mdlva8m7dvo8p) (PDF) 
 
 ## Learning Goals 
 
 Participants will:
+
 * understand use cases for text encoding; recognize why libraries are especially well-situated to support text encoding
-* gain familiarity with the XML and TEI; learn about core TEI features (i.e., basics of TEI encoding)
 * review the workflow for TEI-encoding; learn about the various stages with special emphasis on the importance of document analysis
-* explore publishing options for TEI-encoded documents; identify pros and cons for each
+* gain familiarity with the XML and TEI; learn about core TEI features
+* explore richer semantic encoding through the construction of a personagraphy
+* learn publishing options for TEI-encoded documents with a focus on the TAPAS repository and publishing platform
 
 ## Reference & Training Resources
 
 ### Readings 
-* [Electronic Texts: Audiences and Purposes](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-6&toc.depth=1&toc.id=ss1-3-6&brand=9781405103213_brand) by Perry Willett in A Companion to Digital Humanities (2004)
-* LINK TO TEI BIBLIOGRAPHY
+* [Electronic Texts: Audiences and Purposes](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-6&toc.depth=1&toc.id=ss1-3-6&brand=9781405103213_brand) by Perry Willett in A Companion to Digital Humanities (2004) [good introduction to TEI, authored by a librarian]
+* [A Bibliography of Publications Related to the Text Encoding Initiative](http://www.tei-c.org/Support/Learn/tei_bibliography.xml)
 
 ### General Intros to Markup, XML and TEI
 * Walsh. J. (2014). [A brief introduction to Markup, Part 1](https://www.youtube.com/watch?v=Z2Nsq613uHk) (about 15 minutes).
@@ -82,17 +90,17 @@ Participants will:
 * [Textual Cultures](https://scholarworks.iu.edu/journals/index.php/textual)
 
 ### TEI Analysis (Next steps)
-* https://github.com/iulibdcs/tei_text (repository of TEI files for use/re-use)
+* https://github.com/iulibdcs/tei_text (repository of TEI and plain text files for analysis)
 #### Text Analysis Tools that are TEI-Aware
 ##### Voyant Tools
 * http://voyant-tools.org
-* Examples of how to analyze TEI using Voyant
+* [Examples of how to analyze TEI using Voyant](http://blogs.carleton.edu/hacking-humanities/2015/01/29/8-text-analysis-and-the-tei/)
 ##### TXM Software
 * http://textometrie.ens-lyon.fr/spip.php?rubrique96&lang=en
-* Example of Using TXM with the VWWP corpus
+* [Example of Using TXM with the VWWP corpus](https://github.com/iulibdcs/tei_text/wiki/TXM-and-the-Victorian-Women-Writers-Project)
 ##### PhiloLogic / PhiloMine
 * https://sites.google.com/site/philologic3/home
-* “PhiloLogic 4: An Abstract TEI Query System” by Allen, Gladstone & Whaling (2013)
+* “[PhiloLogic 4: An Abstract TEI Query System](https://jtei.revues.org/817)” by Allen, Gladstone & Whaling (2013)
 
 ## Contact
 * Michelle Dalmau
