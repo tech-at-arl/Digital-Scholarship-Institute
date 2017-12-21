@@ -9,8 +9,8 @@ Workshop Materials
 
 	Data Sets: 
 	Powerpoint Presentation: (TBD)
-	OpenRefine- download here: http://openrefine.org/download.html
-	Raw online data analysis tool: http://app.rawgraphs.io/
+	OpenRefine- download here: <http://openrefine.org/download.html>
+	Raw online data analysis tool: <http://app.rawgraphs.io/>
 	
 
 Learning Goals
