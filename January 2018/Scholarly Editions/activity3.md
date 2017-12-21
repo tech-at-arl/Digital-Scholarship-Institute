@@ -2,12 +2,12 @@
 
 ## Create a TEI Header
 * Encode the front matter from *O Pioneers!*
-    i. Open TEI template file
-      a. Click "download" (top-right) to download cather-activity3.xml file
+    1. Open TEI template file
+        1. Click "download" (top-right) to download cather-activity3.xml file
     
-    ii. Launch Oxygen XML Editor
-    iii. File => Open => cather-activity3.xml
-    iv. Begin encoding *all together*; Anna/Michelle will walkthrough the encoding with the class
+    2. Launch Oxygen XML Editor
+        1. File => Open => cather-activity3.xml
+        2. Begin encoding *all together*; Anna/Michelle will walkthrough the encoding with the class
 
 ***
 Finished encoded sample (for your review):
