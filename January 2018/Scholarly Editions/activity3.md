@@ -17,8 +17,8 @@
 
 * Encode TEI Header
   1. Encode the metadata for *O Pioneers!*
-       1. Open TEI template file
-          * Click "download" (top-right) to download opioneers-excerpt.xml file 
+       1. Open [TEI template](opioneers-excerpt.xml) file
+          * Save file to desktop or copy and paste into Oxygen XML Editor
        2. Launch Oxygen XML Editor
           * File => Open => opioneers-excerpt.xml
        3. Begin encoding *all together*; Anna/Michelle will walkthrough the encoding with the class
@@ -33,12 +33,13 @@
               * `<revisionDesc>`
 
 * Encode text and body
-       1. In the same file, move down to the text section and encode the front matter
-       2. Move down to the body section and begin encoding the paragraph structure and page breaks
+   1. In the same file, move down to the text section and encode the front matter
+      1. `<front>`, `<titlePage>`, illustration, dedication, epigraph, contents
+      2. Move down to the body section and begin encoding the paragraph structure and page breaks
 
 * Create a Personography
-   1. Open Personography template file
-       1. Click "download" (top-right) to download personography.xml file
+   1. Open [Personography](personography.xml) template file
+       1. Save file to desktop or copy and paste into Oxygen XML Editor
    2. Open file in Oxygen XML Editor
        1. File => Open => personography.xml
        2. Begin encoding *all together*; Anna/Michelle will walkthrough the encoding with the class
