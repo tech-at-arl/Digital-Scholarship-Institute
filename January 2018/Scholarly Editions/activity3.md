@@ -35,7 +35,7 @@
 * Encode text and body
    1. In the same file, move down to the text section and encode the front matter
       1. `<front>`, `<titlePage>`, illustration, dedication, epigraph, contents
-      2. Move down to the body section and begin encoding the paragraph structure and page breaks
+      2. Move down to the `<body>` section and begin encoding the paragraph structure `<p>` and page breaks `<pb n="#"/>`
 
 * Create a Personography
    1. Open [Personography](personography.xml) template file
