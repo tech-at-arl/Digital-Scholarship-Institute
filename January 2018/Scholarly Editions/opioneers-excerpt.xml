@@ -55,8 +55,7 @@
                <titlePart>insert title part</titlePart>
             </docTitle>
             <lb/>
-            <byline> BY<lb/>
-               <docAuthor>insert author name</docAuthor>
+            <byline>insert author name<lb/>
             </byline>
             <lb/>
             <epigraph>
