@@ -1,28 +1,25 @@
 # Activity 3
-
-## Review Oxygen XML Editor
-* Launch Oxygen XML Editor
-  1. Open new TEI template
-      1. Close unnecessary windows
-      3. Review basics 
-         * validation/schema
-         * tree structure
-         * formatting and indentation
-         * shortcuts: CTRL/CMD + E
-         * preferences
-         * editor
-         * content completion
          
 ## Encode selections from *O Pioneers!*
 
-* Encode TEI Header
-  1. Encode the metadata for *O Pioneers!*
-       1. Open [TEI template](opioneers-excerpt.xml) file
+* Review Oxygen XML Editor
+  1. Launch Oxygen XML Editor
+       1. Download [opioneers-excerpt](opioneers-excerpt.xml) file
           * Save file to desktop or copy and paste into Oxygen XML Editor
-       2. Launch Oxygen XML Editor
           * File => Open => opioneers-excerpt.xml
-       3. Begin encoding *all together*; Anna/Michelle will walkthrough the encoding with the class
-          * Subdivisions of TEI header and elements:
+       2. Close unnecessary windows
+       3. Review basics 
+          * validation/schema
+          * tree structure
+          * formatting and indentation
+          * shortcuts: CTRL/CMD + E
+          * preferences
+          * editor
+          * content completion
+          
+* Endode metadata from *O Pioneers!*
+   1. Begin encoding *all together*; Anna/Michelle will walkthrough the encoding with the class
+         1. Subdivisions of TEI header and elements:
               * `<fileDesc>` (mandatory)
                 * `<titleStmt>`
                 * `<publicationStmt>`
@@ -38,7 +35,7 @@
       2. Move down to the `<body>` section and begin encoding the paragraph structure `<p>` and page breaks `<pb n="#"/>`
 
 * Create a Personography
-   1. Open [Personography](personography.xml) template file
+   1. Open [personography](personography.xml) template file
        1. Save file to desktop or copy and paste into Oxygen XML Editor
    2. Open file in Oxygen XML Editor
        1. File => Open => personography.xml
