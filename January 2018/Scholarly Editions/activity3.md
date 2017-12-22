@@ -23,14 +23,14 @@
           * File => Open => opioneers-excerpt.xml
        3. Begin encoding *all together*; Anna/Michelle will walkthrough the encoding with the class
           * Subdivisions of TEI header and elements:
-              * fileDesc (mandatory)
-                * titleStmt
-                * publicationStmt
-                * sourceDesc
-              * encodingDesc
-                * projectDesc
-              * profileDesc
-              * revisionDesc
+              * `<fileDesc>` (mandatory)
+                * `<titleStmt>`
+                * `<publicationStmt>`
+                * `<sourceDesc>`
+              * `<encodingDesc>`
+                * `<projectDesc>`
+              * `<profileDesc>`
+              * `<revisionDesc>`
 
 * Encode text and body
        1. In the same file, move down to the text section and encode the front matter
@@ -43,11 +43,10 @@
        1. File => Open => personography.xml
        2. Begin encoding *all together*; Anna/Michelle will walkthrough the encoding with the class
        3. When finished encoding, copy everything within the person elements and paste into the 
-          opioneers-excerpt.xml file within the listPerson element
-   3. Encode persNames within the body
+          opioneers-excerpt.xml file within the `<listPerson>` element
+   3. Encode `<persName>` within the body
        1. Wrap `<persName>` element around the named reference with the unique ID created in the personography
           `<persName ref="#pers_john_smith">John Smith</persName>`
-        
           
     
 ***
