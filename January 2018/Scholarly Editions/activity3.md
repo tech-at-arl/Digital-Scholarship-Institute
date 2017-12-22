@@ -58,4 +58,4 @@ TEI-C guidelines
 * [Names, Dates, Peopler, and Places](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html)
 
 Fully encoded text (for your review):
-* [http://cather.unl.edu/cat.0017.xml](First edition of *O Pioneers!* from the Willa Cather Archive)
+* [First edition of *O Pioneers!* from the Willa Cather Archive](http://cather.unl.edu/cat.0017.xml)
