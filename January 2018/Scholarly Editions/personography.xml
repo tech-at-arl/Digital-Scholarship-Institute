@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+         <listPerson>
+            <!-- Contains list of elements with biographical information about a person -->
+            <!-- Insert unique identifier for each person -->
+            <person xml:id="pers_emil_bergson">
+               <persName>Emil Bergson</persName>
+               <birth when="1908-12-01"> December 1, 1908
+                  <placeName>Nebraska</placeName>
+               </birth>
+               <death when="1975-11-05 "> November 5, 1975
+                  <placeName>Michigan</placeName>
+               </death>
+               <nationality>American</nationality>
+               <occupation><!-- Insert information about their occupation --></occupation>
+               <residence>Nebraska</residence>  
+               <note>Emil is Alexandra's younger brother. His kitten gets stuck on a pole. He is the child of John Bergson, a Swedish immigrant.</note>
+            </person>
+            <!-- Repeat for each person -->
+         </listPerson>
+
+    
