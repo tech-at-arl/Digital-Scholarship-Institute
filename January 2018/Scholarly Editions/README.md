@@ -29,7 +29,7 @@ _The Oxygen XML Editor license is good for 90 days as of December 20, 2017_
 * [Activity 4](activity4.md): Publish with TAPAS 
 
 ### Workshop Handouts
-* TEI Workflow Diagram: ([View PDF](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/TEI_workflow_diagram.pdf)) ([Downalod PDF]((https://iu.box.com/s/h4bia394ajxco6qyzi0mdlva8m7dvo8p)) 
+* TEI Workflow Diagram: ([View PDF](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/TEI_workflow_diagram.pdf)) ([Downalod PDF](https://iu.box.com/s/h4bia394ajxco6qyzi0mdlva8m7dvo8p)) 
 
 ## Learning Goals 
 
