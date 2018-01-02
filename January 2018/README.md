@@ -43,18 +43,18 @@ Both groups will start Day 1 together with welcoming remarks, an Introduction to
 Days 2–4 will be spent in the cohort groups, with each group spending a half-day on each of the following topics:
 
 ### Day 2: January 9
-* [Archives & Exhibitions with Omeka](/Archives%20and%20Exhibitions)
-* [Multimodal Online Publishing with Scalar](/Multimodal%20Online%20Publishing%20with%20Scalar)
+* [Archives & Exhibitions with Omeka](Archives%20and%20Exhibitions)
+* [Multimodal Online Publishing with Scalar](Multimodal%20Online%20Publishing%20with%20Scalar)
 
 ### Day 3: January 10
-* [Geospatial and Temporal Mapping with Carto](/Geospatial%20and%20Temporal%20Mapping%20with%20Carto)
-* [Information Visualization](/Information%20Visualization)
+* [Geospatial and Temporal Mapping with Carto](Geospatial%20and%20Temporal%20Mapping%20with%20Carto)
+* [Information Visualization](Information%20Visualization)
 
 ### Day 4: January 11
-* [Text Analysis: Concordances, Word Trends, & Word Clouds with Voyant Tools](/Text%20Analysis)
-* [Scholarly Editions: Text Encoding and Publishing with TEI](/Scholarly%20Editions)
+* [Text Analysis: Concordances, Word Trends, & Word Clouds with Voyant Tools](Text%20Analysis)
+* [Scholarly Editions: Text Encoding and Publishing with TEI](Scholarly%20Editions)
 
-Day 5, January 12th, will wrap up with a keynote by Dr. Angel David Nieves, and will end with [Digital Scholarship Consultations and Pedagogy](/Consultation), a debrief session, and some post-institute planning for continued online meetups. 
+Day 5, January 12th, will wrap up with a keynote by Dr. Angel David Nieves, and will end with [Digital Scholarship Consultations and Pedagogy](Consultation), a debrief session, and some post-institute planning for continued online meetups. 
 
 There may be opportunities to extend learning on one or more of the evenings if participants are interested in developing spontaneous groups for further study or play. Timely breaks to re-charge, and community-building receptions, will also be included in the experience.
 
