@@ -44,10 +44,10 @@ Days 2–4 will be spent in the cohort groups, with each group spending a half-d
 
 ### Day 2: January 9
 * [Archives & Exhibitions with Omeka](Archives%20and%20Exhibitions)
-* [Multimodal Online Publishing with Scalar](Multimodal%20Online%20Publishing%20with%20Scalar)
+* [Multimodal Online Publishing with Scalar](Multimodal%20Online%20Publishing)
 
 ### Day 3: January 10
-* [Geospatial and Temporal Mapping with Carto](Geospatial%20and%20Temporal%20Mapping%20with%20Carto)
+* [Geospatial and Temporal Mapping](Geospatial%20and%20Temporal%20Mapping)
 * [Information Visualization](Information%20Visualization)
 
 ### Day 4: January 11
