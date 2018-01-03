@@ -34,13 +34,13 @@ Digital Paxton: http://digitalpaxton.org/works/digital-paxton/introduction?path=
 Walker Art Center catalog: http://www.walkerart.org/collections/publications/performativity/experiential-turn/   
 
 ## ACTIVITY 2: Writing for Multi-Modal Publishing
-* Map a Scalar site with your source material:  Select text and images from the provided example content in "Scalar_examples.docx" 
-* Text is from Wikipedia article, "History of Science and Technology"
-* Includes a list of related media objects and images that are potential source material for media
+* Map a Scalar site with your source material: Sort through the sample text and media content provided to plan out a site on a topic related to the History of Science. 
+* Text is from Wikipedia articles related to history of science and technology. All Wikipedia text is licensed CC-BY-SA. Feel free to take it and rearrange it as you like. Don't worry about filling in the gaps between text--consider this a draft and focus on concepts you want to link together.
+* Media objects include some that can be integrated directly from Scalar partner archives and some you will need to download and upload a copy of into Scalar yourself.
 
 ### Instructions:
 1.	Select the portion of text you want to use from the example Wikipedia essay.
-2. Find and download related video, audio, images, etc. from the provided list in "Scalar_examples.docx".
+2. Find related video, audio, images, etc. from the provided list in "Scalar_examples.docx".
 3.	Map out the structure of the site on the large tablet: Identify your site topic.  Use smaller sticky notes to represent different types of content—different colors for different types of content (media, annotation, main body text).
 4.	Represent distinct pages.
 5.	Represent connections between pages.
