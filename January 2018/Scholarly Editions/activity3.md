@@ -16,8 +16,8 @@
           * preferences
           * editor
           * content completion
-          
-* Endode metadata from *O Pioneers!*
+  
+* Endode metadata from *O Pioneers!* (Use [activity3_1913-Cather-OPioneers.pdf](activity3_1913-Cather-OPioneers.pdf))
    1. Begin encoding *all together*; Anna/Michelle will walkthrough the encoding with the class
          1. Subdivisions of TEI header and elements:
               * `<fileDesc>` (mandatory)
