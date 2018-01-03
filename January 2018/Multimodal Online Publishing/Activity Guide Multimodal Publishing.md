@@ -38,7 +38,7 @@ Walker Art Center catalog: http://www.walkerart.org/collections/publications/per
 * Map a Scalar site with your source material: Sort through the sample text and media content provided to plan out a site on a topic related to the History of Science. 
 * Text is from Wikipedia articles related to history of science and technology. All Wikipedia text is licensed CC-BY-SA. Feel free to take it and rearrange it as you like. Don't worry about filling in the gaps between text--consider this a draft and focus on concepts you want to link together.
 * Media objects include some that can be integrated directly from Scalar partner archives and some you will need to download and upload a copy of into Scalar yourself.
-* Sample content can be found in the document "ScalarActivity2_SampleContent.docx" in the workshop GitHub folder.
+* Sample content including text and links to multimedia can be found in the document "ScalarActivity2_SampleContent.docx" in the workshop GitHub folder.
 
 ### Instructions:
 1.	Select the portion of text you want to use from the example Wikipedia content.
