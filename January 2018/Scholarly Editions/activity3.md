@@ -29,7 +29,7 @@
               * `<profileDesc>`
               * `<revisionDesc>`
 
-* Encode text and body
+* Encode text and body (through page 10)
    1. In the same file, move down to the text section and encode the front matter
       1. `<front>`, `<titlePage>`, illustration, dedication, epigraph, contents
       2. Move down to the `<body>` section and begin encoding the paragraph structure `<p>` and page breaks `<pb n="#"/>`
