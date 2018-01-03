@@ -1,5 +1,7 @@
 # Recommended Readings on Multimodal Publishing
 
+This is a list of related readings for those who are interested in investigating this topic further. You are not required to look at these in advance of the session.
+
 Adsanatham, Chanon. “Integrating Assessment and Instruction: Using Student-Generated Grading Criteria to Evaluate Multimodal Digital Projects.” Computers and Composition 29 (2012): 152-174. 
 
 Anderson, Steve, and Tara McPherson. "Engaging digital scholarship: Thoughts on evaluating multimedia scholarship." Profession 2011, no. 1 (2011): 136-151.
