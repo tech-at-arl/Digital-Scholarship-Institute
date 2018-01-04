@@ -1,7 +1,7 @@
 # Exercise 3: Create collections and exhibits in Omeka
 
 ## Self-guided exercises
-1. [Add a New Collection](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/add-a-collection.html).
+1. [Add a new collection and associate appropriate items to collection](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/add-a-collection.html).
 2. [Make an Exhibit](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/make-an-exhibit.html).
 
 As you work independently, let us know how you're doing by flagging your laptop using the sticky notes provided:
