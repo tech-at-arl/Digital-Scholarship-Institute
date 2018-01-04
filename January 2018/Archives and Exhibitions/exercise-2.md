@@ -2,9 +2,19 @@
 
 ## Instructions
 
-1. Workshop facilitators will pass out sample items printed on handouts.
+1. Choose 3-5 items from the [image folder](https://drive.google.com/drive/u/0/folders/1HhftCNK4rGuXw0e7NU9j1-ajbqx-cfGR). 
 
-2. Working individually, describe 1–2 items by filling out metadata fields (e.g. title, subject) printed on the handout. Reference the [spreadsheet of sample collection items](https://docs.google.com/spreadsheets/d/1UPg8tbS3cpTgDvEJ6lGOPQawPZnXMW0YEYgtJYfY850/edit?usp=sharing) in order to locate a clickable URL for each image, from which you can glean clues for the description of your item.
+2. Working individually, describe 3-5 items by filling out metadata fields. Reference the [metadata sheet](https://drive.google.com/drive/u/0/folders/1vKCsJMp1kT0PYMYB4TjhBEZcwS0NkA47) in order to identify the object. Choose at least one item from a different collection.
+
+3. Add these [New Items](https://jaguillette.github.io/omekaSugar/tutorial/items/2016/09/02/add-an-item.html) to your Omeka.net site.
+
+As you work independently, let us know how you're doing by flagging your laptop using the sticky notes provided:
+
+- :cool: **Green**. It's going great!
+- :question: **Pink**. We're stumped.
+- :100: **Blue**. I'm finished!
+
+If you get stuck, first ask a fellow workshop participant how they worked through the roadblock you're encountering. Still stumped? Flag your laptop with the pink sticky. Help is on its way!
 
 
 ## What do these metadata fields mean?!
