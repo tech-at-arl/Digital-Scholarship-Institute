@@ -2,11 +2,9 @@
 
 ## Instructions
 
-1. Choose 3-5 items from the [image folder](https://drive.google.com/drive/u/0/folders/1HhftCNK4rGuXw0e7NU9j1-ajbqx-cfGR). 
+1. Choose 3-5 items from the [image folder](https://drive.google.com/drive/u/0/folders/1HhftCNK4rGuXw0e7NU9j1-ajbqx-cfGR). Choose at least one item from a different collection.
 
-2. Working individually, describe 3-5 items by filling out metadata fields. Reference the [metadata sheet](https://drive.google.com/drive/u/0/folders/1vKCsJMp1kT0PYMYB4TjhBEZcwS0NkA47) in order to identify the object. Choose at least one item from a different collection.
-
-3. Add these [New Items](https://jaguillette.github.io/omekaSugar/tutorial/items/2016/09/02/add-an-item.html) to your Omeka.net site.
+2. Sign into your Omeka.net account and [add these items](https://jaguillette.github.io/omekaSugar/tutorial/items/2016/09/02/add-an-item.html) by filling out metadata fields. Reference the [metadata sheet](https://drive.google.com/drive/u/0/folders/1vKCsJMp1kT0PYMYB4TjhBEZcwS0NkA47) in order to identify the object. 
 
 As you work independently, let us know how you're doing by flagging your laptop using the sticky notes provided:
 
