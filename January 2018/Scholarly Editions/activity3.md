@@ -54,7 +54,7 @@
 TEI-C guidelines
 * [TEI Header](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html)
 * [Text Structure](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html)
-* [Names, Dates, Peopler, and Places](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html)
+* [Names, Dates, People, and Places](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html)
 
 Fully encoded text (for your review):
 * [First edition of *O Pioneers!* from the Willa Cather Archive](http://cather.unl.edu/cat.0017.xml)
