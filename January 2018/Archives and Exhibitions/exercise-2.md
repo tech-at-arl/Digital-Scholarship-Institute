@@ -6,7 +6,7 @@
 
 2. Sign into your Omeka.net account and create a site in My Dashboard. Once created, click Manage Site to begin.
 
-3. [Add these items](https://jaguillette.github.io/omekaSugar/tutorial/items/2016/09/02/add-an-item.html) by filling out metadata fields and uploading the corresponding image. Reference the [metadata sheet](https://drive.google.com/drive/u/0/folders/1vKCsJMp1kT0PYMYB4TjhBEZcwS0NkA47) in order to identify the object. Refer to the [data dictionary](https://drive.google.com/open?id=1hXuh_DP5c8xP-9SZx8vi1pl_b5pxMvw0) if you're uncertain about the original metadata.
+3. [Add these items](https://jaguillette.github.io/omekaSugar/tutorial/items/2016/09/02/add-an-item.html) by filling out metadata fields and uploading the corresponding image. Reference the [metadata sheet](https://drive.google.com/drive/u/0/folders/1vKCsJMp1kT0PYMYB4TjhBEZcwS0NkA47) in order to identify the object. Refer to the [data dictionary](https://drive.google.com/open?id=1hXuh_DP5c8xP-9SZx8vi1pl_b5pxMvw0) if you're uncertain about the original metadata. 
 
 As you work independently, let us know how you're doing by flagging your laptop using the sticky notes provided:
 
