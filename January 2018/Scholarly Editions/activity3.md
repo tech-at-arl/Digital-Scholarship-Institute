@@ -4,7 +4,7 @@
 
 * Review Oxygen XML Editor
   1. Launch Oxygen XML Editor
-       1. Download [opioneers-excerpt](opioneers-excerpt.xml) file
+       1. Download [opioneers-excerpt](https://app.box.com/s/spka42icx59reonyk15krlu9dmt4xbdt) file
           * Save file to desktop or copy and paste into Oxygen XML Editor
           * File => Open => opioneers-excerpt.xml
        2. Close unnecessary windows
@@ -35,7 +35,7 @@
       2. Move down to the `<body>` section and begin encoding the paragraph structure `<p>` and page breaks `<pb n="#"/>`
 
 * Create a Personography
-   1. Open [personography](personography.xml) template file
+   1. Open [personography](https://app.box.com/s/wbisqwwzu0fl7r5lthtbvbbef92rsvbq) template file
        1. Save file to desktop or copy and paste into Oxygen XML Editor
    2. Open file in Oxygen XML Editor
        1. File => Open => personography.xml
