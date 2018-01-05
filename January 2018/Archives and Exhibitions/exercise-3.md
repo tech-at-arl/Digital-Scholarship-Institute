@@ -2,7 +2,8 @@
 
 ## Self-guided exercises
 1. [Add a new collection and associate appropriate items to collection](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/add-a-collection.html).
-2. [Make an Exhibit](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/make-an-exhibit.html). For historical context about the collection, visit [OUT on the Left Coast](https://sdpride.sdsu.edu/), a SDSU digital exhibit created in WordPress featuring a subset of the digital images -- see the [interactive timeline](https://sdpride.sdsu.edu/out-on-the-left-coast-timeline/).
+2. [Make an Exhibit](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/make-an-exhibit.html). For historical context about the collection, visit [OUT on the Left Coast](https://sdpride.sdsu.edu/), a SDSU digital exhibit created in WordPress featuring a subset of the digital images -- see the [interactive timeline](https://sdpride.sdsu.edu/out-on-the-left-coast-timeline/). 
+..2. Note: you may need to install the Exhibit Builder plugin in your Omeka site: Dashboard > Manage Site > Plugins > Click the green "Install" button.
 
 As you work independently, let us know how you're doing by flagging your laptop using the sticky notes provided:
 
