@@ -67,9 +67,8 @@ Participants will:
 * [Walt Whitman Archive Encoding Guidelines](http://whitmanarchive.org/mediawiki/index.php/Whitman_Encoding_Guidelines)
 
 ### Publishing TEI
-* ADD link to TAPAS and TAPAS examples
+* [TAPAS - ARL DSI Scholarly Editions](http://www.tapasproject.org/arl-dsi-scholarly-editions) and [TAPAS - Willa Cather O'Pioneers!](http://www.tapasproject.org/arl-dsi-scholarly-editions/willa-cather-opioneers)
 * [TEI Boilerplate Workshop and Sample Exercises](http://dcl.slis.indiana.edu/teibpws/)
-* ADD link to peer-review handout
 
 ### Peer-Review and Publications Venues for TEI Projects
 #### Guidelines 
