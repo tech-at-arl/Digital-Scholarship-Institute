@@ -20,4 +20,4 @@ II. Hands-on exercises
 * Exercise 3: Choose Your Own Adventure
 
 III. Resources
-* [Resources to be posted here]
+* [Voyant Tools Help: Guides](http://voyant-tools.org/docs/#!/guide)
