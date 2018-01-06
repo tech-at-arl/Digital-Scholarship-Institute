@@ -17,6 +17,7 @@ II. Hands-on exercises
 * [Exercise 1](http://webapp1.dlib.indiana.edu/vwwp/view?docId=VAB7118.xml&doc.view=print)
 * [Exercise 2a](http://webapp1.dlib.indiana.edu/vwwp/view?docId=VAB7118.xml&doc.view=print)
 * [Exercise 2b](http://webapp1.dlib.indiana.edu/vwwp/view?docId=VAB7118.xml&doc.view=print)
+* Exercise 3: Choose Your Own Adventure
 
 III. Resources
 * [Resources to be posted here]
