@@ -14,7 +14,7 @@ I. Presentation
 * Recent innovation and applications
 
 II. Hands-on exercise
-* [Exercise 1] (http://webapp1.dlib.indiana.edu/vwwp/view?docId=VAB7118.xml&doc.view=print)
+[Exercise 1] (http://webapp1.dlib.indiana.edu/vwwp/view?docId=VAB7118.xml&doc.view=print)
 
 III. Resources
 * [Resources to be posted here]
