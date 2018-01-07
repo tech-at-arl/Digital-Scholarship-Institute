@@ -22,10 +22,10 @@ _If you already have a TAPAS account, you don't need to create a new account.  E
 _The Oxygen XML Editor license is good for 90 days as of December 20, 2017_
 
 ## Workshop Materials
-* [Presentation Slides](https://) (PDF)
-* [Activity 1](activity1.md): Review 5 example digital edition sites.
-* [Activity 2](activity2.md): Conduct document analysis.
-* [Activity 3](activity3.md): Encode following the TEI Guidelines.
+* Presentation Slides: ([View PDF](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/Scholarly%20Editions_%20TEI%20Text%20Encoding%20and%20Publishing.pdf)) ([Downalod PDF](https://iu.box.com/s/17unqpvb7h8jd0ks2v1jagxjhi476ihw)) 
+* [Activity 1](activity1.md): Review example digital edition websites
+* [Activity 2](activity2.md): Conduct document analysis
+* [Activity 3](activity3.md): Encode following the TEI Guidelines
 * [Activity 4](activity4.md): Publish with TAPAS 
 
 ### Workshop Handouts
@@ -76,7 +76,7 @@ Participants will:
 * [IDE Criteria for Reviewing Scholarly Digital Editions](https://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/)
 
 #### Peer-Review for Digital Research Projects 
-* Advanced Research Consortium ([ARC])(http://idhmcmain.tamu.edu/arcgrant/)
+* Advanced Research Consortium ([ARC](http://idhmcmain.tamu.edu/arcgrant/))
   * [NINES](http://www.nines.org/) (Networked Interface for Nineteenth Century Electronic Scholarship)
   * [18thConnect](http://www.18thconnect.org/)
   * [MESA](http://www.mesa-medieval.org/) (Medieval Electronic Scholarly Alliance) 
