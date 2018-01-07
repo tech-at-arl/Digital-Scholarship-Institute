@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Choose 3-5 items from the [image folder](https://drive.google.com/drive/u/0/folders/1HhftCNK4rGuXw0e7NU9j1-ajbqx-cfGR). Choose at least one item from a different collection; consult the [metadata file]((https://drive.google.com/drive/u/0/folders/1vKCsJMp1kT0PYMYB4TjhBEZcwS0NkA47) to determine the collection.
+1. Choose 3-5 items from the [image folder](https://drive.google.com/drive/u/0/folders/1HhftCNK4rGuXw0e7NU9j1-ajbqx-cfGR). Choose at least one item from a different collection; consult the [metadata file](https://drive.google.com/drive/u/0/folders/1vKCsJMp1kT0PYMYB4TjhBEZcwS0NkA47) to determine the collection.
 
 2. Sign into your Omeka.net account and create a site in My Dashboard. Once created, click Manage Site to begin.
 
