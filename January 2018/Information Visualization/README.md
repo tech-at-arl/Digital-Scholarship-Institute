@@ -7,7 +7,7 @@ Laura Schwartz, UC San Diego: l7schwartz@ucsd.edu
 Workshop Materials
 ------------------
 
-Data Sets: [scenarios](/scenarios&nbsp;data.pdf) and [example data sets for scenarios](Info&nnbsp;Viz&nnbsp;Exercise&nbsp;Scenarios.pdf)
+Data Sets: scenarios and Info Viz Exercise Scenarios.pdf
 
 Google Slides Presentation: https://docs.google.com/presentation/d/1ySzEJNv-d_EvZpQM0iLRAc_LC4Y1Q-TClGW4xqBsY-c/edit?usp=sharing
 
