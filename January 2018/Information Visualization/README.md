@@ -33,4 +33,5 @@ Learning Goals
 Bibilography
 --------------
 	Andy Kirk, Data Visualisation: A Handbook for Data Driven Design. Los Angeles: Sage Publications, 2016
-	Giorgia Lupi & Stefanie Posavec, Dear Data: A Friendship in 52 Weeks of Postcards. Princeton, NJ: Princeton Architectural Press, 2016.
+	
+	Giorgia Lupi & Stefanie Posavec, Dear Data: A Friendship in 52 Weeks of Postcards. Princeton, NJ: Princeton 		Architectural Press, 2016.
