@@ -7,10 +7,10 @@ Laura Schwartz, UC San Diego: l7schwartz@ucsd.edu
 Workshop Materials
 ------------------
 
-	Data Sets: scenarios and example data sets for scenarios
-	Google Slides Presentation: <https://docs.google.com/presentation/d/1ySzEJNv-d_EvZpQM0iLRAc_LC4Y1Q-TClGW4xqBsY-c/edit?usp=sharing>
-	OpenRefine- download here: <http://openrefine.org/download.html>
-	Raw online data analysis tool: <http://app.rawgraphs.io/>
+Data Sets: scenarios and example data sets for scenarios
+Google Slides Presentation: https://docs.google.com/presentation/d/1ySzEJNv-d_EvZpQM0iLRAc_LC4Y1Q-TClGW4xqBsY-c/edit?usp=sharing
+OpenRefine- download here: http://openrefine.org/download.html
+Raw online data analysis tool: http://app.rawgraphs.io
 	
 
 Learning Goals
