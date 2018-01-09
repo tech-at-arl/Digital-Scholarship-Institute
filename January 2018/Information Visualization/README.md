@@ -8,7 +8,7 @@ Workshop Materials
 ------------------
 
 	Data Sets: scenarios and example data sets for scenarios
-	Powerpoint Presentation: (TBD)
+	Powerpoint Presentation: https://docs.google.com/presentation/d/1ySzEJNv-d_EvZpQM0iLRAc_LC4Y1Q-TClGW4xqBsY-c/edit?usp=sharing
 	OpenRefine- download here: http://openrefine.org/download.html
 	Raw online data analysis tool: http://app.rawgraphs.io/
 	
