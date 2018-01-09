@@ -1,6 +1,6 @@
 # Introduction
 
-This document presents an overview of the workshop, which includes both lecture and hands-on exercises. Your instructors are Sarah Melton (sarah.melton@bc.edu) and Pamella Lach (plach@sdsu.edu).
+This document presents an overview of the workshop, which includes both lecture and hands-on exercises. Your instructors are Sarah Melton (sarah.melton@bc.edu) and Pamella Lach (plach@sdsu.edu). [Slides](https://docs.google.com/presentation/d/13_ymLaR-ip77Q7qPdWMmhZCFclLbDkdN4aQsNsfxp3o/edit?usp=sharing) are available on Google Drive.
 
 ## Learning Goals
 
