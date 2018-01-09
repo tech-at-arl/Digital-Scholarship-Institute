@@ -1,6 +1,6 @@
 ## Introduction and Learning Goals
 
-In this session we will introduce the concept of "thinking spatially" as well as a few tools and concepts commonly used when engaging in spatial projects.  None of the tools will be covered in depth but rather you will get exposed ot several different tools with an emphasis on the "spatial thinking" required when using these tools.
+In this session we will introduce the concept of "thinking spatially" as well as a few tools and concepts commonly used when engaging in spatial projects.  None of the tools will be covered in depth but rather you will get exposed to several different commonly used tools with an emphasis on the "spatial thinking" required when using these tools.
 
 ## Schedule
 1. Introduction to mapping and thinking spatially
