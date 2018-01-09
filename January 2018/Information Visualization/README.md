@@ -31,4 +31,5 @@ Learning Goals
 > information better than a textual analysis
 
 Bibilography
+--------------
 	Andy Kirk, Data Visualisation: A Handbook for Data Driven Design. Los Angeles: Sage Publications, 2016
