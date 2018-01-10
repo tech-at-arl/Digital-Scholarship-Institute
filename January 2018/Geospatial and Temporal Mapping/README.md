@@ -20,6 +20,7 @@ Neatline Mapping http://neatline.org
 Neatline Mapping http://btinker.digitalscholar.rochester.edu/DSI/admin   
 U: DSI  
 P: dsipass  
+Example Neatline Exhibit: http://dslab.lib.rochester.edu/esw/neatline/show/esw-nile  
 
 ArcGIS Online http://arcgis.com  
 
