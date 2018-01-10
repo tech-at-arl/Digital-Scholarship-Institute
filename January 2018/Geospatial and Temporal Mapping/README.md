@@ -17,7 +17,7 @@ The Geospatial Revolution http://geospatialrevolution.psu.edu/
 Burrito Source data https://github.com/srcole/burritos  
 Georeferencing maps http://davidrumsey.com (create an account to get the most out of the exercise)  
 Neatline Mapping http://neatline.org  
-Neatline Mapping http://btinker.digitalscholar.rochester.edu/DSI/admin 
+Neatline Mapping http://btinker.digitalscholar.rochester.edu/DSI/admin   
 U: DSI  
 P: dsipass  
 
