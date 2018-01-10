@@ -37,4 +37,7 @@ Activity- Georeferencing https://drive.google.com/open?id=1nTL05ZlIYuC6g0c98aAFM
   
 Activity- Neatline Mapping https://drive.google.com/open?id=1erAlqJrqtT7wagVyQzRLeiNgdyAfEK9mk5UQJ5bW1lQ  
   
-Activity- Geocoding in OpenRefine https://drive.google.com/open?id=11MyKjhRJwCnk4mH7xYIPEGkHhMjKhG9B9jFRHZTXosk  
+Activity- Geocoding in OpenRefine https://drive.google.com/open?id=11MyKjhRJwCnk4mH7xYIPEGkHhMjKhG9B9jFRHZTXosk    
+
+"http://nominatim.openstreetmap.org/search?format=json&email=your_email_here&addressdetails=1&polygon=0&limit=1&q="+ escape(value, 'url') + "," + escape(cells.Neighborhood.value, 'url') + escape(", California", 'url')
+
