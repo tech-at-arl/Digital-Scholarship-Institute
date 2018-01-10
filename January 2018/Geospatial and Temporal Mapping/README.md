@@ -38,6 +38,20 @@ Activity- Georeferencing https://drive.google.com/open?id=1nTL05ZlIYuC6g0c98aAFM
 Activity- Neatline Mapping https://drive.google.com/open?id=1erAlqJrqtT7wagVyQzRLeiNgdyAfEK9mk5UQJ5bW1lQ  
   
 Activity- Geocoding in OpenRefine https://drive.google.com/open?id=11MyKjhRJwCnk4mH7xYIPEGkHhMjKhG9B9jFRHZTXosk    
+Code for OpenRefine  
 
-"http://nominatim.openstreetmap.org/search?format=json&email=your_email_here&addressdetails=1&polygon=0&limit=1&q="+ escape(value, 'url') + "," + escape(cells.Neighborhood.value, 'url') + escape(", California", 'url')
+"http://nominatim.openstreetmap.org/search?format=json&email=your_email_here&addressdetails=1&polygon=0&limit=1&q="+ escape(value, 'url') + "," + escape(cells.Neighborhood.value, 'url') + escape(", California", 'url')  
+
+value.parseJson()[0].lat  
+value.parseJson()[0].lon  
+
+import json, math #import the needed modules
+lat = cells["lat"]["value"] #pull the latitude value out of the resulting field
+lon = cells["lon"]["value"] #pull the longitude value out of the resulting field
+x = math.radians(float(lon))*6378137 #convert the lat and lon to Mercator meters
+y = math.log(math.tan(float(lat)*(math.pi/180/2)+math.pi/4))*6378137 
+return "POINT(" + str(x) + " " + str(y) + ")" #create the string to put in the coverage field in Omeka
+
+
+
 
