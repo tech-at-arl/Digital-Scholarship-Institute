@@ -2,25 +2,6 @@
 
 Instructors: [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto:kijas@bc.edu)
 
-## Prep Before the Workshop
-
-### Create a TAPAS Account
-_If you already have a TAPAS account, you don't need to create a new account.  Email [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto:kijas@bc.edu) your TAPAS username so we can add you to the TAPAS project for this workshop._
-
-* Visit the TAPAS website: http://www.tapasproject.org/
-* Click on "Sign In" on the top-right of the page
-* Select "Create new account" tab
-  * Enter the required information; customize your profile information when you register or later
-* Once your account has been created, **email [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto:kijas@bc.edu) your TAPAS username** so we can add you to the TAPAS project for this workshop.   
-
-### Download and install Oxygen XML Editor
-* http://www.oxygenxml.com/download.html
-  * Windows users, **download the 32-bit application** 
-* See email sent by mdalmau@indiana.edu on December 20, 2017 for the License Key 
-* If you need help installing Oxygen, email me so that we can install at the Geisel Library before January 11th. 
-
-_The Oxygen XML Editor license is good for 90 days as of December 20, 2017_
-
 ## Workshop Materials
 * Presentation Slides: ([View PDF](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/Scholarly%20Editions_%20TEI%20Text%20Encoding%20and%20Publishing.pdf)) ([Downalod PDF](https://iu.box.com/s/17unqpvb7h8jd0ks2v1jagxjhi476ihw)) 
 * [Activity 1](activity1.md): Review example digital edition websites
@@ -102,6 +83,28 @@ Participants will:
 ##### PhiloLogic / PhiloMine
 * https://sites.google.com/site/philologic3/home
 * “[PhiloLogic 4: An Abstract TEI Query System](https://jtei.revues.org/817)” by Allen, Gladstone & Whaling (2013)
+
+-----
+## Prep Before the Workshop
+
+### Create a TAPAS Account
+_If you already have a TAPAS account, you don't need to create a new account.  Email [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto:kijas@bc.edu) your TAPAS username so we can add you to the TAPAS project for this workshop._
+
+* Visit the TAPAS website: http://www.tapasproject.org/
+* Click on "Sign In" on the top-right of the page
+* Select "Create new account" tab
+  * Enter the required information; customize your profile information when you register or later
+* Once your account has been created, **email [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto:kijas@bc.edu) your TAPAS username** so we can add you to the TAPAS project for this workshop.   
+
+### Download and install Oxygen XML Editor
+* http://www.oxygenxml.com/download.html
+  * Windows users, **download the 32-bit application** 
+* See email sent by mdalmau@indiana.edu on December 20, 2017 for the License Key 
+* If you need help installing Oxygen, email me so that we can install at the Geisel Library before January 11th. 
+
+_The Oxygen XML Editor license is good for 90 days as of December 20, 2017_
+
+----
 
 ## Contact
 * Michelle Dalmau
