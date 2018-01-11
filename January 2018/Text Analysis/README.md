@@ -35,6 +35,7 @@ IV.  Other tools to play with
 * [Secret Life of Pronouns](http://www.secretlifeofpronouns.com/exercises.php)
 * [Apply Magic Sauce -- Analytic Profiling](https://applymagicsauce.com/)
 * [Inpho Topic Explorer](http://inphodata.cogs.indiana.edu/)
+* [Visualizing 27 years, 12 million words of the Humanist list](http://dclure.org/essays/visualizing-the-humanist/)
 
 
 V.  Bibliography
