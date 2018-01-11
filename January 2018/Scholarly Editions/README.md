@@ -103,6 +103,7 @@ _If you already have a TAPAS account, you don't need to create a new account.  E
 * If you need help installing Oxygen, email me so that we can install at the Geisel Library before January 11th. 
 
 _The Oxygen XML Editor license is good for 90 days as of December 20, 2017_
+
 ----
 
 ## Contact
