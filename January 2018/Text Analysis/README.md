@@ -24,6 +24,8 @@ II. Hands-on exercises
 * [Exercise 2b](http://webapp1.dlib.indiana.edu/vwwp/view?docId=VAB7103.xml&doc.view=print)
 * Exercise 3: Choose Your Own Adventure
 
+* If time, Erin can lead exercise on analyzing [UCSD's student newspapers.](http://voyant-tools.org/?corpus=f83163bd6072101b4e4bd8c331428ad0)
+
 III. Resources
 * [Voyant Tools Help: Guides](http://voyant-tools.org/docs/#!/guide)
 
