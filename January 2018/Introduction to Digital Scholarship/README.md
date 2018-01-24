@@ -4,7 +4,7 @@ Instructor:
 Miriam Posner, Assistant Professor in the Graduate School of Education and Information Studies, University of California Los Angeles | [@miriamkp](https://twitter.com/miriamkp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 ## Workshop Materials
-* Presentation Slides: ([View PDF](Digital-Scholarship-Institute/January 2018/Introduction to Digital Scholarship/ARLIntrotoDH_Posner_2018_01_08.pdf)) 
+* Presentation Slides: ([View PDF](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/January%202018/Introduction%20to%20Digital%20Scholarship/ARLIntrotoDH_Posner_2018_01_08.pdf)) 
 * Presentation Video: "[How Did They Make That?](https://archive.org/details/howdidtheymakethat)" 
 
 ## Reference & Training Resources
