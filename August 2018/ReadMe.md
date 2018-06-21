@@ -20,7 +20,18 @@ Please **create accounts and install required software** before workshops (see s
   * TBA
   
 * Scholarly Editions: TEI Encoding and Publishing
-  * TBA
+  Create a TAPAS Account
+  - If you already have a TAPAS account, you don't need to create a new account. Email Michelle Dalmau & Anna Kijas your TAPAS username so we can add you to the TAPAS project for this workshop.
+    - Visit the TAPAS website: http://www.tapasproject.org/
+    - Click on "Sign In" on the top-right of the page
+    - Select "Create new account" tab
+      Enter the required information; customize your profile information when you register or later
+      Once your account has been created, email Michelle Dalmau & Anna Kijas your TAPAS username so we can add you to the TAPAS 
+      project for this workshop.
+
+  [Download](http://www.oxygenxml.com/download.html) and install Oxygen XML Editor
+  - Windows users, download the 32-bit application
+  - License Key will be emailed to attendees
 
 * Research and Pedagogical Consultations
   * Read "[Beyond buttonology: Digital humanities, digital pedagogy, and the ACRL Framework](http://crln.acrl.org/index.php/crlnews/article/view/16833/18427)"
