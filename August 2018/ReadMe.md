@@ -23,7 +23,7 @@ Please **create accounts and install required software** before workshops (see s
   
   1. Create a TAPAS Account
   - If you already have a TAPAS account, you don't need to create a new account. Email Michelle Dalmau & Anna Kijas your TAPAS username so we can add you to the TAPAS project for this workshop.
-    - Visit the TAPAS website: http://www.tapasproject.org/
+    - Visit the [TAPAS website](http://www.tapasproject.org/)
     - Click on "Sign In" on the top-right of the page
     - Select "Create new account" tab
       Enter the required information; customize your profile information when you register or later
