@@ -16,8 +16,12 @@ Please **create accounts and install required software** before workshops (see s
 * GIS
   * TBA
 
-* Text Mining
-  * TBA
+* Text Analysis
+  1. Create a [HathiTrust Digital Library](https://www.hathitrust.org/) account
+  - If your institution is not a HathiTrust member, you can register as a guest
+  2. Create a [HathiTrust Research Center](https://analytics.hathitrust.org/) account
+  - Please use your institutional email address
+  - If you are asked to activate your account from your email, please make sure to go to your inbox and complete the activation process
   
 * Scholarly Editions: TEI Encoding and Publishing
   
@@ -51,7 +55,7 @@ Days 2–4 will be spent in two groups (with rotation so that you meet different
 * [Information Visualization](Information%20Visualization)
 
 ### Day 4: August 2
-* [Text Analysis: Concordances, Word Trends, & Word Clouds with Voyant Tools](Text%20Analysis)
+* [Text Analysis with the HathiTrust Research Center](Text%20Analysis)
 * [Scholarly Editions: Text Encoding and Publishing with TEI](Scholarly%20Editions)
 
 Day 5, August 3, will wrap up with a keynote by Dr. Kathleen Fitzpatrick, and will end with [Digital Scholarship Consultations and Pedagogy](Consultation), a debrief session, and some post-institute planning for continued online meetups. 
