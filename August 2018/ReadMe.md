@@ -5,7 +5,7 @@ Repository for course materials and related resources for the ARL Digital Schola
 Please **create accounts and install required software** before workshops (see schedule below).
 
 * Archives and Exhibitions with Omeka
-  * Navigate to (https://www.omeka.net/signup)
+  * Navigate to https://www.omeka.net/signup
   * Click the "Start Your Omeka Trial" button
   * Fill out the form with a username, password, etc. You should receive an email with a link to activate your account. Click on the link, and you should be taken to a screen that says, "Your account was activated successfully." If you already have an Omeka.net account (note—this is different from Omeka.org) you may wish to create a new account for this session, as the free plan only allows for one site.
 
