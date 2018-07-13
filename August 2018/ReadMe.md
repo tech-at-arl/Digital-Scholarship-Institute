@@ -13,7 +13,7 @@ Please **create accounts and install required software** before workshops (see s
   * None required. Account will be set up at start of workshop due to Scalar account process.
 
 * Information Visualization
-  * TBA
+  * None required.
 
 * GIS
   * TBA
