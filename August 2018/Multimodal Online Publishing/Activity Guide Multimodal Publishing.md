@@ -27,8 +27,7 @@ Media and the Movement: http://mediaandthemovement.unc.edu/about/
  
 ### Group 4:
 The Kiplings and India: https://scalar.lehigh.edu/kiplings/index
-
-Southern Spaces journal: "Public Health" https://southernspaces.org/2016/public-health-us-and-global-south  
+Southern Spaces journal: Public Health https://southernspaces.org/2016/public-health-us-and-global-south  
 
 ### Group 5:
 Digital Paxton: http://digitalpaxton.org/works/digital-paxton/introduction?path=index  
@@ -46,4 +45,4 @@ Walker Art Center catalog: http://www.walkerart.org/collections/publications/per
 3.	Map out the structure of the site on the large tablet: Identify your site topic.  Use smaller sticky notes to represent different types of content—different colors for different types of content (media, annotation, main body text).
 4.	Represent distinct pages.
 5.	Represent connections between pages.
-[6. You'll be using this map and the materials to work in Scalar in the second half of the workshop, so please keep the text and image files handy on your laptop!]
+6. You'll be using this map and the materials to work in Scalar in the second half of the workshop, so please keep the text and image files handy on your laptop!
