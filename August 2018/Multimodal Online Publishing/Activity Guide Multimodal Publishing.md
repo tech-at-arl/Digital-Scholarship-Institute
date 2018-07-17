@@ -27,6 +27,7 @@ Media and the Movement: http://mediaandthemovement.unc.edu/about/
  
 ### Group 4:
 The Kiplings and India: https://scalar.lehigh.edu/kiplings/index
+
 Southern Spaces journal: Public Health https://southernspaces.org/2016/public-health-us-and-global-south  
 
 ### Group 5:
