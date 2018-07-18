@@ -17,13 +17,15 @@ Please **create accounts and install required software** before workshops (see s
 
 * GIS
   * Create an [ArcGIS Online Account](www.arcgis.com):
-   1. Go to [ArcGIS Online](www.arcgis.com)
-   2. Click on Sign In
-   3. Click on Create a Public Account. (We realize that some institutions might already have ArcGIS accounts. For this workshop, we'd like everyone to use a Public Account so that we can minimize discrepancies in set-up and views.)
+    - Go to [ArcGIS Online](www.arcgis.com)
+    - Click on **Sign In**
+    - Click on **Create a Public Account**. (We realize that some institutions might already have ArcGIS accounts. For this workshop, we'd like everyone to use a Public Account so that we can minimize discrepancies in set-up and views.)
+    - Click on **Enter Your Information**
+    - Fill out your information and click **Create My Account**
    * Create a Luna account on [David Rumsey](https://www.davidrumsey.com/):
-   1. Launch the [Luna Viewer](https://www.davidrumsey.com/luna/servlet/view/all?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No)
-   2. Click on [Register](https://www.davidrumsey.com/luna/servlet/register;jsessionid=3f4e8e86-301b-4d79-b55f-2c8a8949fa11)
-   3. Fill out your information and click Submit
+     - Launch the [Luna Viewer](https://www.davidrumsey.com/luna/servlet/view/all?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No)
+     - Click on [**Register**](https://www.davidrumsey.com/luna/servlet/register;jsessionid=3f4e8e86-301b-4d79-b55f-2c8a8949fa11)
+     - Fill out your information and click **Submit**
 
 * Text Analysis
   1. Create a [HathiTrust Digital Library](https://www.hathitrust.org/) account
