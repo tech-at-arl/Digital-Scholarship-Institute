@@ -1,8 +1,8 @@
 # Exercise 3: Create collections and exhibits in Omeka
 
 ## Self-guided exercises
-1. [Add a new collection and associate appropriate items to collection](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/add-a-collection.html). Check out the [Omeka Sandbox](http://digischol.omeka.net/) to see 5 sample items across [3 collections](http://digischol.omeka.net/collections/browse). 
-2. [Make an Exhibit](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/make-an-exhibit.html). For historical context about the collection, visit [OUT on the Left Coast](https://sdpride.sdsu.edu/), a SDSU digital exhibit created in WordPress featuring a subset of the digital images -- see the [interactive timeline](https://sdpride.sdsu.edu/out-on-the-left-coast-timeline/). And check out this brief [sample exhibit](http://digischol.omeka.net/exhibits/show/sample) in the Omeka sandbox.
+1. [Add a new collection and associate appropriate items to collection](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/add-a-collection.html). Check out the [Omeka Sandbox](http://limestone.omeka.net/) to see sample items across [different collections](http://limestone.omeka.net/collections/browse). 
+2. [Make an Exhibit](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/make-an-exhibit.html). For historical context about the collection, visit [OUT on the Left Coast](https://sdpride.sdsu.edu/), a SDSU digital exhibit created in WordPress featuring a subset of the digital images -- see the [interactive timeline](https://sdpride.sdsu.edu/out-on-the-left-coast-timeline/). And check out this brief [sample exhibit](http://limestone.omeka.net/exhibits/show/midwest) in the Omeka sandbox.
 3. You may need to install/activate the Exhibit Builder plugin in your Omeka site: My Dashboard > Manage Site > Plugins > Click the green "Install" button.
 
 As you work independently, let us know how you're doing by flagging your laptop using the sticky notes provided:
