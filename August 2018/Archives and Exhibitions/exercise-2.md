@@ -2,11 +2,11 @@
 
 ## Instructions
 
-1. Choose 3-5 items from the [image folder](https://drive.google.com/drive/u/0/folders/1HhftCNK4rGuXw0e7NU9j1-ajbqx-cfGR). Choose at least one item from a different collection; consult the [metadata file](https://drive.google.com/drive/u/0/folders/1vKCsJMp1kT0PYMYB4TjhBEZcwS0NkA47) to determine the collection.
+1. Choose 3-5 items from the [image folder](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/August%202018/Archives%20and%20Exhibitions/images). Choose at least one item from a different collection; consult the [metadata file](https://drive.google.com/drive/u/0/folders/1vKCsJMp1kT0PYMYB4TjhBEZcwS0NkA47) to determine the collection.
 
 2. Sign into your Omeka.net account and create a site in My Dashboard. Once created, click Manage Site to begin.
 
-3. [Add](https://jaguillette.github.io/omekaSugar/tutorial/items/2016/09/02/add-an-item.html) the 3-5 items you've selected by filling out metadata fields and uploading the corresponding image. Reference the [metadata sheet](https://drive.google.com/drive/u/0/folders/1vKCsJMp1kT0PYMYB4TjhBEZcwS0NkA47) in order to identify the object (note that the metadata are not expressed in Dublin Core, and do not necessarily adhere to LC subject headings). Refer to the [data dictionary](https://drive.google.com/open?id=1hXuh_DP5c8xP-9SZx8vi1pl_b5pxMvw0) if you're uncertain about the original metadata. Check out the [Omeka Sandbox](http://digischol.omeka.net/) to see [5 sample items](http://digischol.omeka.net/items/browse).
+3. [Add](https://jaguillette.github.io/omekaSugar/tutorial/items/2016/09/02/add-an-item.html) the 3-5 items you've selected by filling out metadata fields and uploading the corresponding image. Reference the [metadata sheet](https://drive.google.com/drive/u/0/folders/1vKCsJMp1kT0PYMYB4TjhBEZcwS0NkA47) in order to identify the object (note that the metadata are not expressed in Dublin Core, and do not necessarily adhere to LC subject headings). Refer to the [data dictionary](https://drive.google.com/open?id=1hXuh_DP5c8xP-9SZx8vi1pl_b5pxMvw0) if you're uncertain about the original metadata. Check out the [Omeka Sandbox](http://limestone.omeka.net/) to see [sample items](http://limestone.omeka.net/items/browse).
 
 As you work independently, let us know how you're doing by flagging your laptop using the sticky notes provided:
 
@@ -41,4 +41,4 @@ Out of the box, Omeka uses Dublin Core elements as metadata fields, one of the s
 
 ## Rights
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed by creators Sarah Melton, Chelcie Rowell, and Pamella Lach under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed by creators Sarah Melton, Chelcie Rowell, Pamella Lach, and Nick Homenda under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
