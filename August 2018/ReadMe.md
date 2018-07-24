@@ -22,7 +22,7 @@ Please **create accounts and install required software** before workshops (see s
     - Click on **Create a Public Account**. (We realize that some institutions might already have ArcGIS accounts. For this workshop, we'd like everyone to use a Public Account so that we can minimize discrepancies in set-up and views.)
     - Click on **Enter Your Information**
     - Fill out your information and click **Create My Account**
-   * Create a Luna account on [David Rumsey](https://www.davidrumsey.com/):
+   * Create a Luna account on David Rumsey:
      - Launch the [Luna Viewer](https://www.davidrumsey.com/luna/servlet/view/all?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No)
      - Click on [**Register**](https://www.davidrumsey.com/luna/servlet/register;jsessionid=3f4e8e86-301b-4d79-b55f-2c8a8949fa11)
      - Fill out your information and click **Submit**
