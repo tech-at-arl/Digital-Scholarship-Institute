@@ -1,5 +1,5 @@
 
-Please read this article in preparation for our workshop on digital consultations (for research or pedagogy) - [Beyond buttonology: Digital humanities, digital pedagogy, and the ACRL Framework] (https://crln.acrl.org/index.php/crlnews/article/view/16833/18427). This can be a quick, interesting read while you travel, can provide some food for thought prior to the Aug 3 workshop, and is sure to resonate with librarians who have been working to incorporate the ACRL Framework into their teaching practice.
+Please read this article in preparation for our workshop on digital consultations (for research or pedagogy) - [Beyond buttonology: Digital humanities, digital pedagogy, and the ACRL Framework](https://crln.acrl.org/index.php/crlnews/article/view/16833/18427). This can be a quick, interesting read while you travel, can provide some food for thought prior to the Aug 3 workshop, and is sure to resonate with librarians who have been working to incorporate the ACRL Framework into their teaching practice.
 
 
 Participants will . . . 
