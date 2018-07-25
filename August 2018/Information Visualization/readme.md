@@ -15,5 +15,3 @@ Stefan Elnabli, Media Curation Librarian, stelnabli@ucsd.edu
 
 ### Tools
 https://rawgraphs.io/ - Browser-based tool that does not require local installation. As long as you have a computer, an internet browser, and an internet connection, you're good to go!
-### Workshop Materials
-This section will be updated with materials that will guide session exercises, and will also inculde the presentation slides.
