@@ -10,6 +10,8 @@ Ball, Cheryl E., and Douglas Eyman. “Editorial Workflows for Multimedia-Rich S
 
 Brier, Stephen. “Where’s the Pedagogy? The Role of Teaching and Learning in the Digital Humanities.” In Debates in the Digital Humanities, ed. Matthew K. Gold. Minneapolis: University of Minnesota Press, 2012: 390-401. http://dhdebates.gc.cuny.edu/debates/text/8
 
+Coolidge, Amanda, Sue Doner, and Tara Robertson. BCcampus Open Education Accessibility Toolkit. Victoria: BCcampus, 2015. https://opentextbc.ca/accessibilitytoolkit/
+
 DeVoss, Danielle Nicole, Elyse Eidman-Aadahl, and Troy Hicks. Because Digital Writing Matters: Improving Student Writing in Online and Multimedia Environments. San Francisco: Jossey-Bass, 2010.
 
 FemTechNet. “Wikistorming the Commons.” https://femtechnet.org/docc/feminist-wiki-storming/
