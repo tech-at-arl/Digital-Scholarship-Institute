@@ -14,4 +14,4 @@ While we'll go through the lab together during the workshop, these instructions 
 - [Indiana State Library](https://www.in.gov/library/5683.htm) 2017 Statistics
 - ["Main Libraries, Branches, and Bookmobiles: FY 2015 Public Libraries Survey (Outlet Data)"](https://data.imls.gov/Public-Libraries-Survey/Main-Libraries-Branches-and-Bookmobiles-FY-2015-Pu/6zyu-m6q5), Institute of Museums and Library Services (IMLS)
 - [Open Indy Data Portal](http://data.indy.gov/)
-- ESRI has a number of good beginning tutorials in their [Lesson Gallery](https://learn.arcgis.com/en/gallery/), ex., ["Get STarted with ArcGIS Online"](https://learn.arcgis.com/en/projects/get-started-with-arcgis-online/)
+- ESRI has a number of good beginning tutorials in their [Lesson Gallery](https://learn.arcgis.com/en/gallery/), ex., ["Get Started with ArcGIS Online"](https://learn.arcgis.com/en/projects/get-started-with-arcgis-online/)
