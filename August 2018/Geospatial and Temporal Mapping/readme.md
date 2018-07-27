@@ -5,5 +5,5 @@ Workshop Agenda:
 - Group Discussion (15 mins)
 - Georectify Historical Maps (20 mins): We will learn how to identify places on a scanned, image based map in order to place it on a coordinate system so that it can be used in combination with other data layers.
 - Break (30 mins)
-- [ArcGIS Online Introduction and Lab](August 2018/Geospatial and Temporal Mapping/ArcGIS Introduction.md) (60 mins): We will learn the basics of ArcGIS online, including creating a new map, navigating the interface, searching for and adding layers, changing the style, working with attributes, and map notes. We will also work in groups to propose a new location for a Indianapolis branch library based on analysis of local population, public transportation, current locations, etc.
+- [ArcGIS Online Introduction and Lab](Digital-Scholarship-Institute/August 2018/Geospatial and Temporal Mapping/ArcGIS Introduction.md) (60 mins): We will learn the basics of ArcGIS online, including creating a new map, navigating the interface, searching for and adding layers, changing the style, working with attributes, and map notes. We will also work in groups to propose a new location for a Indianapolis branch library based on analysis of local population, public transportation, current locations, etc.
 - Closing Discussion (30 mins)
