@@ -39,7 +39,7 @@ Participants will:
 ### TEI
 * [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
 * [TEI-L Mailing List](https://listserv.brown.edu/archives/cgi-bin/wa?SUBED1=tei-l&A=1)
-* [Best Practices for TEI in Libraries](http://purl.org/TEI/teiinlibraries): a guide for mass digitization, automated workflows, and promotion of interoperability with XML using the TEI
+* [Best Practices for TEI in Libraries](https://github.com/kshawkin/Best-Practices-for-TEI-in-Libraries): a guide for mass digitization, automated workflows, and promotion of interoperability with XML using the TEI
 * [Women Writers Project (WWP) Training Resources](https://www.wwp.northeastern.edu/outreach/resources/index.html)
 * [TEI by Example](http://teibyexample.org/)
 

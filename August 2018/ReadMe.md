@@ -13,10 +13,21 @@ Please **create accounts and install required software** before workshops (see s
   * None required. Account will be set up at start of workshop due to Scalar account process.
 
 * Information Visualization
-  * TBA
+  * None required.
 
 * GIS
-  * TBA
+  * Create an [ArcGIS Online Account](www.arcgis.com):
+    - Go to [ArcGIS Online](www.arcgis.com)
+    - Click on **Sign In**
+    - Click on **Create a Public Account**. (We realize that some institutions might already have ArcGIS accounts. For this workshop, we'd like everyone to use a Public Account so that we can minimize discrepancies in set-up and views.)
+    - Click on **Enter Your Information**
+    - Fill out your information and click **Create My Account**
+   * Create an account on David Rumsey:
+     - In the [Georeference Viewer](https://davidrumsey.georeferencer.com/maps/401323869929/view), click on **Sign In** in the upper right-hand corner
+     - Click **Sign In with Email**
+     - In put your email address
+     - You will then be prompted to input your name and create a Password
+     - Fill out your information and click **Sign Up**
 
 * Text Analysis
   1. Create a [HathiTrust Digital Library](https://www.hathitrust.org/) account
