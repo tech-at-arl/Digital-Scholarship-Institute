@@ -4,7 +4,7 @@
 Instructors: [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto:kijas@bc.edu)
 
 ## Workshop Materials
-* Presentation Slides: ([View PDF](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/Scholarly%20Editions_%20TEI%20Text%20Encoding%20and%20Publishing.pdf)) ([Downalod PDF](https://iu.box.com/s/17unqpvb7h8jd0ks2v1jagxjhi476ihw)) 
+* Presentation Slides: ([Downalod PDF](https://iu.box.com/s/qlhwprgmuaz1p3xxh85t8ydjsdowhi16)) 
 * [Activity 1](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity1.md): Review example digital edition websites
 * [Activity 2](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity2.md): Conduct document analysis
 * [Activity 3](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity3.md): Encode following the TEI Guidelines
@@ -102,10 +102,10 @@ _If you already have a TAPAS account, you don't need to create a new account.  E
 ### Download and install Oxygen XML Editor
 * http://www.oxygenxml.com/download.html
   * Windows users, **download the 32-bit application** 
-* See email sent by DAN OR US? on JULY X, 2018 for the License Key 
+* See email sent by Dan Tracy on July 23, 2018 for the License Key 
 * If you need help installing Oxygen, email me so that we can install at the Wells Library before August 2nd. 
 
-_The Oxygen XML Editor license is good for 90 days as of XXXX_
+_The Oxygen XML Editor license is good for 90 days as of July 12, 2018_
 
 ----
 
@@ -118,7 +118,6 @@ _The Oxygen XML Editor license is good for 90 days as of XXXX_
   * Senior Digital Scholarship Librarian, Boston College Libraries 
   * Email: kijas@bc.edu
   * Twitter: @anna_kijas
-
 
 
 
