@@ -5,7 +5,7 @@ Instructors: [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto
 
 ## Workshop Materials
 * Presentation Slides: ([Downalod PDF](https://iu.box.com/s/qlhwprgmuaz1p3xxh85t8ydjsdowhi16)) 
-* [Activity 1](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity1.md): Review example digital edition websites
+* [Activity 1](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/August%202018/Scholarly%20Editions/activity1.md): Review example digital edition websites
 * [Activity 2](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity2.md): Conduct document analysis
 * [Activity 3](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity3.md): Encode following the TEI Guidelines
 * [Activity 4](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity4.md): Publish with TAPAS 
