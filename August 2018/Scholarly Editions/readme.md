@@ -4,7 +4,7 @@
 Instructors: [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto:kijas@bc.edu)
 
 ## Workshop Materials
-* Presentation Slides: ([Downalod PDF](https://iu.box.com/s/qlhwprgmuaz1p3xxh85t8ydjsdowhi16)) 
+* Presentation Slides: ([Download PDF](https://iu.box.com/s/qlhwprgmuaz1p3xxh85t8ydjsdowhi16)) 
 * [Activity 1](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity1.md): Review example digital edition websites
 * [Activity 2](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity2.md): Conduct document analysis
 * [Activity 3](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity3.md): Encode following the TEI Guidelines
@@ -13,7 +13,7 @@ Instructors: [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto
 
 
 ### Workshop Handouts
-* TEI Workflow Diagram: ([View PDF](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/TEI_workflow_diagram.pdf)) ([Downalod PDF](https://iu.box.com/s/h4bia394ajxco6qyzi0mdlva8m7dvo8p)) 
+* TEI Workflow Diagram: ([View PDF](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/TEI_workflow_diagram.pdf)) ([Download PDF](https://iu.box.com/s/h4bia394ajxco6qyzi0mdlva8m7dvo8p)) 
 
 ## Learning Goals 
 
