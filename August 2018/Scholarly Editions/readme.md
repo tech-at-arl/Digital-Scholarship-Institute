@@ -4,12 +4,11 @@
 Instructors: [Michelle Dalmau](mailto:mdalmau@indiana.edu) & [Anna Kijas](mailto:kijas@bc.edu)
 
 ## Workshop Materials
-* Presentation Slides: ([Download PDF](https://iu.box.com/s/qlhwprgmuaz1p3xxh85t8ydjsdowhi16)) 
+* Presentation Slides: ([View PDF])https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/August%202018/Scholarly%20Editions/Scholarly%20Editions_%20TEI%20Text%20Encoding%20and%20Publishing.pdf)) | ([Download PDF](https://iu.box.com/s/qlhwprgmuaz1p3xxh85t8ydjsdowhi16)) 
 * [Activity 1](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity1.md): Review example digital edition websites
 * [Activity 2](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity2.md): Conduct document analysis
 * [Activity 3](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity3.md): Encode following the TEI Guidelines
 * [Activity 4](https://github.com/mdalmau/Digital-Scholarship-Institute/blob/master/January%202018/Scholarly%20Editions/activity4.md): Publish with TAPAS 
-
 
 
 ### Workshop Handouts
