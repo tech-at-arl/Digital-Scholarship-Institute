@@ -18,3 +18,4 @@ While we'll go through the lab together during the workshop, these instructions 
 - ESRI has a number of good beginning tutorials in their [Lesson Gallery](https://learn.arcgis.com/en/gallery/), ex., ["Get Started with ArcGIS Online"](https://learn.arcgis.com/en/projects/get-started-with-arcgis-online/)
 - [Stats Indiana Census 2010 Resource Page](http://www.stats.indiana.edu/topic/census.asp)
 - [U.S. Census Bureau, Glossary](https://www.census.gov/dmd/www/glossary.html) includeing [Abbreviations/Acronyms](https://www.census.gov/dmd/www/glossary.html#abbreviations)
+-[The National Historical Geographic Information System (NHGIS)](https://www.nhgis.org/) provides population, housing, agricultural, and economic data, along with GIS-compatible boundary files, for geographic units in the United States from 1790 to the present.
