@@ -6,4 +6,5 @@
 - [Georectify Historical Maps](https://docs.google.com/document/d/1B1g5nmp6VndB0RPFw2LJ0b_s6IU6iGYFvHzTOTqak_4/edit?usp=sharing) (20 mins): We will learn how to identify places on a scanned, image based map in order to place it on a coordinate system so that it can be used in combination with other data layers.
 - Break (30 mins)
 - [ArcGIS Online Introduction](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/August%202018/Geospatial%20and%20Temporal%20Mapping/ArcGIS%20Introduction.md) (60 mins): We will learn the basics of ArcGIS online, including creating a new map, navigating the interface, searching for and adding layers, changing the style, working with attributes, and map notes. We will also work in groups to propose a new location for a Indianapolis branch library based on analysis of local population, public transportation, current locations, etc.
-- Closing Discussion (30 mins)
+- [Closing Discussion AM](https://docs.google.com/document/d/1VSPfGZfY21Qjv4t2Tg8iqer69ZaQWL7Qj9v-XKvqK-M/edit) (30 mins)
+- [Closing Discussion PM](https://docs.google.com/document/d/1BQpCO122AZcxj4N414FMnxr6soDJ_pJh89gunPOfH40/edit) (30 mins)
