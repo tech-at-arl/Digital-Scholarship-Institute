@@ -1,5 +1,5 @@
 ## Workshop Agenda
-- Introduction to Spatial Thinking (20 mins)
+- [Introduction to Spatial Thinking](https://drive.google.com/file/d/1e-j7QT-hpqhJGBgkGJ-jUhg9uDhkgmaK/view?usp=sharing) (20 mins)
 - Project Showcase (15 mins): We will review some digital scholarship projects that utilize mapping and GIS to give a better understanding of the wide application for [these tools](https://docs.google.com/document/d/13uJDhBveqKwaKwoPObt5vTJ7nMab2f-MOvZppopkQ2g/edit) and methods.
 - [How Did They Make That? Exercise](https://docs.google.com/document/d/1TuXzYJrc11GiavUeV6WfzoQvXIy1oddSYjrRm0W7BBk/edit?usp=sharing) (20 mins): In groups, we will analyze a current GIS project in order to understand its audience, the expertise that would be necessary to create the project, and how you might help support such a project.
 - Group Discussion (15 mins)
