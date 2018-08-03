@@ -10,6 +10,6 @@ ___
 
 ___
 
-Google Doc with consultation questions - [https://bit.ly/2LHNhyv] (https://bit.ly/2LHNhyv)
+Google Doc with consultation questions - [https://bit.ly/2LHNhyv](https://bit.ly/2LHNhyv)
 
-Padlet for top questions and ideas for collaborators - [https://padlet.com/davieshoffman/DSI2018] (https://padlet.com/davieshoffman/DSI2018)
+Padlet for top questions and ideas for collaborators - [https://padlet.com/davieshoffman/DSI2018](https://padlet.com/davieshoffman/DSI2018)
