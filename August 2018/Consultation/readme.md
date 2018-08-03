@@ -10,6 +10,8 @@ ___
 
 ___
 
+[Slideshow](https://docs.google.com/presentation/d/1zKh2kiInPxiy0gvInRSt0X3CN990Vu9RYKlCtDdZ2M4/edit?usp=sharing)
+
 Google Doc with consultation questions - [https://bit.ly/2LHNhyv](https://bit.ly/2LHNhyv)
 
 Padlet for top questions and ideas for collaborators - [https://padlet.com/davieshoffman/DSI2018](https://padlet.com/davieshoffman/DSI2018)
