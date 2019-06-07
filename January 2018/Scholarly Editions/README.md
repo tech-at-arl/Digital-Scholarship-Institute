@@ -19,7 +19,7 @@ Participants will:
 * understand use cases for text encoding; recognize why libraries are especially well-situated to support text encoding
 * review the workflow for TEI-encoding; learn about the various stages with special emphasis on the importance of document analysis
 * gain familiarity with the XML and TEI; learn about core TEI features
-* explore richer semantic encoding through the construction of a personagraphy
+* explore richer semantic encoding through the construction of a personography
 * learn publishing options for TEI-encoded documents with a focus on the TAPAS repository and publishing platform
 
 ## Reference & Training Resources
