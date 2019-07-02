@@ -17,8 +17,7 @@
           * editor
           * content completion
 
-* Endode metadata from *O Pioneers!* ([View activity 3 packet](activity3_1913-Cather-OPioneers.pdf))
-([Download activity 3 packet]())
+* Endode metadata from *O Pioneers!* ([View or download activity 4 packet](/activity4_1913-Cather-OPioneers.pdf))
 
    1. Begin encoding *all together*; Anna/Leigh will walkthrough the encoding with the class
          1. Subdivisions of TEI header and elements:
