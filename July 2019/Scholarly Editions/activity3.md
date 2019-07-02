@@ -1,6 +1,7 @@
 # Activity 3
 
-## Part 1: Conduct document analysis on the the excerpt of *O Pioneers*; **annotate the handout**. 
+## Part 1: Conduct document analysis on the the excerpt of *O Pioneers*
+   * Annotate the handout
    * [View or download *O Pioneers* excerpt](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity3_1913-Cather-OPioneers.pdf) (PDF)
  
 ## Sample Questions to aid in document analysis
