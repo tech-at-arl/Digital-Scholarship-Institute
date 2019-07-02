@@ -5,7 +5,8 @@
    * [View or download *O Pioneers* excerpt](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity3_1913-Cather-OPioneers.pdf) (PDF)
  
 ## Sample Questions to aid in document analysis
-
+   * [View or download the questions](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/Document-Analysis-Questions.pdf) (PDF)
+   
 ### Document Universe
 - One or Many?
 - What is it now and what should it be? 
