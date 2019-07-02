@@ -4,7 +4,7 @@
 
 * Review Oxygen XML Editor
   1. Launch Oxygen XML Editor
-       1. Download [opioneers-excerpt]() file
+       1. Download [opioneers-excerpt](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/opioneers-excerpt.xml) file
           * Save file to desktop or copy and paste into Oxygen XML Editor
           * File => Open => opioneers-excerpt.xml
        2. Close unnecessary windows
@@ -17,7 +17,7 @@
           * editor
           * content completion
 
-* Endode metadata from *O Pioneers!* ([View or download activity 4 packet](/activity4_1913-Cather-OPioneers.pdf))
+* Endode metadata from *O Pioneers!* ([View or download activity 4 packet](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity4_1913-Cather-OPioneers.pdf))
 
    1. Begin encoding *all together*; Anna/Leigh will walkthrough the encoding with the class
          1. Subdivisions of TEI header and elements:
