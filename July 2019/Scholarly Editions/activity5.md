@@ -3,6 +3,7 @@
 ### Part 1: Publish your file in TAPAS
 
 * Navigate to the [ARL DSI Scholarly Editions project page](http://www.tapasproject.org/arl-dsi-scholarly-editions)
+* Login to TAPAS
   1. Select the "Willa Cather O'Pioneers" collection
       1. Select "Add New" record to create a metadata record
       2. Complete the record form and upload your opioneers-excerpt.xml file
