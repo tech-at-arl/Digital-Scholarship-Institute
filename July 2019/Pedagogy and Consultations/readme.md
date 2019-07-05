@@ -23,8 +23,11 @@ I was talking with my colleague Johan Fakersson, and he suggested I contact you 
 I’m not sure what technology or platform to use for this project. I’d like the students to work with community members to create descriptions and context/bios. This would also be a good opportunity for them to engage with some digital humanities tools. I’ve been able to get funding from the Provost’s Office for a TA as part of the campus community-engaged scholarship initiative, which should help. Are you available to meet to talk about this project next week?
 
 Best,
+
 Morgan Smith-Jones
+
 Associate Professor, American Studies
+
 University of Minnesota, Twin Cities
 
 ## Task
