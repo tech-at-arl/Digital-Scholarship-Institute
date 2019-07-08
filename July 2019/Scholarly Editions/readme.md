@@ -1,9 +1,8 @@
-
 # Scholarly Editions: TEI Text Encoding and Publishing 
 
 Instructors: [Anna Kijas](mailto:kijas@bc.edu) & [Leigh Bonds](mailto:bonds.19@osu.edu)
 
-## Learning Goals
+### Learning Goals
 Participants will:
 * understand use cases for text encoding; recognize why libraries are especially well-situated to support text encoding
 * review the workflow for TEI-encoding; learn about the various stages with special emphasis on the importance of document analysis
