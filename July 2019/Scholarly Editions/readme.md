@@ -3,6 +3,38 @@
 
 Instructors: [Anna Kijas](mailto:kijas@bc.edu) & [Leigh Bonds](mailto:bonds.19@osu.edu)
 
+## Workshop Learning Goals
+Participants will:
+* understand use cases for text encoding; recognize why libraries are especially well-situated to support text encoding
+* review the workflow for TEI-encoding; learn about the various stages with special emphasis on the importance of document analysis
+* gain familiarity with the XML and TEI; learn about core TEI features
+* explore richer semantic encoding through the construction of a personagraphy
+* learn publishing options for TEI-encoded documents with a focus on the TAPAS repository and publishing platform
+----
+
+## Preparing for the Workshop
+
+### Create a TAPAS Account
+_If you already have a TAPAS account, you don't need to create a new account.  Email your TAPAS username to [Anna Kijas](mailto:kijas@bc.edu) and [Leigh Bonds](mailto:bonds.19@osu.edu) so we can add you to the TAPAS project for this workshop._
+
+* Visit the TAPAS website: http://www.tapasproject.org/
+* Click on "Sign In" on the top-right of the page
+* Select "Create new account" tab
+  * Enter the required information; customize your profile information when you register or later
+* When your account has been created, **email your TAPAS username to [Anna Kijas](mailto:kijas@bc.edu) and [Leigh Bonds](mailto:bonds.19@osu.edu)** so we can add you to the TAPAS project for this workshop.   
+
+### Download and install Oxygen XML Editor
+* http://www.oxygenxml.com/download.html
+  * Windows users, **download the 32-bit application**
+  * See email sent by Anna Kijas for the License Key (forthcoming)
+  * _The Oxygen XML Editor license is good for 90 days as of ENTER DATE_
+
+### Pre-readings
+* Green, Harriett E. [“Facilitating Communities of Practice in Digital Humanities: Librarian Collaborations for Research and Training in Text Encoding.”](https://www.jstor.org/stable/10.1086/675332?seq=1#page_scan_tab_contents) *Library Quarterly* 84.2 (April 2014): 219-234
+* Ives, Maura, Victor Del Hierro, Bailey Kelsey, Laura Catherine Smith, and Christina Sumners. [“Encoding the Discipline: English Graduate Student Reflections on Working with TEI.”](https://journals.openedition.org/jtei/882) *Journal of the Text Encoding Initiative* 6 (Dec. 2013)
+* Schreibman, Susan. [“Digital Scholarly Editing.”](https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/) *Literary Studies in the Digital Age: An Evolving Anthology* (2013) 
+----
+
 ## Workshop Materials
 * [Presentation Slides](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/Scholarly%20Editions.pdf)
 * [Activity 1](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity1.md): Cookie Analysis
@@ -14,29 +46,15 @@ Instructors: [Anna Kijas](mailto:kijas@bc.edu) & [Leigh Bonds](mailto:bonds.19@o
 * [Activity 4](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/opioneers-excerpt.xml): Encoded Excerpt from *O Pioneers!* 
 * [Activity 5](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity5.md): Publish with TAPAS
 
-
 ### Workshop Handouts
 * [TEI Workflow Diagram](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/TEI_workflow_diagram.pdf)
 * [Document Analysis Questions](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/Document-Analysis-Questions.pdf)
+----
 
-## Learning Goals
-Participants will:
-* understand use cases for text encoding; recognize why libraries are especially well-situated to support text encoding
-* review the workflow for TEI-encoding; learn about the various stages with special emphasis on the importance of document analysis
-* gain familiarity with the XML and TEI; learn about core TEI features
-* explore richer semantic encoding through the construction of a personagraphy
-* learn publishing options for TEI-encoded documents with a focus on the TAPAS repository and publishing platform
-
-## Reference & Training Resources
-### Pre-readings
-* Green, Harriett E. [“Facilitating Communities of Practice in Digital Humanities: Librarian Collaborations for Research and Training in Text Encoding.”](https://www.jstor.org/stable/10.1086/675332?seq=1#page_scan_tab_contents) *Library Quarterly* 84.2 (April 2014): 219-234
-* Ives, Maura, Victor Del Hierro, Bailey Kelsey, Laura Catherine Smith, and Christina Sumners. [“Encoding the Discipline: English Graduate Student Reflections on Working with TEI.”](https://journals.openedition.org/jtei/882) *Journal of the Text Encoding Initiative* 6 (Dec. 2013)
-* Schreibman, Susan. [“Digital Scholarly Editing.”](https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/) *Literary Studies in the Digital Age: An Evolving Anthology* (2013) 
-
-### Additional Reading
-* Willett, Perry. [“Electronic Texts: Audiences and Purposes”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-6&toc.depth=1&toc.id=ss1-3-6&brand=9781405103213_brand) *A Companion to Digital Humanities* (2004)
+## Resources
 
 ### General Introductions to Markup, XML, and TEI
+* Willett, Perry. [“Electronic Texts: Audiences and Purposes”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-6&toc.depth=1&toc.id=ss1-3-6&brand=9781405103213_brand) *A Companion to Digital Humanities* (2004)
 * Walsh, John. [“A Brief Introduction to Markup, Part 1”](https://www.youtube.com/watch?v=Z2Nsq613uHk) (2014) 
 * Walsh, John.  [“A Brief Introduction to Markup, Part 2”](https://www.youtube.com/watch?v=JhhKyyP0e18) (2014)
 * Walsh, John. [TEI Exercises](http://dcl.ils.indiana.edu/intromarkup/) (referenced in videos) 
@@ -90,26 +108,7 @@ Participants will:
 * Heiden, Serge. [TXM and the Victorian Women Writers Project](https://github.com/iulibdcs/tei_text/wiki/TXM-and-the-Victorian-Women-Writers-Project) 
 ##### [PhiloLogic / PhiloMine](https://sites.google.com/site/philologic3/home) 
 * Allen, Timothy, Clovis Gladstone, and Richard Whaling. [“PhiloLogic 4: An Abstract TEI Query System”](https://jtei.revues.org/817), *Journal of the Text Encoding Initiative* 5 (June 2013)
-
 -----
-## Prep Before the Workshop
-
-### Create a TAPAS Account
-_If you already have a TAPAS account, you don't need to create a new account.  Email your TAPAS username to [Anna Kijas](mailto:kijas@bc.edu) and [Leigh Bonds](mailto:bonds.19@osu.edu) so we can add you to the TAPAS project for this workshop._
-
-* Visit the TAPAS website: http://www.tapasproject.org/
-* Click on "Sign In" on the top-right of the page
-* Select "Create new account" tab
-  * Enter the required information; customize your profile information when you register or later
-* When your account has been created, **email your TAPAS username to [Anna Kijas](mailto:kijas@bc.edu) and [Leigh Bonds](mailto:bonds.19@osu.edu)** so we can add you to the TAPAS project for this workshop.   
-
-### Download and install Oxygen XML Editor
-* http://www.oxygenxml.com/download.html
-  * Windows users, **download the 32-bit application**
-  * See email sent by Anna Kijas for the License Key (forthcoming)
-  * _The Oxygen XML Editor license is good for 90 days as of ENTER DATE_
-
-----
 
 ## Contact
 * Anna Kijas
