@@ -16,17 +16,17 @@ Participants will
 ### Create a TAPAS Account
 _If you already have a TAPAS account, you don't need to create a new account.  Email your TAPAS username to [Anna Kijas](mailto:kijas@bc.edu) and [Leigh Bonds](mailto:bonds.19@osu.edu) so we can add you to the TAPAS project for this workshop._
 
-* Visit the TAPAS website: http://www.tapasproject.org/
+* Visit the TAPAS site: http://www.tapasproject.org/
 * Click on "Sign In" on the top-right of the page
 * Select "Create new account" tab
   * Enter the required information; customize your profile information when you register or later
 * When your account has been created, **email your TAPAS username to [Anna Kijas](mailto:kijas@bc.edu) and [Leigh Bonds](mailto:bonds.19@osu.edu)** so we can add you to the TAPAS project for this workshop.   
 
 ### Download and install Oxygen XML Editor
-* http://www.oxygenxml.com/download.html
+* Visit the Oxygen site: http://www.oxygenxml.com/download.html
   * Windows users, **download the 32-bit application**
   * See email sent by Anna Kijas for the License Key (forthcoming)
-  * _The Oxygen XML Editor license is good for 90 days as of ENTER DATE_
+  * _The Oxygen XML Editor license is good for 90 days as of (ENTER DATE)_
 
 ### Readings
 * Green, Harriett E. [“Facilitating Communities of Practice in Digital Humanities: Librarian Collaborations for Research and Training in Text Encoding.”](https://www.jstor.org/stable/10.1086/675332?seq=1#page_scan_tab_contents) *Library Quarterly* 84.2 (April 2014): 219-234
