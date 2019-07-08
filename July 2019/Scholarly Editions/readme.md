@@ -107,7 +107,7 @@ _If you already have a TAPAS account, you don't need to create a new account.  E
 * http://www.oxygenxml.com/download.html
   * Windows users, **download the 32-bit application**
   * See email sent by Anna Kijas for the License Key (forthcoming)
-  *_The Oxygen XML Editor license is good for 90 days as of ENTER DATE_
+  * _The Oxygen XML Editor license is good for 90 days as of ENTER DATE_
 
 ----
 
