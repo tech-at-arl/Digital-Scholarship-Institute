@@ -33,7 +33,7 @@ Participants will:
 * Ives, Maura, Victor Del Hierro, Bailey Kelsey, Laura Catherine Smith, and Christina Sumners. [“Encoding the Discipline: English Graduate Student Reflections on Working with TEI.”](https://journals.openedition.org/jtei/882) *Journal of the Text Encoding Initiative* 6 (Dec. 2013)
 * Schreibman, Susan. [“Digital Scholarly Editing.”](https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/) *Literary Studies in the Digital Age: An Evolving Anthology* (2013) 
 
-###Additional Reading
+### Additional Reading
 * Willett, Perry. [“Electronic Texts: Audiences and Purposes”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-6&toc.depth=1&toc.id=ss1-3-6&brand=9781405103213_brand) *A Companion to Digital Humanities* (2004)
 
 ### General Introductions to Markup, XML, and TEI
