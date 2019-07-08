@@ -8,10 +8,10 @@ Instructors: [Anna Kijas](mailto:kijas@bc.edu) & [Leigh Bonds](mailto:bonds.19@o
 * [Activity 1](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity1.md): Cookie Analysis
 * [Activity 2](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity2.md): Review Digital Editions
 * [Activity 3](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity3.md): Document Analysis
-* [Activity 3](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity3_1913-Cather-OPioneers.pdf): 1913 Edition of O Pioneers! 
+* [Activity 3](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity3_1913-Cather-OPioneers.pdf): 1913 Edition of *O Pioneers!* 
 * [Activity 4](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity4.md): Encode O Pioneers!
 * [Activity 4](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity4_1913-Cather-OPioneers.pdf): 1913 Edition of O Pioneers! 
-* [Activity 4](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/opioneers-excerpt.xml): Encoded Excerpt from O Pioneers! 
+* [Activity 4](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/opioneers-excerpt.xml): Encoded Excerpt from *O Pioneers!* 
 * [Activity 5](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity5.md): Publish with TAPAS
 
 
@@ -29,12 +29,12 @@ Participants will:
 
 ## Reference & Training Resources
 ### Pre-readings
-* Green, Harriett E. [“Facilitating Communities of Practice in Digital Humanities: Librarian Collaborations for Research and Training in Text Encoding.”](https://www.jstor.org/stable/10.1086/675332?seq=1#page_scan_tab_contents) Library Quarterly 84.2 (April 2014): 219-234.
-* Ives, Maura, Victor Del Hierro, Bailey Kelsey, Laura Catherine Smith, and Christina Sumners. [“Encoding the Discipline: English Graduate Student Reflections on Working with TEI.”](https://journals.openedition.org/jtei/882) Journal of the Text Encoding Initiative 6 (Dec. 2013).  
-* Schreibman, Susan. [“Digital Scholarly Editing.”](https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/) Literary Studies in the Digital Age: An Evolving Anthology (2013).  
+* Green, Harriett E. [“Facilitating Communities of Practice in Digital Humanities: Librarian Collaborations for Research and Training in Text Encoding.”](https://www.jstor.org/stable/10.1086/675332?seq=1#page_scan_tab_contents) *Library Quarterly* 84.2 (April 2014): 219-234
+* Ives, Maura, Victor Del Hierro, Bailey Kelsey, Laura Catherine Smith, and Christina Sumners. [“Encoding the Discipline: English Graduate Student Reflections on Working with TEI.”](https://journals.openedition.org/jtei/882) *Journal of the Text Encoding Initiative* 6 (Dec. 2013)
+* Schreibman, Susan. [“Digital Scholarly Editing.”](https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/) *Literary Studies in the Digital Age: An Evolving Anthology* (2013) 
 
 ###Additional Reading
-* Willett, Perry. [“Electronic Texts: Audiences and Purposes”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-6&toc.depth=1&toc.id=ss1-3-6&brand=9781405103213_brand) A Companion to Digital Humanities (2004)
+* Willett, Perry. [“Electronic Texts: Audiences and Purposes”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-6&toc.depth=1&toc.id=ss1-3-6&brand=9781405103213_brand) *A Companion to Digital Humanities* (2004)
 
 ### General Introductions to Markup, XML, and TEI
 * Walsh, John. [“A Brief Introduction to Markup, Part 1”](https://www.youtube.com/watch?v=Z2Nsq613uHk) (2014) 
