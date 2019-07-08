@@ -52,9 +52,9 @@ Participants will:
 * Women Writers Project. [Document Analysis Worksheet](https://www.wwp.northeastern.edu/outreach/seminars/_current/handouts/document_analysis.xhtml) 
 
 ### Project-specific TEI Encoding Guidelines
-* [Victorian Women Writers Project](https://wiki.dlib.indiana.edu/x/HQDIBg)
-* [Walt Whitman Archive](http://whitmanarchive.org/mediawiki/index.php/Whitman_Encoding_Guidelines)
-* [Map of Early Modern London](https://mapoflondon.uvic.ca/praxis.htm)
+* [*Victorian Women Writers Project*](https://wiki.dlib.indiana.edu/x/HQDIBg)
+* [*Walt Whitman Archive*](http://whitmanarchive.org/mediawiki/index.php/Whitman_Encoding_Guidelines)
+* [*Map of Early Modern London*](https://mapoflondon.uvic.ca/praxis.htm)
 
 ### Publishing TEI
 * [TAPAS Projects](http://www.tapasproject.org/all_projects)
@@ -72,8 +72,8 @@ Participants will:
 * [18thConnect](http://www.18thconnect.org/)
 * Medieval Electronic Scholarly Alliance ([MESA](http://www.mesa-medieval.org/)) 
 * Renaissance English Knowledgebase ([REKn](http://rekn.itercommunity.org/)) 
-* [Ride](http://ride.i-d-e.de/), a review journal for digital editions and resources
-* [Scholarly Editing](http://scholarlyediting.org/), the journal of the Association for Documentary Editing that publishes articles, editions, essays, and reviews
+* [*Ride*](http://ride.i-d-e.de/), a review journal for digital editions and resources
+* [*Scholarly Editing*](http://scholarlyediting.org/), the journal of the Association for Documentary Editing that publishes articles, editions, essays, and reviews
 
 #### Publications for Publishing About TEI Projects
 * [Digital Scholarship in the Humanities](https://academic.oup.com/dsh) 
