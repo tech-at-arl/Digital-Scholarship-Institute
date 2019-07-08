@@ -10,7 +10,7 @@ Instructors: [Anna Kijas](mailto:kijas@bc.edu) & [Leigh Bonds](mailto:bonds.19@o
 * [Activity 3](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity3.md): Document Analysis
 * [Activity 3](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity3_1913-Cather-OPioneers.pdf): 1913 Edition of *O Pioneers!* 
 * [Activity 4](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity4.md): Encode O Pioneers!
-* [Activity 4](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity4_1913-Cather-OPioneers.pdf): 1913 Edition of O Pioneers! 
+* [Activity 4](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity4_1913-Cather-OPioneers.pdf): 1913 Edition of *O Pioneers!* 
 * [Activity 4](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/opioneers-excerpt.xml): Encoded Excerpt from *O Pioneers!* 
 * [Activity 5](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity5.md): Publish with TAPAS
 
