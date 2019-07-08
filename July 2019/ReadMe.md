@@ -40,7 +40,7 @@ Days 2–4 will be spent in two groups (with rotation so that you meet different
 * [Archives & Exhibitions with Omeka](Archives%20and%20Exhibitions)
 * [Multimodal Online Publishing with Scalar](Multimodal%20Online%20Publishing)
 
-Day 5, August 3, will wrap up with a keynote by Trevor Munoz, Interim Director of the Maryland Institute for Technology in the Humanities (MITH) and Assistant Dean for Digital Humanities Research at the University of Maryland Libraries, and will end with [Digital Scholarship Consultations and Pedagogy](Consultation), a debrief session, and some post-institute planning for continued online meetups. 
+Day 5, August 3, will wrap up with a keynote by Trevor Munoz, Interim Director of the Maryland Institute for Technology in the Humanities (MITH) and Assistant Dean for Digital Humanities Research at the University of Maryland Libraries, and will end with [Digital Scholarship Consultations and Pedagogy](Pedagogy%20and%20Consultations), a debrief session, and some post-institute planning for continued online meetups. 
 
 There may be opportunities to extend learning on one or more of the evenings if participants are interested in developing spontaneous groups for further study or play. Timely breaks to re-charge, and community-building receptions, will also be included in the experience.
 
