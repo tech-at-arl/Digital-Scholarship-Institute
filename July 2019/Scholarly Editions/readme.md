@@ -28,7 +28,7 @@ _If you already have a TAPAS account, you don't need to create a new account.  E
   * See email sent by Anna Kijas for the License Key (forthcoming)
   * _The Oxygen XML Editor license is good for 90 days as of ENTER DATE_
 
-### Pre-readings
+### Readings
 * Green, Harriett E. [“Facilitating Communities of Practice in Digital Humanities: Librarian Collaborations for Research and Training in Text Encoding.”](https://www.jstor.org/stable/10.1086/675332?seq=1#page_scan_tab_contents) *Library Quarterly* 84.2 (April 2014): 219-234
 * Ives, Maura, Victor Del Hierro, Bailey Kelsey, Laura Catherine Smith, and Christina Sumners. [“Encoding the Discipline: English Graduate Student Reflections on Working with TEI.”](https://journals.openedition.org/jtei/882) *Journal of the Text Encoding Initiative* 6 (Dec. 2013)
 * Schreibman, Susan. [“Digital Scholarly Editing.”](https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/) *Literary Studies in the Digital Age: An Evolving Anthology* (2013) 
