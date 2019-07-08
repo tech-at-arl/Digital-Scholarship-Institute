@@ -45,7 +45,7 @@ Participants will:
 * [TEI Guidelines](https://tei-c.org/guidelines/p5/ )
 * [TEI-L Mailing List](https://listserv.brown.edu/archives/cgi-bin/wa?SUBED1=tei-l&A=1)
 * [TEI by Example](http://teibyexample.org/)
-* [Best Practices for TEI in Libraries](https://github.com/kshawkin/Best-Practices-for-TEI-in-Libraries), a guide for mass digitization, automated workflows, and promotion of interoperability with XML using the TEI
+* OCLC, [Best Practices for TEI in Libraries](https://github.com/kshawkin/Best-Practices-for-TEI-in-Libraries), a guide for mass digitization, automated workflows, and promotion of interoperability with XML using the TEI
 * Women Writers Project, [Resources for Teaching and Learning Text Encoding](https://www.wwp.northeastern.edu/outreach/resources/index.html)
 
 ### Document Analysis
