@@ -52,8 +52,8 @@ Participants will:
 * Women Writers Project, [Document Analysis Worksheet](https://www.wwp.northeastern.edu/outreach/seminars/_current/handouts/document_analysis.xhtml) 
 
 ### Project-specific TEI Encoding Guidelines
-* [Victorian Women Writers Project Encoding Guidelines](https://wiki.dlib.indiana.edu/x/HQDIBg)
-* [Walt Whitman Archive Encoding Guidelines](http://whitmanarchive.org/mediawiki/index.php/Whitman_Encoding_Guidelines)
+* [Victorian Women Writers Project](https://wiki.dlib.indiana.edu/x/HQDIBg)
+* [Walt Whitman Archive](http://whitmanarchive.org/mediawiki/index.php/Whitman_Encoding_Guidelines)
 * [Map of Early Modern London](https://mapoflondon.uvic.ca/praxis.htm)
 
 ### Publishing TEI
