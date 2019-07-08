@@ -76,10 +76,10 @@ Participants will:
 * [*Scholarly Editing*](http://scholarlyediting.org/), the journal of the Association for Documentary Editing that publishes articles, editions, essays, and reviews
 
 #### Publications for Publishing About TEI Projects
-* [Digital Scholarship in the Humanities](https://academic.oup.com/dsh) 
-* Digital Humanities Quarterly ([DHQ](http://www.digitalhumanities.org/dhq/)) 
-* [Scholarly Editing](http://scholarlyediting.org/) 
-* [Textual Cultures](https://scholarworks.iu.edu/journals/index.php/textual) 
+* *Digital Scholarship in the Humanities* [*DSH*](https://academic.oup.com/dsh) 
+* *Digital Humanities Quarterly* ([*DHQ*](http://www.digitalhumanities.org/dhq/)) 
+* [*Scholarly Editing*](http://scholarlyediting.org/) 
+* [*Textual Cultures*](https://scholarworks.iu.edu/journals/index.php/textual) 
 
 ### TEI Analysis (Next steps)
 * [TEI and Plain Text from Digital Collections Services, Indiana University Libraries](https://github.com/iulibdcs/tei_text), a repository of TEI and plain text files for analysis
