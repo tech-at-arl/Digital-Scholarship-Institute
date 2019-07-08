@@ -85,11 +85,11 @@ Participants will:
 * [TEI and Plain Text from Digital Collections Services, Indiana University Libraries](https://github.com/iulibdcs/tei_text), a repository of TEI and plain text files for analysis
 #### Text Analysis Tools that are TEI-Aware
 ##### [Voyant Tools](http://voyant-tools.org)
-* Austin, [Text Analysis and the TEI](http://blogs.carleton.edu/hacking-humanities/2015/01/29/8-text-analysis-and-the-tei/), Hacking the Humanities (2015) 
+* Austin. [Text Analysis and the TEI](http://blogs.carleton.edu/hacking-humanities/2015/01/29/8-text-analysis-and-the-tei/), *Hacking the Humanities* (2015) 
 ##### [TXM Software](http://textometrie.ens-lyon.fr/spip.php?rubrique96&lang=en)
 * Heiden, Serge. [TXM and the Victorian Women Writers Project](https://github.com/iulibdcs/tei_text/wiki/TXM-and-the-Victorian-Women-Writers-Project) 
 ##### [PhiloLogic / PhiloMine](https://sites.google.com/site/philologic3/home) 
-* Allen, Timothy, Clovis Gladstone, and Richard Whaling, [“PhiloLogic 4: An Abstract TEI Query System”](https://jtei.revues.org/817), Journal of the Text Encoding Initiative 5 (June 2013)
+* Allen, Timothy, Clovis Gladstone, and Richard Whaling, [“PhiloLogic 4: An Abstract TEI Query System”](https://jtei.revues.org/817), *Journal of the Text Encoding Initiative* 5 (June 2013)
 
 -----
 ## Prep Before the Workshop
