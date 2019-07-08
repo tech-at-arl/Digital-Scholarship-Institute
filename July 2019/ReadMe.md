@@ -33,7 +33,7 @@ Days 2–4 will be spent in two groups (with rotation so that you meet different
 * [Information Visualization](Information%20Visualization)
 
 ### Day 3: August 1
-* [Text Mining with the HathiTrust Research Center](Text%20Analysis)
+* [Text Mining with the HathiTrust Research Center](Text%20Mining)
 * [Scholarly Editions: Text Encoding and Publishing with TEI](Scholarly%20Editions)
 
 ### Day 4: August 2
