@@ -86,7 +86,7 @@ Participants will:
 #### Text Analysis Tools that are TEI-Aware
 ##### [Voyant Tools](http://voyant-tools.org)
 * Austin, [Text Analysis and the TEI](http://blogs.carleton.edu/hacking-humanities/2015/01/29/8-text-analysis-and-the-tei/), Hacking the Humanities (2015) 
-##### [TXM Software](http://textometrie.ens-lyon.fr/spip.php?rubrique96&lang=en
+##### [TXM Software](http://textometrie.ens-lyon.fr/spip.php?rubrique96&lang=en)
 * Heiden, Serge. [TXM and the Victorian Women Writers Project](https://github.com/iulibdcs/tei_text/wiki/TXM-and-the-Victorian-Women-Writers-Project) 
 ##### [PhiloLogic / PhiloMine](https://sites.google.com/site/philologic3/home) 
 * Allen, Timothy, Clovis Gladstone, and Richard Whaling, [“PhiloLogic 4: An Abstract TEI Query System”](https://jtei.revues.org/817), Journal of the Text Encoding Initiative 5 (June 2013)
@@ -95,13 +95,13 @@ Participants will:
 ## Prep Before the Workshop
 
 ### Create a TAPAS Account
-_If you already have a TAPAS account, you don't need to create a new account.  Email [Leigh Bonds](mailto:bonds.19@osu.edu) and [Anna Kijas](mailto:kijas@bc.edu) your TAPAS username so we can add you to the TAPAS project for this workshop._
+_If you already have a TAPAS account, you don't need to create a new account.  Email your TAPAS username to [Anna Kijas](mailto:kijas@bc.edu) and [Leigh Bonds](mailto:bonds.19@osu.edu) so we can add you to the TAPAS project for this workshop._
 
 * Visit the TAPAS website: http://www.tapasproject.org/
 * Click on "Sign In" on the top-right of the page
 * Select "Create new account" tab
   * Enter the required information; customize your profile information when you register or later
-* When your account has been created, **email  [Leigh Bonds](mailto:bonds.19@osu.edu) and [Anna Kijas](mailto:kijas@bc.edu) your TAPAS username** so we can add you to the TAPAS project for this workshop.   
+* When your account has been created, **email your TAPAS username to [Anna Kijas](mailto:kijas@bc.edu) and [Leigh Bonds](mailto:bonds.19@osu.edu)** so we can add you to the TAPAS project for this workshop.   
 
 ### Download and install Oxygen XML Editor
 * http://www.oxygenxml.com/download.html
@@ -112,11 +112,11 @@ _The Oxygen XML Editor license is good for 90 days as of ENTER DATE_
 ----
 
 ## Contact
-* Leigh Bonds
-  * Digital Humanities Librarian, University Libraries, The Ohio State University, 
-  * Email: bonds.19@osu.edu
-  * Twitter: @Leigh_Bonds
 * Anna Kijas
   * Senior Digital Scholarship Librarian, Boston College Libraries
   * Email: kijas@bc.edu
   * Twitter: @anna_kijas
+* Leigh Bonds
+  * Digital Humanities Librarian, University Libraries, The Ohio State University, 
+  * Email: bonds.19@osu.edu
+  * Twitter: @Leigh_Bonds
