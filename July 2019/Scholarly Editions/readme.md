@@ -39,7 +39,7 @@ Participants will:
 ### General Introductions to Markup, XML, and TEI
 * Walsh, John. [“A Brief Introduction to Markup, Part 1”](https://www.youtube.com/watch?v=Z2Nsq613uHk) (2014) 
 * Walsh, John.  [“A Brief Introduction to Markup, Part 2”](https://www.youtube.com/watch?v=JhhKyyP0e18) (2014)
-* Walsh, John. [Exercises referenced in videos](http://dcl.ils.indiana.edu/intromarkup/) 
+* Walsh, John. [TEI Exercises](http://dcl.ils.indiana.edu/intromarkup/) (referenced in videos) 
 
 ### TEI
 * [TEI Guidelines](https://tei-c.org/guidelines/p5/ )
