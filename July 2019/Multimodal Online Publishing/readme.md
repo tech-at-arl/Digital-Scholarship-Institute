@@ -1,13 +1,17 @@
 ## Workshop Agenda
-- How Did They Make That? (20 minutes)
-- Multimodal Publishing, or Why Scalar? (10 minutes)
-- Public Art in Rochester (15 minutes)
-- Pre-planning Paths (30 minutes)
+- [How Did They Make That? Exercise] (https://docs.google.com/document/d/1eBAO2mPF1KVv1ZtVYoxUnQCzGoOgeEKo2o0HGET9I_Q/edit?usp=sharing)  (20 minutes): In groups 2-3 people, you will analyze a current Scalar project in order to understand its audience, the expertise that would be necessary to create the project, and how you might help support such a project.
+- Multimodal Publishing, or Why Scalar? (10 minutes): An introduction to multimodal publishing, opportunities and challenges of this type of work, and how Scalar differs from other publishing platforms.
+- Public Art in Rochester (15 minutes): An introduction to our sample site, the Scalar Dashboard, and some samples to get us thinking about possibilites for creating paths.
+- Pre-planning Paths (30 minutes): Work in groups to map out your paths on paper, determine your argument, and gather necessary content.
 - Log-in to Scalar (5 minutes)
 - Break (30 minutes)
-- Scalar Skills (30 minutes)
-- Build Your Path (30 minutes)
-- Share Out Work (15 minutes)
+- Scalar Skills (30 minutes): Learn the basics of uploading and linking media, creating pages, adding annotations, and building paths.
+- Build Your Path (30 minutes): Work in groups to create content planned in earlier exercise and link them together through your group's path.
+- Group Discussion (15 minutes): Share out your group's work. Answer the following questions:
+  - What did your path focus on?
+  - What challenges did you face?
+  - What did you discover?
+  - What else would you need to know moving forward?
 - Visualizations and Advanced Features (10 mins)
 - Discussion (15 mins)
   - [Morning Notes](https://docs.google.com/document/d/1RD4qkOLZrgR9zU1p4N73LGiLdUlZ36ye9ku03IdVGPE/edit?usp=sharing)
