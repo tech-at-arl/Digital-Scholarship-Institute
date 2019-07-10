@@ -1,1 +1,14 @@
-
+## Workshop Agenda
+- How Did They Make That? (20 minutes)
+- Multimodal Publishing, or Why Scalar? (10 minutes)
+- Public Art in Rochester (15 minutes)
+- Pre-planning Paths (30 minutes)
+- Log-in to Scalar (5 minutes)
+- Break (30 minutes)
+- Scalar Skills (30 minutes)
+- Build Your Path (30 minutes)
+- Share Out Work (15 minutes)
+- Visualizations and Advanced Features (10 mins)
+- Discussion (15 mins)
+  - [Morning Notes](https://docs.google.com/document/d/1RD4qkOLZrgR9zU1p4N73LGiLdUlZ36ye9ku03IdVGPE/edit?usp=sharing)
+  - [Afternoon Notes](https://docs.google.com/document/d/1J4a-YzEbG5uV7Uj9J_3vxvANlzFp9kE0gbu9hr-oR-c/edit?usp=sharing)
