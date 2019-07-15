@@ -38,7 +38,7 @@ _If you already have a TAPAS account, you don't need to create a new account. Ad
 ----
 
 ## Workshop Materials
-* [Presentation Slides](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/Scholarly%20Editions.pdf)
+* [Presentation Slides](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/ScholarlyEditions.pdf)
 * [Activity 1](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity1.md): Cookie Analysis
 * [Activity 2](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity2.md): Review Digital Editions
 * [Activity 3](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Scholarly%20Editions/activity3.md): Document Analysis
