@@ -15,15 +15,17 @@ Please **create accounts and install required software** before workshops (see s
  *[To come]
   
 * Scholarly Editions: Text Encoding and Publishing with TEI
-  *[To come]
+  * Relevant details can be found in the ["Preparing for the Workshop" section of the workshop's Readme file](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/July%202019/Scholarly%20Editions)
   
 * Archives and Exhibitions with Omeka
   * Navigate to https://www.omeka.net/signup
     * Click the "Start Your Omeka Trial" button
     * Fill out the form with a username, password, etc. You should receive an email with a link to activate your account. Click   on the link, and you should be taken to a screen that says, "Your account was activated successfully." If you already have an Omeka.net account (note—this is different from Omeka.org) you may wish to create a new account for this session, as the free plan only allows for one site.
 
+
+
 * Multimodal Online Publishing with Scalar
-  * We will do this together during the workshop.
+ *[To come]
 
 ## The Curriculum
 All participants will start Day 1 together with welcoming remarks and an Introduction to Digital Scholarshop by Brandon Locke, Digital Social Science and Humanities Specialist with the MSU History Department, and Director of the Lab for the Education and Advancement in Digital Research (LEADR) at Michigan State University. 
