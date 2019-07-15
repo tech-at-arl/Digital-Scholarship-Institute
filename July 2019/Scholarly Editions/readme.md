@@ -29,7 +29,7 @@ _If you already have a TAPAS account, you don't need to create a new account. Ad
   * Windows users, **download the 32-bit application**
   * See email sent by Anna Kijas for the License Key (forthcoming)
   * _The Oxygen XML Editor license is good for 90 days as of (July 9, 2019)_
-  * 90 day license is generously provided free of charge by Oxygen XML Editor to workshop participants
+  * 90 day license is provided free of charge by SyncroSoft and Oxygen XML Editor to workshop participants
 
 ### Readings
 * Green, Harriett E. [“Facilitating Communities of Practice in Digital Humanities: Librarian Collaborations for Research and Training in Text Encoding.”](https://www.jstor.org/stable/10.1086/675332?seq=1#page_scan_tab_contents) *Library Quarterly* 84.2 (April 2014): 219-234
