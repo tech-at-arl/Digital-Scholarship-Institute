@@ -23,10 +23,13 @@ _If you already have a TAPAS account, you don't need to create a new account. Ad
 * When your account has been created, **add your TAPAS username to shared spreadsheet** so we can add you to the TAPAS project for this workshop.   
 
 ### Download and install Oxygen XML Editor
+<a href="https://www.oxygenxml.com" title="Oxygen XML Editor"><img src="https://www.oxygenxml.com/img/resources/oxygen190x62.png" width="190" height="62" alt="Oxygen XML Editor" border="0"/></a>
 * Visit the Oxygen site: http://www.oxygenxml.com/download.html
+  * Select your operating system and download version 21.1
   * Windows users, **download the 32-bit application**
   * See email sent by Anna Kijas for the License Key (forthcoming)
   * _The Oxygen XML Editor license is good for 90 days as of (July 9, 2019)_
+  * 90 day license is generously provided free of charge by Oxygen XML Editor to workshop participants
 
 ### Readings
 * Green, Harriett E. [“Facilitating Communities of Practice in Digital Humanities: Librarian Collaborations for Research and Training in Text Encoding.”](https://www.jstor.org/stable/10.1086/675332?seq=1#page_scan_tab_contents) *Library Quarterly* 84.2 (April 2014): 219-234
