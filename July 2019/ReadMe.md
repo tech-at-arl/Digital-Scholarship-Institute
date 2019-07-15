@@ -12,7 +12,7 @@ Please **create accounts and install required software** before workshops (see s
   *[To come]
 
 * Text Minning with the HathiTrust Research Center
- *[To come]
+ *Listed in readme for the text mining workshop.
   
 * Scholarly Editions: Text Encoding and Publishing with TEI
   * Relevant details can be found in the ["Preparing for the Workshop" section of the workshop's Readme file](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/July%202019/Scholarly%20Editions)
@@ -30,19 +30,19 @@ All participants will start Day 1 together with welcoming remarks and an Introdu
 
 Days 2–4 will be spent in two groups (with rotation so that you meet different colleagues each day), with each group spending a half-day on each of the following topics:
 
-### Day 2: July 31
+### Day 2: July 30
 * [Geospatial and Temporal Mapping](Geospatial%20and%20Temporal%20Mapping)
 * [Information Visualization](Information%20Visualization)
 
-### Day 3: August 1
+### Day 3: July 31
 * [Text Mining with the HathiTrust Research Center](Text%20Mining)
 * [Scholarly Editions: Text Encoding and Publishing with TEI](Scholarly%20Editions)
 
-### Day 4: August 2
+### Day 4: August 1
 * [Archives & Exhibitions with Omeka](Archives%20and%20Exhibitions)
 * [Multimodal Online Publishing with Scalar](Multimodal%20Online%20Publishing)
 
-Day 5, August 3, will wrap up with a keynote by Trevor Muñoz, Interim Director of the Maryland Institute for Technology in the Humanities (MITH) and Assistant Dean for Digital Humanities Research at the University of Maryland Libraries, and will end with [Digital Scholarship Consultations and Pedagogy](Pedagogy%20and%20Consultations), a debrief session, and some post-institute planning for continued online meetups. 
+Day 5, August 2, will wrap up with a keynote by Trevor Muñoz, Interim Director of the Maryland Institute for Technology in the Humanities (MITH) and Assistant Dean for Digital Humanities Research at the University of Maryland Libraries, and will end with [Digital Scholarship Consultations and Pedagogy](Pedagogy%20and%20Consultations), a debrief session, and some post-institute planning for continued online meetups. 
 
 There may be opportunities to extend learning on one or more of the evenings if participants are interested in developing spontaneous groups for further study or play. Timely breaks to re-charge, and community-building receptions, will also be included in the experience.
 
