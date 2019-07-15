@@ -14,13 +14,13 @@ Participants will
 ## Preparing for the Workshop
 
 ### Create a TAPAS Account
-_If you already have a TAPAS account, you don't need to create a new account.  Email your TAPAS username to [Anna Kijas](mailto:kijas@bc.edu) and [Leigh Bonds](mailto:bonds.19@osu.edu) so we can add you to the TAPAS project for this workshop._
+_If you already have a TAPAS account, you don't need to create a new account. Add your TAPAS username to the spreadsheet in our shared folder (will be linked in email)._
 
 * Visit the TAPAS site: http://www.tapasproject.org/
 * Click on "Sign In" on the top-right of the page
 * Select "Create new account" tab
   * Enter the required information; customize your profile information when you register or later
-* When your account has been created, **email your TAPAS username to [Anna Kijas](mailto:kijas@bc.edu) and [Leigh Bonds](mailto:bonds.19@osu.edu)** so we can add you to the TAPAS project for this workshop.   
+* When your account has been created, **add your TAPAS username to shared spreadsheet** so we can add you to the TAPAS project for this workshop.   
 
 ### Download and install Oxygen XML Editor
 * Visit the Oxygen site: http://www.oxygenxml.com/download.html
