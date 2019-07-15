@@ -24,7 +24,7 @@ _If you already have a TAPAS account, you don't need to create a new account. Ad
 
 ### Download and install Oxygen XML Editor
 <a href="https://www.oxygenxml.com" title="Oxygen XML Editor"><img src="https://www.oxygenxml.com/img/resources/oxygen190x62.png" width="190" height="62" alt="Oxygen XML Editor" border="0"/></a>
-* Visit the Oxygen site: http://www.oxygenxml.com/download.html
+* Visit the Oxygen site: https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html
   * Select your operating system and download version 21.1
   * Windows users, **download the 32-bit application**
   * See email sent by Anna Kijas for the License Key (forthcoming)
