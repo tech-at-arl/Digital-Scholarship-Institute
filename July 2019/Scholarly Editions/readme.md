@@ -14,7 +14,7 @@ Participants will
 ## Preparing for the Workshop
 
 ### Create a TAPAS Account
-_If you already have a TAPAS account, you don't need to create a new account. Add your TAPAS username to the spreadsheet in our shared folder (will be linked in email)._
+_If you already have a TAPAS account, you don't need to create a new account. Add your TAPAS username to the spreadsheet in the ARL DSI materials folder (will also be sent via email)._
 
 * Visit the TAPAS site: http://www.tapasproject.org/
 * Click on "Sign In" on the top-right of the page
@@ -27,7 +27,7 @@ _If you already have a TAPAS account, you don't need to create a new account. Ad
 * Visit the Oxygen site: https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html
   * Select your operating system and download version 21.1
   * Windows users, **download the 32-bit application**
-  * See email sent by Anna Kijas for the License Key (forthcoming)
+  * License key can be found in the ARL DSI materials folder (will also be sent via email)
   * _The Oxygen XML Editor license is good for 90 days as of (July 9, 2019)_
   * 90 day license is provided free of charge by SyncroSoft and Oxygen XML Editor to workshop participants
 
