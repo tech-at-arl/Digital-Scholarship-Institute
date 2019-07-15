@@ -22,10 +22,8 @@ Please **create accounts and install required software** before workshops (see s
     * Click the "Start Your Omeka Trial" button
     * Fill out the form with a username, password, etc. You should receive an email with a link to activate your account. Click   on the link, and you should be taken to a screen that says, "Your account was activated successfully." If you already have an Omeka.net account (note—this is different from Omeka.org) you may wish to create a new account for this session, as the free plan only allows for one site.
 
-
-
 * Multimodal Online Publishing with Scalar
- *[To come]
+ * We will do this together during the workshop.
 
 ## The Curriculum
 All participants will start Day 1 together with welcoming remarks and an Introduction to Digital Scholarshop by Brandon Locke, Digital Social Science and Humanities Specialist with the MSU History Department, and Director of the Lab for the Education and Advancement in Digital Research (LEADR) at Michigan State University. 
