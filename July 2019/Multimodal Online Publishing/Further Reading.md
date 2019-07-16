@@ -8,5 +8,10 @@
 * [FemTechNet Critical Race & Ethnic Studies Pedagogy Workbook](http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/index)
 * [A Photographic History of Oregon State University](http://photohistory.oregonstate.edu/works/photo-history/index)
 * [Complext TV](http://scalar.usc.edu/works/complex-television/index)
+
 ## Customized: Scalar with (many) Programmers
 * [Enchanging the Desert](http://enchantingthedesert.com/home/)
+
+## Other Multimodal Projects: Not Scalar
+* [Sekuru's Stories](http://kyker.digitalscholar.rochester.edu/): WordPress
+* [Metagming](https://manifold.umn.edu/projects/metagaming): [Manifold](https://manifoldapp.org/)
