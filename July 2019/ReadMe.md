@@ -9,7 +9,7 @@ Please **create accounts and install required software** before workshops (see s
   *[To come]
 
 * Information Visualization
-  *[To come]
+  * See Readme for [Information Visualization workshop](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/July%202019/Information%20Visualization)
 
 * Text Minning with the HathiTrust Research Center
  *Listed in readme for the text mining workshop.
