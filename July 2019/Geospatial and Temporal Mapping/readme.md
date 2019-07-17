@@ -4,7 +4,7 @@
    - If you already have a Google, Twitter, or Facebook account, please test that you are able to sign in prior to the workshop here: [Sign in to Georeferencer](https://www.georeferencer.com/auth/widget?mode=select&next=https%3A%2F%2Fwww.georeferencer.com%2Fauth%2Fsign-in-success%3Fnext%3Dhttps%253A%252F%252Fwww.georeferencer.com%252F).
    
 2. Connect to your ArcGIS Online account for the workshop.
-   - instructions here
+   - account setup information will be emailed to each participant
    
 ## Workshop Learning Objectives:
 By the end of this workshop, participants will be able to:
