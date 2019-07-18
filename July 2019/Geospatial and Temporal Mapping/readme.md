@@ -36,4 +36,4 @@ By the end of this workshop, participants will be able to:
 7. Closing discussion (15 min.)
 
 ## Workshop Materials:
-Download the data for the exercise: [public_art_points.csv]https://raw.githubusercontent.com/tech-at-arl/Digital-Scholarship-Institute/master/July%202019/Geospatial%20and%20Temporal%20Mapping/public_art_points.csv
+Download the data for the exercise: [public_art_points.csv](https://raw.githubusercontent.com/tech-at-arl/Digital-Scholarship-Institute/master/July%202019/Geospatial%20and%20Temporal%20Mapping/public_art_points.csv)
