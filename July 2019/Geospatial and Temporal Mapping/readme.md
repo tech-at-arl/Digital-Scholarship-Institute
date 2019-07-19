@@ -42,3 +42,4 @@ By the end of this workshop, participants will be able to:
    - Georeferencing activity handout: [GeoreferencingActivity_DSI2019.pdf](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Geospatial%20and%20Temporal%20Mapping/GeoreferencingActivity_DSI2019.pdf)
    - ArcGIS Online exercise data: [public_art_points.csv](https://raw.githubusercontent.com/tech-at-arl/Digital-Scholarship-Institute/master/July%202019/Geospatial%20and%20Temporal%20Mapping/public_art_points.csv)
    - Teaching and learning resources handout: [GISLearningResources_DSI2019.pdf](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Geospatial%20and%20Temporal%20Mapping/GISLearningResources_DSI2019.pdf)
+   - Web mapping tools pros vs. cons handout: [ToolsProsCons_DSI2019.pdf](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Geospatial%20and%20Temporal%20Mapping/ToolsProsCons_DSI2019.pdf)
