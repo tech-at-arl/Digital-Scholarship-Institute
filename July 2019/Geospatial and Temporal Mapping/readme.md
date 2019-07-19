@@ -1,3 +1,5 @@
+Instructors: [Joshua Sadvari](https://library.osu.edu/people/sadvari.1) and [Blair Tinker](https://dslab.lib.rochester.edu/blair-tinker/)
+
 ## Setup Instructions:
 1. Create an account for the David Rumsey Map Collection Georeferencer.
    - It is possible to sign in to Georeferencer with a Google, Twitter, or Facebook account. If you do not already have one of these account types, please create one prior to the workshop.
