@@ -39,5 +39,6 @@ By the end of this workshop, participants will be able to:
 7. Closing discussion (15 min.)
 
 ## Workshop Materials:
-   - Georeferencing activity handout: [pdf](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Geospatial%20and%20Temporal%20Mapping/GeoreferencingActivity_DSI2019.pdf)
+   - Georeferencing activity handout: [GeoreferencingActivity_DSI2019.pdf](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Geospatial%20and%20Temporal%20Mapping/GeoreferencingActivity_DSI2019.pdf)
    - ArcGIS Online exercise data: [public_art_points.csv](https://raw.githubusercontent.com/tech-at-arl/Digital-Scholarship-Institute/master/July%202019/Geospatial%20and%20Temporal%20Mapping/public_art_points.csv)
+   - Teaching and learning resources handout: [GISLearningResources_DSI2019.pdf](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Geospatial%20and%20Temporal%20Mapping/GISLearningResources_DSI2019.pdf)
