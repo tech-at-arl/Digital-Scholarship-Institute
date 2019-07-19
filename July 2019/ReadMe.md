@@ -6,7 +6,7 @@ Repository for course materials and related resources for the ARL Digital Schola
 Please **create accounts and install required software** before workshops (see schedule below).
 
 * GIS
-  *[To come]
+  * See Readme for [Geospatial and Temporal Mapping workshop](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/July%202019/Geospatial%20and%20Temporal%20Mapping)
 
 * Information Visualization
   * See Readme for [Information Visualization workshop](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/July%202019/Information%20Visualization)
