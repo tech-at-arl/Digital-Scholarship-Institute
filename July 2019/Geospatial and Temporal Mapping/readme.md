@@ -26,7 +26,7 @@ By the end of this workshop, participants will be able to:
    - LO2: Summarize the major components and considerations for creating and maintaining an example GIS/mapping project.
    - How'd they make that? - In small groups, we will analyze a current GIS project to understand its audience, necessary expertise to create the project, and how we might support such a project. We will share out our results and discuss as a larger group.
    
-4. Georeferencing historical maps (25 min.)
+4. [Georeferencing historical maps](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Geospatial%20and%20Temporal%20Mapping/GeoreferencingActivity_DSI2019.pdf) (25 min.)
    - LO3: Perform a common geospatial data manipulation task with direct applications for supporting the use of library map collections in digital scholarship projects.
    - We will learn how to identify places on a scanned map and to define its location so that it can be used in combination with other data layers.
    
@@ -39,4 +39,5 @@ By the end of this workshop, participants will be able to:
 7. Closing discussion (15 min.)
 
 ## Workshop Materials:
-ArcGIS Online exercise data: [public_art_points.csv](https://raw.githubusercontent.com/tech-at-arl/Digital-Scholarship-Institute/master/July%202019/Geospatial%20and%20Temporal%20Mapping/public_art_points.csv)
+   - Georeferencing activity handout: [pdf](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Geospatial%20and%20Temporal%20Mapping/GeoreferencingActivity_DSI2019.pdf)
+   - ArcGIS Online exercise data: [public_art_points.csv](https://raw.githubusercontent.com/tech-at-arl/Digital-Scholarship-Institute/master/July%202019/Geospatial%20and%20Temporal%20Mapping/public_art_points.csv)
