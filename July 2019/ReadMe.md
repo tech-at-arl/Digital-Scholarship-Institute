@@ -12,7 +12,7 @@ Please **create accounts and install required software** before workshops (see s
   * See Readme for [Information Visualization workshop](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/July%202019/Information%20Visualization)
 
 * Text Minning with the HathiTrust Research Center
- *Listed in readme for the text mining workshop.
+ * See Readme for [Text Mining workshop](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/July%202019/Text%20Mining)
   
 * Scholarly Editions: Text Encoding and Publishing with TEI
   * Relevant details can be found in the ["Preparing for the Workshop" section of the workshop's Readme file](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/July%202019/Scholarly%20Editions)
