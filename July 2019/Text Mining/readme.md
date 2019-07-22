@@ -13,11 +13,15 @@ Instructors: [Dan Tracy](mailto:dtracy@illinois.edu) & [Erin Glass](mailto:ergla
 * Note: all workshop materials are adapted from those available through [the HTRC instruction website](https://teach.htrc.illinois.edu/modules/).
 
 **Module 1**: Getting Started: Text Analysis with the HathiTrust Research Center (35 minutes)
+
 **Module 2.1**: Gathering Textual Data: Finding Text (35 minutes)
+
 **Module 2.2 (abbreviated overview)**: Gathering Textual Data: Bulk Retrieval (15 minutes)
 
 30 minute break
 
 **Module 3 (abbreviated overview)**: Working with Textual Data (15 minutes)
+
 **Module 4.1**: Analyzing Textual Data: Using Off-the-Shelf Tools (35 minutes)
+
 **Module 5 (abbreviated)**: Visualizing Textual Data: An Introduction (35 minutes)
