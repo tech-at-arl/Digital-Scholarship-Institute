@@ -1,0 +1,1 @@
+"A Word is an Image". Creator: Shoe. Date: April 25, 2014 – April 27, 2014. Type: mural paintings (visual works). Coordinates: 43.15647098,-77.57121742. Image Rights: Copyright WALL\THERAPY. Used with permission. Alternate URL: https://public-art.dslab.digitalscholar.rochester.edu/files/original/0f06d039e1765b34157d20868c0613ebccd3ca99.png
