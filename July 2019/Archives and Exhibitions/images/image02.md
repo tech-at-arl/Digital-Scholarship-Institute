@@ -1,0 +1,1 @@
+Cascade Drive Bench. Creator: Knoblauch, Paul. Artist: Knoblauch, Paul. Type: Benches (furniture). Access: Outdoor. Street Address: 70 Cascade Drive, Rochester NY 14614. Coordinates: 43.155399, -77.619121. Neighborhood: Cascade District. Quadrant: Rochester Downtown. Site: Cascade Centre. Image Rights: Copyright Richard Margolis.
