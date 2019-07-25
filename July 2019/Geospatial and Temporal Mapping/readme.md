@@ -6,7 +6,7 @@ Instructors: [Joshua Sadvari](https://library.osu.edu/people/sadvari.1) and [Bla
    - If you already have a Google, Twitter, or Facebook account, please test that you are able to sign in prior to the workshop here: [Sign in to Georeferencer](https://www.georeferencer.com/auth/widget?mode=select&next=https%3A%2F%2Fwww.georeferencer.com%2Fauth%2Fsign-in-success%3Fnext%3Dhttps%253A%252F%252Fwww.georeferencer.com%252F).
    
 2. Connect to your ArcGIS Online account for the workshop.
-   - Account setup information will be emailed to each participant
+   - Account information will be provided at the beginning of the session
    - Download the data for the exercise: [public_art_points.csv](https://raw.githubusercontent.com/tech-at-arl/Digital-Scholarship-Institute/master/July%202019/Geospatial%20and%20Temporal%20Mapping/public_art_points.csv)
    
 ## Workshop Learning Objectives:
