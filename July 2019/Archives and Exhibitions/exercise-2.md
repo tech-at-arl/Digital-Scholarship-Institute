@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Choose 3-5 items from the [image folder](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/August%202018/Archives%20and%20Exhibitions/images). Consult the metadata markdown files (ending in .md) in the image folder for the associated image metadata.
+1. Choose 3-5 items from the [image folder](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/July%202019/Archives%20and%20Exhibitions/images). Consult the metadata markdown files (ending in .md) in the image folder for the associated image metadata.
 
 2. Sign into your Omeka.net account and create a site in My Dashboard. Once created, click Manage Site to begin.
 
