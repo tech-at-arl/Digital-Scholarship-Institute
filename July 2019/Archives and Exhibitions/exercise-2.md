@@ -6,7 +6,7 @@
 
 2. Sign into your Omeka.net account and create a site in My Dashboard. Once created, click Manage Site to begin.
 
-3. [Add](https://jaguillette.github.io/omekaSugar/tutorial/items/2016/09/02/add-an-item.html) the 3-5 items you've selected by filling out metadata fields and uploading the corresponding image. Check out the [Omeka Site Example](https://public-art.dslab.digitalscholar.rochester.edu) to see [sample items](https://public-art.dslab.digitalscholar.rochester.edu/browse).
+3. [Add](https://jaguillette.github.io/omekaSugar/tutorial/items/2016/09/02/add-an-item.html) the 3-5 items you've selected by filling out metadata fields and uploading the corresponding image. Check out the [Omeka Site Example](https://public-art.dslab.digitalscholar.rochester.edu) to see [sample items](https://public-art.dslab.digitalscholar.rochester.edu/s/all/item).
 
 As you work independently, let us know how you're doing by flagging your laptop using the sticky notes provided:
 
