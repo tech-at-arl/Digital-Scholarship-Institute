@@ -32,7 +32,7 @@ By the end of this workshop, participants will be able to:
    
 5. Break (30 min.)
 
-6. Building a web map with ArcGIS Online (75 min.)
+6. [Building a web map with ArcGIS Online](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/July%202019/Geospatial%20and%20Temporal%20Mapping/DSI%20AGOL.pdf) (75 min.)
    - LO4: Use ArcGIS Online to complete common, project-oriented tasks, including importing, analyzing, visualizing, and sharing geospatial data and associated web maps.
    - We will learn the basics of ArcGIS Online, including creating a new map, navigating the interface, searching for and adding data in a variety of formats, changing layer styles, working with attributes, and performing common spatial analysis tasks. We will be using locally-relevant data sets, with a focus on public art locations in Rochester.
    
