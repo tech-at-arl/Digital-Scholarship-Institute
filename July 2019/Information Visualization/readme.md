@@ -1,6 +1,6 @@
 # TL;DR
 Before the Institute, do these things!
-1. Fill out a short, silly survey: https://forms.gle/mSPAy4Vq1C2bzCg8A
+1. ~Fill out a short, silly survey: https://forms.gle/mSPAy4Vq1C2bzCg8A~
 2. Install [OpenRefine](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions) and [Tableau Public](https://public.tableau.com/s/) (and create a free Tableau profile).
 3. Explore 2-3 interesting charts at [data-to-viz.com](http://data-to-viz.com/) 
 
@@ -19,7 +19,7 @@ This workshop will be taught by Megan and Eileen. Feel free to email them questi
 3.	Participants will be able to find resources that can help with analysis projects.
 
 ## Survey
-Choosing a dataset to explore can be difficult since everyone has different interests. We decided that participants will create and analyze their own data. To this end, we designed a [survey](https://forms.gle/mSPAy4Vq1C2bzCg8A) to generate an interesting dataset to explore. 
+(The survey is now closed.) Choosing a dataset to explore can be difficult since everyone has different interests. We decided that participants will create and analyze their own data. To this end, we designed a [survey](https://forms.gle/mSPAy4Vq1C2bzCg8A) to generate an interesting dataset to explore. 
 
 In addition to the 2019 participants, past DSI participants and instructors have been invited to complete the survey to increase the number of responses. The survey questions are presented in random order. All survey questions are optional and you can leave the survey at any time. All responses are anonymous. If you have questions or concerns about this survey, please contact Megan or Eileen.
 
