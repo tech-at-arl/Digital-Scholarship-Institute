@@ -1,6 +1,6 @@
 # Introduction to Digital Scholarship
 
-Presenter: Brandon Locke 
+Presenter: Brandon Locke (@brandontlocke | brandontlocke.com)
 
 ## Materials
 
