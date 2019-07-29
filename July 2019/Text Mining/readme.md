@@ -10,7 +10,7 @@ Instructors: [Dan Tracy](mailto:dtracy@illinois.edu) & [Erin Glass](mailto:ergla
   - If you are asked to activate your account from your email, please make sure to go to your inbox and complete the activation process
 
 ## Workshop Outline
-* Note: all workshop materials are adapted from those available through [the HTRC instruction website](https://teach.htrc.illinois.edu/modules/).
+* Note: all workshop materials are adapted from those available through [the HTRC instruction website](https://teach.htrc.illinois.edu/modules/). There are some modules that we are not completing or using only a very abbreviated modified version of. These mostly cover more in depth introductions to command line and programming concepts for researchers who are exploring text mining that may require writing their own programs to gather, modify, and analyze text content.
 
 **Module 1**: Getting Started: Text Analysis with the HathiTrust Research Center (35 minutes)
 
