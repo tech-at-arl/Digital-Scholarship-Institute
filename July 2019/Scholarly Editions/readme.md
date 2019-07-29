@@ -20,7 +20,7 @@ _If you already have a TAPAS account, you don't need to create a new account. Ad
 * Click on "Sign In" on the top-right of the page
 * Select "Create new account" tab
   * Enter the required information; customize your profile information when you register or later
-* When your account has been created, **add your TAPAS username to shared spreadsheet** so we can add you to the TAPAS project for this workshop.   
+* When your account has been created, **add your TAPAS username to shared spreadsheet** so we can add you to the TAPAS project for this workshop: https://docs.google.com/spreadsheets/d/16gCW--H5qNDVtijjLD2d3KCQD7gil8NCCNz6o7jk2ow/edit#gid=0   
 
 ### Download and install Oxygen XML Editor
 <a href="https://www.oxygenxml.com" title="Oxygen XML Editor"><img src="https://www.oxygenxml.com/img/resources/oxygen190x62.png" width="190" height="62" alt="Oxygen XML Editor" border="0"/></a>
