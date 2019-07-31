@@ -1,4 +1,5 @@
-## Workshop Agenda
+## Workshop Agenda and Documents
+- [Slide Deck](https://docs.google.com/presentation/d/1YRpSu-cquZ57QQH5y0eH5Ikho04cgY5YRrEP1PcLxy0/edit?usp=sharing)
 - [How Did They Make That? Exercise](https://docs.google.com/document/d/1eBAO2mPF1KVv1ZtVYoxUnQCzGoOgeEKo2o0HGET9I_Q/edit?usp=sharing) (20 minutes): In groups 2-3 people, you will analyze a current Scalar project in order to understand its audience, the expertise that would be necessary to create the project, and how you might help support such a project.
 - Multimodal Publishing, or Why Scalar? (10 minutes): An introduction to multimodal publishing, opportunities and challenges of this type of work, and how Scalar differs from other publishing platforms.
 - Public Art in Rochester (15 minutes): An introduction to our sample site, the Scalar Dashboard, and some samples to get us thinking about possibilites for creating paths.
@@ -20,4 +21,3 @@
 - Discussion (15 mins)
   - [Morning Session Notes](https://docs.google.com/document/d/1RD4qkOLZrgR9zU1p4N73LGiLdUlZ36ye9ku03IdVGPE/edit?usp=sharing)
   - [Afternoon Session Notes](https://docs.google.com/document/d/1J4a-YzEbG5uV7Uj9J_3vxvANlzFp9kE0gbu9hr-oR-c/edit?usp=sharing)
-## [Workshop Slide Deck](https://docs.google.com/presentation/d/1YRpSu-cquZ57QQH5y0eH5Ikho04cgY5YRrEP1PcLxy0/edit?usp=sharing)
