@@ -20,3 +20,9 @@ This file collects useful tools discussed at the Institute, whether formally in 
 ## Dataset creation
 - [JSTOR Data For Research](https://www.jstor.org/dfr/)
 - [HathiTrust Worksets builder](https://analytics.hathitrust.org/staticworksets)
+
+## Text analysis
+- [HathiTrust algorithms](https://analytics.hathitrust.org/statisticalalgorithms)
+- [Voyant](https://voyant-tools.org/)
+- [AntConc](https://www.laurenceanthony.net/software/antconc/)
+- [Lexos](https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/lexos-installers/)
