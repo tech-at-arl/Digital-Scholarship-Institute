@@ -25,3 +25,7 @@ Instructors: [Dan Tracy](mailto:dtracy@illinois.edu) & [Erin Glass](mailto:ergla
 **Module 4.1**: Analyzing Textual Data: Using Off-the-Shelf Tools (35 minutes)
 
 **Module 5 (abbreviated)**: Visualizing Textual Data: An Introduction (35 minutes)
+
+
+## Related Reading
+- [OCR Evaluation Tools for the 21st Century](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1008&context=scil-cmel)
