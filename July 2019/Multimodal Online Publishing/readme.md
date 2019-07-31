@@ -1,8 +1,10 @@
-## Workshop Agenda and Documents
-- [Slide Deck](https://docs.google.com/presentation/d/1YRpSu-cquZ57QQH5y0eH5Ikho04cgY5YRrEP1PcLxy0/edit?usp=sharing)
+## Workshop Agenda 
 - [How Did They Make That? Exercise](https://docs.google.com/document/d/1eBAO2mPF1KVv1ZtVYoxUnQCzGoOgeEKo2o0HGET9I_Q/edit?usp=sharing) (20 minutes): In groups 2-3 people, you will analyze a current Scalar project in order to understand its audience, the expertise that would be necessary to create the project, and how you might help support such a project.
 - Multimodal Publishing, or Why Scalar? (10 minutes): An introduction to multimodal publishing, opportunities and challenges of this type of work, and how Scalar differs from other publishing platforms.
+  - [Workshop Slide Deck](https://docs.google.com/presentation/d/1YRpSu-cquZ57QQH5y0eH5Ikho04cgY5YRrEP1PcLxy0/edit?usp=sharing)
 - Public Art in Rochester (15 minutes): An introduction to our sample site, the Scalar Dashboard, and some samples to get us thinking about possibilites for creating paths.
+  - [Morning Session Scalar Sample Site](http://esherwood.digitalscholar.rochester.edu/arldsi/public-art-arl-dsi-am/index)
+  - [Afternoon Session Scalar Sample Site](http://esherwood.digitalscholar.rochester.edu/arldsi/public-art-arl-dsi-pm/index)
 - Pre-planning Paths (30 minutes): Work in groups to map out your paths on paper, determine your argument, and gather necessary content.
   - [Morning Session Sample Materials](https://drive.google.com/drive/folders/1qMoxr87tiQ6JzhOpiPY5ll9ZaKHR0Cmr?usp=sharing)
   - [Afternoon Session Sample Materials](https://drive.google.com/drive/folders/1uUcPZ0CbTgXki0gckOV9uM4fSUwY2kyh?usp=sharing)
