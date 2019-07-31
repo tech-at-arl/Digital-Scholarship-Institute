@@ -1,7 +1,7 @@
 # Exercise 3: Create collections and exhibits in Omeka
 
 ## Self-guided exercises
-1. [Add a new collection and associate appropriate items to collection](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/add-a-collection.html). Check out the [Omeka Sandbox](http://limestone.omeka.net/) to see sample items across [different collections](http://limestone.omeka.net/collections/browse). 
+1. [Add a new collection and associate appropriate items to collection](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/add-a-collection.html). Check out another [Omeka Example Site](http://limestone.omeka.net/) to see sample items across [different collections](http://limestone.omeka.net/collections/browse). 
 2. [Make an Exhibit](https://jaguillette.github.io/omekaSugar/tutorial/collections/2016/09/06/make-an-exhibit.html). For historical context about the collection, visit [the digital collection at IU's Image Collections Online](https://webapp1.dlib.indiana.edu/images/splash.htm?scope=images/VAC5094). And check out this brief [sample exhibit](http://limestone.omeka.net/exhibits/show/midwest) in the Omeka sandbox.
 3. You may need to install/activate the Exhibit Builder plugin in your Omeka site: My Dashboard > Manage Site > Plugins > Click the green "Install" button.
 
