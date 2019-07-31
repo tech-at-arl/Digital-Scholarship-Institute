@@ -40,8 +40,6 @@ Form pairs, select an Omeka project, explore it together, and discuss the questi
 
 5. Does this Omeka project provide **attribution**? Does it credit sources where appropriate, and, if possible, link out to those sources? Does it acknowledge precedents and sources of inspiration?
 
-A [handout of these discussion questions](docs/exercise-1.pdf) [PDF] is also available.
-
 ## Credit Where Credit Is Due
 
 Adapted from Shannon Christine Mattern, [Evaluating Multimodal Work, Revisited](http://journalofdigitalhumanities.org/1-4/evaluating-multimodal-work-revisited-by-shannon-mattern), Journal of Digital Humanities, 1, no. 4 (2012).
