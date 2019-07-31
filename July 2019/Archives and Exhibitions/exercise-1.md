@@ -19,7 +19,6 @@ Form pairs, select an Omeka project, explore it together, and discuss the questi
 
 - [Digital Watts](http://watts.library.lmu.build/cms) (Loyola Marymount University)
 - [The History Harvest](http://historyharvest.unl.edu) (University of Nebraska-Lincoln)
-- [Nature, Environments, & Place in American Thought](http://cloud.lib.wfu.edu/fys100fff) (Wake Forest University)
 - [Street Stories: Oakland](http://www.streetstoriesoakland.com) (Mills College)
 
 ### Community Digital History Projects
