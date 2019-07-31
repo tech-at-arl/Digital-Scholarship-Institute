@@ -3,9 +3,13 @@
 - Multimodal Publishing, or Why Scalar? (10 minutes): An introduction to multimodal publishing, opportunities and challenges of this type of work, and how Scalar differs from other publishing platforms.
 - Public Art in Rochester (15 minutes): An introduction to our sample site, the Scalar Dashboard, and some samples to get us thinking about possibilites for creating paths.
 - Pre-planning Paths (30 minutes): Work in groups to map out your paths on paper, determine your argument, and gather necessary content.
+  - [Morning Session Sample Materials](https://drive.google.com/drive/folders/1qMoxr87tiQ6JzhOpiPY5ll9ZaKHR0Cmr?usp=sharing)
+  - [Afternoon Session Sample Materials](https://drive.google.com/drive/folders/1uUcPZ0CbTgXki0gckOV9uM4fSUwY2kyh?usp=sharing)
 - Log-in to Scalar (5 minutes)
 - Break (30 minutes)
 - Scalar Skills (30 minutes): Learn the basics of uploading and linking media, creating pages, adding annotations, and building paths.
+  - [Scalar Toolbars Handout](https://drive.google.com/file/d/1wQDI4c2UbqvDJ811p6brqHT9uRBPq5xx/view?usp=sharing)
+  - [Step-by-Step Instructions]
 - Build Your Path (30 minutes): Work in groups to create content planned in earlier exercise and link them together through your group's path.
 - Group Discussion (15 minutes): Share out your group's work. Answer the following questions:
   - What did your path focus on?
@@ -14,5 +18,6 @@
   - What else would you need to know moving forward?
 - Visualizations and Advanced Features (10 mins)
 - Discussion (15 mins)
-  - [Morning Notes](https://docs.google.com/document/d/1RD4qkOLZrgR9zU1p4N73LGiLdUlZ36ye9ku03IdVGPE/edit?usp=sharing)
-  - [Afternoon Notes](https://docs.google.com/document/d/1J4a-YzEbG5uV7Uj9J_3vxvANlzFp9kE0gbu9hr-oR-c/edit?usp=sharing)
+  - [Morning Session Notes](https://docs.google.com/document/d/1RD4qkOLZrgR9zU1p4N73LGiLdUlZ36ye9ku03IdVGPE/edit?usp=sharing)
+  - [Afternoon Session Notes](https://docs.google.com/document/d/1J4a-YzEbG5uV7Uj9J_3vxvANlzFp9kE0gbu9hr-oR-c/edit?usp=sharing)
+## [Workshop Slide Deck](https://docs.google.com/presentation/d/1YRpSu-cquZ57QQH5y0eH5Ikho04cgY5YRrEP1PcLxy0/edit?usp=sharing)
