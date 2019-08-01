@@ -37,4 +37,4 @@ University of Minnesota, Twin Cities
 
 **Add to shared [Google Doc](https://docs.google.com/document/d/1ZRAU244axutv39efVMKtMuZOq6GHeEZDEHUQ3IoBXKI/edit?usp=sharing) – questions, partners**
 
-**[Session slides] (https://drive.google.com/file/d/15Db0X-cOigw9y6RCVMY1A9CUE6o-VY2-/view?usp=sharing)
+**[Session slides](https://drive.google.com/file/d/15Db0X-cOigw9y6RCVMY1A9CUE6o-VY2-/view?usp=sharing)
