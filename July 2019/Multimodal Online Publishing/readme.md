@@ -12,7 +12,7 @@
 - Break (30 minutes)
 - Scalar Skills (30 minutes): Learn the basics of uploading and linking media, creating pages, adding annotations, and building paths.
   - [Scalar Toolbars Handout](https://drive.google.com/file/d/1ETEYWZhIsszCi81eI2uD_i7jY0RjRMsk/view?usp=sharing)
-  - [Step-by-Step Instructions](https://drive.google.com/file/d/1OPw354E_dTPOBuBK3ium0ZTeufFwf3FP/view?usp=sharing)
+  - [Step-by-Step Instructions](https://drive.google.com/file/d/1W9FDrOjtEI0Ez8cBQu9nlBBVk9IU6cRE/view?usp=sharing)
 - Build Your Path (30 minutes): Work in groups to create content planned in earlier exercise and link them together through your group's path.
 - Group Discussion (15 minutes): Share out your group's work. Answer the following questions:
   - What did your path focus on?
