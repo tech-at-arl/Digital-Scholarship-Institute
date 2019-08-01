@@ -19,7 +19,7 @@ Form pairs, select an Omeka project, explore it together, and discuss the questi
 
 - [Digital Watts](http://watts.library.lmu.build/cms) (Loyola Marymount University)
 - [The History Harvest](http://historyharvest.unl.edu) (University of Nebraska-Lincoln)
-- [Street Stories: Oakland](http://www.streetstoriesoakland.com) (Mills College)
+- [Street Stories: Oakland](https://curatescape.org/) (Mills College)
 
 ### Community Digital History Projects
 
