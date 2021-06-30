@@ -19,13 +19,12 @@ This session will address the processes of developing objectives, scaffolding in
 
 ## Additional Resources
 #### Selected Readings
-- Claire Battershill and Shawna Ross, *Using Digital Humanities in the Classroom*
-- Leigh Bonds, [“Listening in on the Conversations: An Overview of Digital Humanities Pedagogy”](http://hdl.handle.net/1811/84568)
+- Claire Battershill and Shawna Ross, [*Using Digital Humanities in the Classroom*](https://www.bloomsbury.com/uk/using-digital-humanities-in-the-classroom-9781350029750/)
 - Anne Cong-Huyen, et. al. [FemTechNet Critical Race & Ethnic Studies Pedagogy Workbook](http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/index)
-- Constance Crompton, Richard J. Lane and Ray Siemens, *Doing Digital Humanities: Practice, Training, Research*
+- Constance Crompton, Richard J. Lane and Ray Siemens, [*Doing Digital Humanities: Practice, Training, Research*](https://www.routledge.com/Doing-Digital-Humanities-Practice-Training-Research/Crompton-Lane-Siemens/p/book/9781138899445)
 - Rebecca Frost Davis, Matthew K. Gold, Katherine D. Harris, and Jentery Sayers, Eds., [*Digital Pedagogy in the Humanities: Concepts, Models and Experiments*](https://digitalpedagogy.mla.hcommons.org)
-- *Debates in the Digital Humanities* series https://dhdebates.gc.cuny.edu/
-- Jessica DeSpain, “A Feminist Digital Humanities Pedagogy beyond The Classroom”
+- [*Debates in the Digital Humanities* series](https://dhdebates.gc.cuny.edu/)
+- Jessica DeSpain, [“A Feminist Digital Humanities Pedagogy beyond The Classroom”](https://www.jstor.org/stable/10.5325/trajincschped.26.1.0065)
 - Brett Hirsch, ed. [*Digital Humanities Pedagogy: Practices, Principles and Politics*](https://www.openbookpublishers.com/product/161/digital-humanities-pedagogy--practices--principles-and-politics)
 - Spencer Keralis, [“Disrupting Labor in Digital Humanities; or, The Classroom Is Not Your Crowd”](https://digital.library.unt.edu/ark:/67531/metadc1404251/)
 - Adeline Koh, [“Introducing Digital Humanities Work to Undergraduates: An Overview”](https://hybridpedagogy.org/introducing-digital-humanities-work-undergraduates-overview/)
