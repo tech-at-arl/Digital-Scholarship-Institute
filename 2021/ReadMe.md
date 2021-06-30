@@ -1,7 +1,10 @@
 # ARL Digital Scholarship Insitute, 9-30 July 2021
 
 ## Workshop Schedule
-
+9 July -- [Digital Scholarship Pedagogy](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/2021/Digital%20Scholarship%20Pedagogy)
+16 July -- [Care as a Compass: Grounding DS in Community (DEIA/SJ)](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/2021/Care%20as%20a%20Compass)
+23 July -- [Getting Started with Text Preparation and Analysis: A Hands-on Overview of Tools and Approaches](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/2021/Getting%20Started%20with%20Text%20Preparation%20and%20Analysis)
+30 July -- [Tools for Emerging and Sustainable Digital Scholarship](https://github.com/tech-at-arl/Digital-Scholarship-Institute/tree/master/2021/Tools%20for%20Emerging%20and%20Sustainable%20Digital%20Scholarship)
 
 ## Learning Goals
 The learning goals set forth by the Association of Research Libraries (ARL) Digital Scholarship Institute are meant to uphold the overarching goal of the ARL Academy, which has been created to “foster the development of an agile, diverse and highly-motivated workforce as well as the inspiring leadership necessary to meet present and future challenges.”
