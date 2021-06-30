@@ -11,7 +11,7 @@ This session will address the processes of developing objectives, scaffolding in
 
 ## Workshop Outline
 - DS Pedagogy Basics: Objectives, Scaffolded Instruction, Inclusive Teaching, and Assessment (35 min)
-- Deconstructing Instruction (Breakout Groups) + Sharing (~20 min)
+- [Deconstructing Instruction](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/2021/Digital%20Scholarship%20Pedagogy/Deconstructing%20Instruction.md) (Breakout Activity) + Sharing (~20 min)
 - Break (5 min)
 - Now what? Consulting on Course Integration (~15 min)
 - Q&A (~15 min)
