@@ -8,6 +8,7 @@ This session will address the processes of developing objectives, scaffolding in
 - Ryan Cordell [“How Not to Teach the Digital Humanities” ](http://ryancordell.org/teaching/how-not-to-teach-digital-humanities/)
 - Sean Michael Morris [“A Call for Critical Instructional Design”](https://www.seanmichaelmorris.com/a-call-for-critical-instructional-design/?fbclid=IwAR0VZNxMs9NfhUkzRs3siFsA5RyKKsktJrtJqRgWzqwnLXhkLx9pZGrmRw4)
 - David “Jack” Norton [“Making Time: Workflow and Learning Outcomes in DH Assignments”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/f1b1d9a6-974b-46c4-afde-7606bf238fc3#ch25)
+- John E. Russell and Merinda Kay Hensley, ["Beyond Buttonology: Digital Humanities, Digital Pedagogy, and the ACRL Framework"](https://crln.acrl.org/index.php/crlnews/article/view/16833/18427) 
 
 ## Workshop Outline
 - DS Pedagogy Basics: Objectives, Scaffolded Instruction, Inclusive Teaching, and Assessment (35 min)
@@ -17,7 +18,7 @@ This session will address the processes of developing objectives, scaffolding in
 - Q&A (~15 min)
 
 ## Additional Resources
-#### Readings
+#### Selected Readings
 - Claire Battershill and Shawna Ross, *Using Digital Humanities in the Classroom*
 - Leigh Bonds, [“Listening in on the Conversations: An Overview of Digital Humanities Pedagogy”](http://hdl.handle.net/1811/84568)
 - Anne Cong-Huyen, et. al. [FemTechNet Critical Race & Ethnic Studies Pedagogy Workbook](http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/index)
@@ -33,7 +34,11 @@ This session will address the processes of developing objectives, scaffolding in
 - David “Jack” Norton, [“Making Time: Workflow and Learning Outcomes in DH Assignments”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/f1b1d9a6-974b-46c4-afde-7606bf238fc3#ch25)
 - Bethany Nowviskie, [“Evaluating Collaborative Digital Scholarship (or, Where Credit Is Due),”](http://journalofdigitalhumanities.org/1-4/evaluating-collaborative-digital-scholarship-by-bethany-nowviskie/)
 - Miriam Posner, [“How Did They Make That?”](http://miriamposner.com/blog/how-did-they-make-that-the-video/)
-- Roopika Risam, [*New Digital Worlds : Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*](https://www.jstor.org/stable/j.ctv7tq4hg)
+- Roopika Risam, [*New Digital Worlds : Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*](https://www.jstor.org/stable/j.ctv7tq4hg) 
 - Lindsay Thomas and Dana Solomon, ["Active Users: Project Development and Digital Humanities Pedagogy"](https://www.jstor.org/stable/44378549) 
 
-#### LibGuides
+#### Sites
+- Leigh Bonds, [Digital Humanities LibGuide: DH Pedagogy](https://guides.osu.edu/DH/dhpedagogy)
+- [#DLFteach Toolkit](https://dlfteach.pubpub.org/toolkit)
+- [The Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/)
+- 
