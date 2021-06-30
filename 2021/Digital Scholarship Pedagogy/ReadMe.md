@@ -15,3 +15,5 @@ This session will address the processes of developing objectives, scaffolding in
 - Break (5 min)
 - Now what? Consulting on Course Integration (15 min)
 - Q&A (15 min)
+
+## Additional Resources
