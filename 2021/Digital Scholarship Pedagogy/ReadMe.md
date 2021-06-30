@@ -9,7 +9,7 @@ This session will address the processes of developing objectives, scaffolding in
 - Sean Michael Morris [“A Call for Critical Instructional Design”](https://www.seanmichaelmorris.com/a-call-for-critical-instructional-design/?fbclid=IwAR0VZNxMs9NfhUkzRs3siFsA5RyKKsktJrtJqRgWzqwnLXhkLx9pZGrmRw4)
 - David “Jack” Norton [“Making Time: Workflow and Learning Outcomes in DH Assignments”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/f1b1d9a6-974b-46c4-afde-7606bf238fc3#ch25)
 
-##Workshop Outline
+## Workshop Outline
 - DS Pedagogy Basics: Objectives, Scaffolded Instruction, Inclusive Teaching, and Assessment (35 min)
 - Deconstructing Instruction (Breakout Groups) + Sharing (20 min)
 - Break (5 min)
