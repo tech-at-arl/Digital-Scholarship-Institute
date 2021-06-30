@@ -17,3 +17,23 @@ This session will address the processes of developing objectives, scaffolding in
 - Q&A (~15 min)
 
 ## Additional Resources
+#### Readings
+- Claire Battershill and Shawna Ross, *Using Digital Humanities in the Classroom*
+- Leigh Bonds, [“Listening in on the Conversations: An Overview of Digital Humanities Pedagogy”](http://hdl.handle.net/1811/84568)
+- Anne Cong-Huyen, et. al. [FemTechNet Critical Race & Ethnic Studies Pedagogy Workbook](http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/index)
+- Constance Crompton, Richard J. Lane and Ray Siemens, *Doing Digital Humanities: Practice, Training, Research*
+- Rebecca Frost Davis, Matthew K. Gold, Katherine D. Harris, and Jentery Sayers, Eds., [*Digital Pedagogy in the Humanities: Concepts, Models and Experiments*](https://digitalpedagogy.mla.hcommons.org)
+- *Debates in the Digital Humanities* series https://dhdebates.gc.cuny.edu/
+- Jessica DeSpain, “A Feminist Digital Humanities Pedagogy beyond The Classroom”
+- Brett Hirsch, ed. [*Digital Humanities Pedagogy: Practices, Principles and Politics*](https://www.openbookpublishers.com/product/161/digital-humanities-pedagogy--practices--principles-and-politics)
+- Spencer Keralis, [“Disrupting Labor in Digital Humanities; or, The Classroom Is Not Your Crowd”](https://digital.library.unt.edu/ark:/67531/metadc1404251/)
+- Adeline Koh, [“Introducing Digital Humanities Work to Undergraduates: An Overview”](https://hybridpedagogy.org/introducing-digital-humanities-work-undergraduates-overview/)
+- Brandon Locke, [“Digital Humanities Pedagogy as Essential Liberal Education: A Framework for Curriculum Development”](http://www.digitalhumanities.org/dhq/vol/11/3/000303/000303.html)
+- Kristen Mapes, [“Teaching Values, Not Definitions: Experiences and Research in the Introductory Digital Humanities Course”](http://www.kristenmapes.com/siue2019/)
+- David “Jack” Norton, [“Making Time: Workflow and Learning Outcomes in DH Assignments”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/f1b1d9a6-974b-46c4-afde-7606bf238fc3#ch25)
+Bethany Nowviskie, [“Evaluating Collaborative Digital Scholarship (or, Where Credit Is Due),”](http://journalofdigitalhumanities.org/1-4/evaluating-collaborative-digital-scholarship-by-bethany-nowviskie/)
+Miriam Posner, [“How Did They Make That?”](http://miriamposner.com/blog/how-did-they-make-that-the-video/)
+Roopika Risam, [*New Digital Worlds : Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*](https://www.jstor.org/stable/j.ctv7tq4hg)
+Lindsay Thomas and Dana Solomon, ["Active Users: Project Development and Digital Humanities Pedagogy"](https://www.jstor.org/stable/44378549) 
+
+#### LibGuides
