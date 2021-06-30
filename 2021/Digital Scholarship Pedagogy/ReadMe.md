@@ -31,9 +31,9 @@ This session will address the processes of developing objectives, scaffolding in
 - Brandon Locke, [“Digital Humanities Pedagogy as Essential Liberal Education: A Framework for Curriculum Development”](http://www.digitalhumanities.org/dhq/vol/11/3/000303/000303.html)
 - Kristen Mapes, [“Teaching Values, Not Definitions: Experiences and Research in the Introductory Digital Humanities Course”](http://www.kristenmapes.com/siue2019/)
 - David “Jack” Norton, [“Making Time: Workflow and Learning Outcomes in DH Assignments”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/f1b1d9a6-974b-46c4-afde-7606bf238fc3#ch25)
-Bethany Nowviskie, [“Evaluating Collaborative Digital Scholarship (or, Where Credit Is Due),”](http://journalofdigitalhumanities.org/1-4/evaluating-collaborative-digital-scholarship-by-bethany-nowviskie/)
-Miriam Posner, [“How Did They Make That?”](http://miriamposner.com/blog/how-did-they-make-that-the-video/)
-Roopika Risam, [*New Digital Worlds : Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*](https://www.jstor.org/stable/j.ctv7tq4hg)
-Lindsay Thomas and Dana Solomon, ["Active Users: Project Development and Digital Humanities Pedagogy"](https://www.jstor.org/stable/44378549) 
+- Bethany Nowviskie, [“Evaluating Collaborative Digital Scholarship (or, Where Credit Is Due),”](http://journalofdigitalhumanities.org/1-4/evaluating-collaborative-digital-scholarship-by-bethany-nowviskie/)
+- Miriam Posner, [“How Did They Make That?”](http://miriamposner.com/blog/how-did-they-make-that-the-video/)
+- Roopika Risam, [*New Digital Worlds : Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*](https://www.jstor.org/stable/j.ctv7tq4hg)
+- Lindsay Thomas and Dana Solomon, ["Active Users: Project Development and Digital Humanities Pedagogy"](https://www.jstor.org/stable/44378549) 
 
 #### LibGuides
