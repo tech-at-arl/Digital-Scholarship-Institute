@@ -5,9 +5,9 @@ This session will address the processes of developing objectives, scaffolding in
 
 ## Preparing for the Workshop
 #### Readings
-- Ryan Cordell [“How Not to Teach the Digital Humanities” ](http://ryancordell.org/teaching/how-not-to-teach-digital-humanities/)
-- Sean Michael Morris [“A Call for Critical Instructional Design”](https://www.seanmichaelmorris.com/a-call-for-critical-instructional-design/?fbclid=IwAR0VZNxMs9NfhUkzRs3siFsA5RyKKsktJrtJqRgWzqwnLXhkLx9pZGrmRw4)
-- David “Jack” Norton [“Making Time: Workflow and Learning Outcomes in DH Assignments”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/f1b1d9a6-974b-46c4-afde-7606bf238fc3#ch25)
+- Ryan Cordell, [“How Not to Teach the Digital Humanities” ](http://ryancordell.org/teaching/how-not-to-teach-digital-humanities/)
+- Sean Michael Morris, [“A Call for Critical Instructional Design”](https://www.seanmichaelmorris.com/a-call-for-critical-instructional-design/?fbclid=IwAR0VZNxMs9NfhUkzRs3siFsA5RyKKsktJrtJqRgWzqwnLXhkLx9pZGrmRw4)
+- David “Jack” Norton, [“Making Time: Workflow and Learning Outcomes in DH Assignments”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/f1b1d9a6-974b-46c4-afde-7606bf238fc3#ch25)
 - John E. Russell and Merinda Kay Hensley, ["Beyond Buttonology: Digital Humanities, Digital Pedagogy, and the ACRL Framework"](https://crln.acrl.org/index.php/crlnews/article/view/16833/18427) 
 
 ## Workshop Outline
