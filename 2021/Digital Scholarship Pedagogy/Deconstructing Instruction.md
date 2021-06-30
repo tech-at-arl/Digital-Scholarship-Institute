@@ -5,7 +5,7 @@ When given a syllabus, assignment, tutorial, or workshop, the groups of three pa
 ### Instruction Material
 1. [Lesson Plan: Social Inequality with ArcGIS Online](https://dlfteach.pubpub.org/pub/social-inequality-arcgis/release/1)
 2. [Workshop Series: "I Want My Students to Make a Digital Archive": Translating Special Collections Assignments to Digital Platforms](https://dlfteach.pubpub.org/pub/digital-archive/release/1)
-3. [Syllabus: Roopika Risam, W.E.B. Du Bois and Digital Humanities] (https://elearning.salemstate.edu/courses/1104221)
+3. [Syllabus: Roopika Risam, W.E.B. Du Bois and Digital Humanities](https://elearning.salemstate.edu/courses/1104221)
 4. [Tutorial: Quinn Dombrowski, Tassie Gniady, and David Kloster, Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks) 
 6. [Workshop: Getting Started with Data Visualization: Tools for Research!](https://dlfteach.pubpub.org/pub/getting-started-data-visualization/release/1) 
 6. [Syllabus: Paul Fyfe, Data and the Human (syllabus)](http://dx.doi.org/10.17613/0h18-5p41) 
