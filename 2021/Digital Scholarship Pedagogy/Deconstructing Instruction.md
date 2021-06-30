@@ -14,7 +14,7 @@ When given a syllabus, assignment, tutorial, or workshop, the groups of three pa
 9. Syllabus: [Kristen Mapes, Introduction to Digital Humanities](http://dx.doi.org/10.17613/cyje-ah39)
 10. Syllabus: [Ted Underwood, Digital Humanities](https://www.dropbox.com/s/7ttph8k95ta59jb/dhsyllabus2019v1.0.pdf?dl=0) 
 
-###Questions
+### Questions
 1. Are the objectives clear, appropriate, measurable? 
 2. Do topics/skill development build upon one another? 
 3. Are students given autonomy? Is experimentation encouraged? Is support provided? 
