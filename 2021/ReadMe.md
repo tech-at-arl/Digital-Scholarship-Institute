@@ -1,4 +1,7 @@
-# ARL Digital Scholarship Insitute 2021
+# ARL Digital Scholarship Insitute, 9-30 July 2021
+
+## Workshop Schedule
+
 
 ## Learning Goals
 The learning goals set forth by the Association of Research Libraries (ARL) Digital Scholarship Institute are meant to uphold the overarching goal of the ARL Academy, which has been created to “foster the development of an agile, diverse and highly-motivated workforce as well as the inspiring leadership necessary to meet present and future challenges.”
