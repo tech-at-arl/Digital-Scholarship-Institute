@@ -23,7 +23,7 @@ This session will address the processes of developing objectives, scaffolding in
 - Anne Cong-Huyen, et. al. [FemTechNet Critical Race & Ethnic Studies Pedagogy Workbook](http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/index)
 - Constance Crompton, Richard J. Lane and Ray Siemens, [*Doing Digital Humanities: Practice, Training, Research*](https://www.routledge.com/Doing-Digital-Humanities-Practice-Training-Research/Crompton-Lane-Siemens/p/book/9781138899445)
 - Rebecca Frost Davis, Matthew K. Gold, Katherine D. Harris, and Jentery Sayers, Eds., [*Digital Pedagogy in the Humanities: Concepts, Models and Experiments*](https://digitalpedagogy.mla.hcommons.org)
-- [*Debates in the Digital Humanities* series](https://dhdebates.gc.cuny.edu/)
+- [*Debates in the Digital Humanities*](https://dhdebates.gc.cuny.edu/) series
 - Jessica DeSpain, [“A Feminist Digital Humanities Pedagogy beyond The Classroom”](https://www.jstor.org/stable/10.5325/trajincschped.26.1.0065)
 - Brett Hirsch, ed. [*Digital Humanities Pedagogy: Practices, Principles and Politics*](https://www.openbookpublishers.com/product/161/digital-humanities-pedagogy--practices--principles-and-politics)
 - Spencer Keralis, [“Disrupting Labor in Digital Humanities; or, The Classroom Is Not Your Crowd”](https://digital.library.unt.edu/ark:/67531/metadc1404251/)
