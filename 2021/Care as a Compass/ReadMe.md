@@ -15,17 +15,14 @@ Please take our pre-workshop survey by July 14, 2021
 https://forms.gle/DcnhQXNMXnhbSMPf8
 
 ### Workshop Agenda
-Introduction and Opening Activity 
-
-Working at the Intersection: Unpacking Social Justice in DS Projects 
- -Defining Care 
- -Engaging Communities and Managing Projects
- -Humanizing Data 
- -Reimaging and repurposing the academy for care 
-
-Break-out Room Activities
-
-Recap and Closing
+* Introduction and Opening Activity 
+* Working at the Intersection: Unpacking Social Justice in DS Projects 
+  * Defining Care 
+  * Engaging Communities and Managing Projects
+  * Humanizing Data 
+  * Reimaging and repurposing the academy for care 
+* Break-out Room Activities
+* Recap and Closing
 
 ### Resources for Further Learning:
 See suggested readings, model projects and other resources:
