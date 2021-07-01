@@ -10,7 +10,7 @@ Participants will learn strategies to:
 * Critically engage data gaps, silences, cultural erasure, and new and/or alternative methodologies and practices.
 * Reflect on how to approach and navigate tools and institutional constraints.
 
-## Homework: Pre-Workshop Survey 
+## Homework- Pre-Workshop Survey 
 Please take our pre-workshop survey by July 14, 2021
 https://forms.gle/DcnhQXNMXnhbSMPf8
 
@@ -24,7 +24,7 @@ https://forms.gle/DcnhQXNMXnhbSMPf8
 * Break-out Room Activities
 * Recap and Closing
 
-## Resources for Further Learning:
+## Resources for Further Learning
 See suggested readings, model projects and other resources:
 https://www.zotero.org/groups/2931435/arl_dsi_2021/items/PEPWDI7I/library
 
