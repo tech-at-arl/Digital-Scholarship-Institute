@@ -31,8 +31,6 @@ https://www.zotero.org/groups/2931435/arl_dsi_2021/items/PEPWDI7I/library
 #### Instructors’ Contact
 This workshop will be led by Cristela, Freddy, and Pamela. Feel free to email us with your workshop questions.
 
-Cristela Garcia-Spitz, Digital Initiatives Librarian and Curator of the Tuzin Archive for Melanesian Anthropology at UC San Diego, cgarciaspitz@ucsd.edu
-
-Freddy Carey, History & Philosophy Librarian at the University of Colorado Boulder, frederick.carey@colorado.edu
-
-Pamela Espinosa de los Monteros, Latin American, Iberian, and Latino/a Studies Librarian at The Ohio State University,  espinosadelosmonteros.1@osu.edu
+* Cristela Garcia-Spitz, Digital Initiatives Librarian and Curator of the Tuzin Archive for Melanesian Anthropology at UC San Diego, cgarciaspitz@ucsd.edu
+* Freddy Carey, History & Philosophy Librarian at the University of Colorado Boulder, frederick.carey@colorado.edu
+* Pamela Espinosa de los Monteros, Latin American, Iberian, and Latino/a Studies Librarian at The Ohio State University,  espinosadelosmonteros.1@osu.edu
