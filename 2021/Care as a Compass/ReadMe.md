@@ -28,7 +28,6 @@ https://forms.gle/DcnhQXNMXnhbSMPf8
 See suggested readings, model projects and other resources:
 https://www.zotero.org/groups/2931435/arl_dsi_2021/items/PEPWDI7I/library
 
-
 #### Instructors’ Contact
 This workshop will be led by Cristela, Freddy, and Pamela. Feel free to email us with your workshop questions.
 
