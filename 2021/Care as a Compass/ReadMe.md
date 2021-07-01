@@ -5,10 +5,10 @@ This workshop will explore how digital scholars can center the community and app
 
 ### Learning Outcomes
 Participants will learn strategies to:
-Engage in crucial conversations with project stakeholders to center care.
-Advocate for community-centered project goals.
-Critically engage data gaps, silences, cultural erasure, and new and/or alternative methodologies and practices.
-Reflect on how to approach and navigate tools and institutional constraints.
+* Engage in crucial conversations with project stakeholders to center care.
+* Advocate for community-centered project goals.
+* Critically engage data gaps, silences, cultural erasure, and new and/or alternative methodologies and practices.
+* Reflect on how to approach and navigate tools and institutional constraints.
 
 ### Homework: Pre-Workshop Survey 
 Please take our pre-workshop survey by July 14, 2021
