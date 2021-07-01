@@ -34,7 +34,7 @@ This session will address the processes of developing objectives, scaffolding in
 - Roopika Risam, [*New Digital Worlds : Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*](https://www.jstor.org/stable/j.ctv7tq4hg) 
 - Lindsay Thomas and Dana Solomon, ["Active Users: Project Development and Digital Humanities Pedagogy"](https://www.jstor.org/stable/44378549) 
 
-#### Sites
+#### Selected Sites
 - Leigh Bonds, [*Digital Humanities LibGuide*: DH Pedagogy](https://guides.osu.edu/DH/dhpedagogy)
 - [*#DLFteach Toolkit*](https://dlfteach.pubpub.org/toolkit)
 - [*The Digital Humanities Literacy Guidebook*](https://cmu-lib.github.io/dhlg/)
