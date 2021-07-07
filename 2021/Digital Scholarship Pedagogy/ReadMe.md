@@ -38,7 +38,7 @@ This session will address the processes of developing objectives, scaffolding in
 - Leigh Bonds, [*Digital Humanities LibGuide*: DH Pedagogy](https://guides.osu.edu/DH/dhpedagogy)
 - [*#DLFteach Toolkit*](https://dlfteach.pubpub.org/toolkit)
 - [*The Digital Humanities Literacy Guidebook*](https://cmu-lib.github.io/dhlg/)
-- [Digital Humanities Pedagogy at CCNY] (https://dhccny.commons.gc.cuny.edu/)
+- [Digital Humanities Pedagogy at CCNY](https://dhccny.commons.gc.cuny.edu/)
 - Digital Humanities Research Institute, The Graduate Center, CUNY, [*Ethics for Digital Projects and Research*](https://github.com/DHRI-Curriculum/ethics) - Haley Di Pressi, Stephanie Gorman, et al., [“A Student Collaborator’s Bill of Rights”](http://www.cdh.ucla.edu/news-events/a-student-collaborators-bill-of-rights/)
 - Georgetown Center for New Designs in Learning and Scholarship, [*Inclusive Pedagogy Toolkit*](https://cndls.georgetown.edu/inclusive-pedagogy/ip-toolkit/introduction/) 
 - [Humanities Commons](https://hcommons.org/)
