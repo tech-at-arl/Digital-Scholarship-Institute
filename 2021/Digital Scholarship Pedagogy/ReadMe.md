@@ -17,6 +17,10 @@ This session will address the processes of developing objectives, scaffolding in
 - Now what? Consulting on Course Integration (~15 min)
 - Q&A (~15 min)
 
+### Workshop Resources
+- [Presentation Notes & Resources] (https://drive.google.com/file/d/1YqDGKT_ayK_Y88WbRsSfGKD11A5f6zTN/view?usp=sharing)
+- [Participant List] (https://docs.google.com/spreadsheets/d/1hsTvwOL4N-MXaUps15sX0ruYCQOy5K7ZX6z2A_1RMUg/edit?usp=sharing)  
+
 ## Additional Resources
 #### Selected Readings
 - Claire Battershill and Shawna Ross, [*Using Digital Humanities in the Classroom*](https://www.bloomsbury.com/uk/using-digital-humanities-in-the-classroom-9781350029750/)
