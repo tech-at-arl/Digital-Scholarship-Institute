@@ -10,14 +10,15 @@ This session will address the processes of developing objectives, scaffolding in
 - David “Jack” Norton, [“Making Time: Workflow and Learning Outcomes in DH Assignments”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/f1b1d9a6-974b-46c4-afde-7606bf238fc3#ch25)
 - John E. Russell and Merinda Kay Hensley, ["Beyond Buttonology: Digital Humanities, Digital Pedagogy, and the ACRL Framework"](https://crln.acrl.org/index.php/crlnews/article/view/16833/18427) 
 
-## Workshop Outline
+## Workshop 
+### Outline
 - DS Pedagogy Basics: Objectives, Scaffolded Instruction, Inclusive Teaching, and Assessment (35 min)
 - [Deconstructing Instruction](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/2021/Digital%20Scholarship%20Pedagogy/Deconstructing%20Instruction.md) (Breakout Activity) + Sharing (~20 min)
 - Break (5 min)
 - Now what? Consulting on Course Integration (~15 min)
 - Q&A (~15 min)
 
-### Workshop Resources
+### Resources
 - [Presentation Notes & Resources] (https://drive.google.com/file/d/1YqDGKT_ayK_Y88WbRsSfGKD11A5f6zTN/view?usp=sharing)
 - [Participant List] (https://docs.google.com/spreadsheets/d/1hsTvwOL4N-MXaUps15sX0ruYCQOy5K7ZX6z2A_1RMUg/edit?usp=sharing)  
 
